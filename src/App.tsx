@@ -87,8 +87,17 @@ export function App() {
   });
 
   useEffect(() => {
-    const scale = zoomLevel === 'normal' ? '100%' : zoomLevel === 'large' ? '125%' : '150%';
-    document.documentElement.style.fontSize = scale;
+    const updateRootFont = () => {
+      if (window.innerWidth < 640) {
+        document.documentElement.style.fontSize = '100%';
+      } else {
+        const scale = zoomLevel === 'normal' ? '100%' : zoomLevel === 'large' ? '125%' : '150%';
+        document.documentElement.style.fontSize = scale;
+      }
+    };
+    updateRootFont();
+    window.addEventListener('resize', updateRootFont);
+    return () => window.removeEventListener('resize', updateRootFont);
   }, [zoomLevel]);
 
   const cycleZoom = () => {
