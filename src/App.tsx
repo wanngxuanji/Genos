@@ -35,10 +35,10 @@ export function App() {
   const getInitialRoute = (): '/' | '/pldc' | '/ktct' => {
     const path = window.location.pathname.toLowerCase();
     const hash = window.location.hash.toLowerCase();
-    if (path.startsWith('/ktct') || hash.startsWith('#/ktct')) {
+    if (path.includes('ktct') || hash.includes('ktct')) {
       return '/ktct';
     }
-    if (path.startsWith('/pldc') || hash.startsWith('#/pldc')) {
+    if (path.includes('pldc') || hash.includes('pldc')) {
       return '/pldc';
     }
     return '/';
@@ -47,16 +47,20 @@ export function App() {
   const [currentRoute, setCurrentRoute] = useState<'/' | '/pldc' | '/ktct'>(getInitialRoute);
 
   useEffect(() => {
-    const handlePopState = () => {
+    const handleRouteSync = () => {
       setCurrentRoute(getInitialRoute());
     };
-    window.addEventListener('popstate', handlePopState);
-    return () => window.removeEventListener('popstate', handlePopState);
+    window.addEventListener('popstate', handleRouteSync);
+    window.addEventListener('hashchange', handleRouteSync);
+    return () => {
+      window.removeEventListener('popstate', handleRouteSync);
+      window.removeEventListener('hashchange', handleRouteSync);
+    };
   }, []);
 
   const navigateToRoute = (route: '/' | '/pldc' | '/ktct') => {
     setCurrentRoute(route);
-    window.history.pushState({}, '', route);
+    window.location.hash = route === '/' ? '' : route;
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
