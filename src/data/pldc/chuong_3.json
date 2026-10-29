@@ -1,0 +1,993 @@
+{
+  "chapter": 3,
+  "title": "Chương 3: Hình thức pháp luật và Hệ thống văn bản quy phạm pháp luật",
+  "total_questions": 29,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Văn bản quy phạm pháp luật có hiệu lực cao nhất, các văn bản quy phạm pháp luật khác không được trái với nó, đó chính là:",
+      "options": {
+        "A": "Bộ luật hình sự",
+        "B": "Luật tổ chức Quốc hội",
+        "C": "Hiến pháp",
+        "D": "Luật tổ chức Chính phủ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bộ luật hình sự",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Luật tổ chức Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hiến pháp",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Luật tổ chức Chính phủ",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Hiến pháp"
+    },
+    {
+      "id": 2,
+      "question": "Pháp lệnh do ai hoặc cơ quan nào ban hành?",
+      "options": {
+        "A": "Chủ tịch nước",
+        "B": "Chính phủ",
+        "C": "Quốc hội",
+        "D": "Ủy ban thường vụ Quốc hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chủ tịch nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chính phủ",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ủy ban thường vụ Quốc hội",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Ủy ban thường vụ Quốc hội"
+    },
+    {
+      "id": 3,
+      "question": "Chỉ thị do cơ quan nào ban hành?",
+      "options": {
+        "A": "Ủy ban nhân dân",
+        "B": "Hội đồng nhân dân",
+        "C": "Chính phủ",
+        "D": "Bộ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ủy ban nhân dân",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hội đồng nhân dân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chính phủ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bộ",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Ủy ban nhân dân"
+    },
+    {
+      "id": 4,
+      "question": "Hiến pháp năm 2013 có hiệu lực thi hành từ thời gian nào?",
+      "options": {
+        "A": "01/01/2013",
+        "B": "01/01/2014",
+        "C": "01/7/2013",
+        "D": "01/7/2014"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "01/01/2013",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "01/01/2014",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "01/7/2013",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "01/7/2014",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "01/01/2014"
+    },
+    {
+      "id": 5,
+      "question": "Khái niệm “Hình thức pháp luật” dùng để chỉ:",
+      "options": {
+        "A": "Ngôn ngữ, nội dung của pháp luật",
+        "B": "Những dạng tồn tại thực tế của pháp luật",
+        "C": "Là cách thức thực hiện pháp luật",
+        "D": "Là tên gọi của các văn bản quy phạm pháp"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ngôn ngữ, nội dung của pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Những dạng tồn tại thực tế của pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là cách thức thực hiện pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là tên gọi của các văn bản quy phạm pháp",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Những dạng tồn tại thực tế của pháp luật"
+    },
+    {
+      "id": 6,
+      "question": "Hình thức pháp luật là hoạt động nào sau đây:",
+      "options": {
+        "A": "Ban hành nhiều văn bản pháp luật khác",
+        "B": "Thực hiện nhiều văn bản pháp luật",
+        "C": "Kiểm tra, giám sát việc thực hiện pháp luật",
+        "D": "Hợp pháp hóa trong các hoạt động làm luật và ban hành pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ban hành nhiều văn bản pháp luật khác",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thực hiện nhiều văn bản pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kiểm tra, giám sát việc thực hiện pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hợp pháp hóa trong các hoạt động làm luật và ban hành pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Hợp pháp hóa trong các hoạt động làm luật và ban hành pháp luật"
+    },
+    {
+      "id": 7,
+      "question": "Trong hoạt động xét xử của tòa án, Tòa án sẽ sử dụng hình thức pháp luật chính nào sau đây?",
+      "options": {
+        "A": "Các điều ước quốc tế",
+        "B": "Tiền lệ pháp",
+        "C": "Tập quán pháp",
+        "D": "Văn bản quy phạm pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các điều ước quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lệ pháp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán pháp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Văn bản quy phạm pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Văn bản quy phạm pháp luật"
+    },
+    {
+      "id": 8,
+      "question": "Cơ sở để hình thành các Công ước quốc tế là?",
+      "options": {
+        "A": "Học tập làm luật giữa các nước",
+        "B": "Tất cả các quốc gia đều có mối quan hệ với nhau từ song phương tới đa phương",
+        "C": "Các khối nước liên hệ với nhau",
+        "D": "Tôn trọng nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Học tập làm luật giữa các nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tất cả các quốc gia đều có mối quan hệ với nhau từ song phương tới đa phương",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Các khối nước liên hệ với nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tôn trọng nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tất cả các quốc gia đều có mối quan hệ với nhau từ song phương tới đa phương"
+    },
+    {
+      "id": 9,
+      "question": "Tòa án chỉ sử dụng các công ước quốc tế khi:",
+      "options": {
+        "A": "Quốc gia đó đã ký kết tuân thủ các Công ước trên phạm vi lãnh thổ của mình",
+        "B": "Được các nước khác đồng ý sử dụng",
+        "C": "Được nhân dân đồng ý sử dụng",
+        "D": "Điều kiện cấp bách"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quốc gia đó đã ký kết tuân thủ các Công ước trên phạm vi lãnh thổ của mình",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Được các nước khác đồng ý sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Được nhân dân đồng ý sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Điều kiện cấp bách",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quốc gia đó đã ký kết tuân thủ các Công ước trên phạm vi lãnh thổ của mình"
+    },
+    {
+      "id": 10,
+      "question": "Ban hành pháp luật thành văn bản, do cơ quan nhà nước có thẩm quyền ban hành là đặc điểm của hình thức pháp luật nào sau đây?",
+      "options": {
+        "A": "Các điều ước quốc tế",
+        "B": "Tiền lệ pháp",
+        "C": "Tập quán pháp",
+        "D": "Văn bản quy phạm pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các điều ước quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lệ pháp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán pháp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Văn bản quy phạm pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Văn bản quy phạm pháp luật"
+    },
+    {
+      "id": 11,
+      "question": "Hình thức pháp luật nào hiện nay được coi là hình thức pháp luật chủ yếu của mọi nhà nước, và được các Tòa án áp dụng trong công tác xét xử?",
+      "options": {
+        "A": "Các điều ước quốc tế",
+        "B": "Tiền lệ pháp",
+        "C": "Tập quán pháp",
+        "D": "Văn bản quy phạm pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các điều ước quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lệ pháp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán pháp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Văn bản quy phạm pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Văn bản quy phạm pháp luật"
+    },
+    {
+      "id": 12,
+      "question": "Ở Việt Nam, hình thức pháp luật nào được xem là phương tiện quan trọng để thể hiện đường lối, chính sách của Đảng Cộng sản Việt Nam?",
+      "options": {
+        "A": "Các điều ước quốc tế",
+        "B": "Tiền lệ pháp",
+        "C": "Tập quán pháp",
+        "D": "Văn bản quy phạm pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các điều ước quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lệ pháp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán pháp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Văn bản quy phạm pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Văn bản quy phạm pháp luật"
+    },
+    {
+      "id": 13,
+      "question": "Yếu tố nào sau đây được xem là linh hồn của các văn bản quy phạm pháp luật ở Việt Nam hiện nay?",
+      "options": {
+        "A": "Nội dung, chữ viết của các văn bản quy phạm pháp luật",
+        "B": "Đường lối, chính sách của Đảng Cộng sản Việt Nam",
+        "C": "Phạm vi áp dụng của luật pháp",
+        "D": "Đối tượng áp dụng của pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nội dung, chữ viết của các văn bản quy phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đường lối, chính sách của Đảng Cộng sản Việt Nam",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Phạm vi áp dụng của luật pháp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đối tượng áp dụng của pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Đường lối, chính sách của Đảng Cộng sản Việt Nam"
+    },
+    {
+      "id": 14,
+      "question": "Ở Việt Nam những ngày như Tết nguyên đán, ngày rằm, các lễ hội được xem là?",
+      "options": {
+        "A": "Tập quán pháp",
+        "B": "Tiền lệ pháp",
+        "C": "Tập quán",
+        "D": "Phong tục"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tập quán pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lệ pháp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Phong tục",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Tập quán"
+    },
+    {
+      "id": 15,
+      "question": "Khái niệm “Tập quán pháp” dùng để chỉ:",
+      "options": {
+        "A": "Những thói quen của một cộng đồng trong thời gian nhất định",
+        "B": "Những thói quen được hình thành từ đời sống làm khuôn mẫu điều chỉnh hành vi của con người",
+        "C": "Những tập quán có riêng ở một số vùng, lãnh thổ",
+        "D": "Pháp luật nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Những thói quen của một cộng đồng trong thời gian nhất định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Những thói quen được hình thành từ đời sống làm khuôn mẫu điều chỉnh hành vi của con người",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Những tập quán có riêng ở một số vùng, lãnh thổ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pháp luật nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Những thói quen được hình thành từ đời sống làm khuôn mẫu điều chỉnh hành vi của con người"
+    },
+    {
+      "id": 16,
+      "question": "Dân tộc hái cấm phụ nữ vào gian thờ cúng tổ tiên là ví dụ về?",
+      "options": {
+        "A": "Phong tục, tập quán",
+        "B": "Thói quen truyền thống",
+        "C": "Tập quán pháp",
+        "D": "Ý thức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phong tục, tập quán",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thói quen truyền thống",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán pháp",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Ý thức",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Tập quán pháp"
+    },
+    {
+      "id": 17,
+      "question": "Hạn chế của tập quán pháp là?",
+      "options": {
+        "A": "Đặc trưng của địa phương, khó áp dụng cho địa phương khác",
+        "B": "Chưa có được sự nghiên cứu khoa học",
+        "C": "Chưa được ghi thành văn bản",
+        "D": "Chưa được luật pháp công nhận"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đặc trưng của địa phương, khó áp dụng cho địa phương khác",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Chưa có được sự nghiên cứu khoa học",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chưa được ghi thành văn bản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chưa được luật pháp công nhận",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Đặc trưng của địa phương, khó áp dụng cho địa phương khác"
+    },
+    {
+      "id": 18,
+      "question": "Hình thức áp dụng cách giải quyết các vụ kiện dựa theo những vụ kiện chưa được nêu trong văn bản pháp luật, song đã từng giải quyết vụ kiện tương tự, hình thức pháp luật đó là?",
+      "options": {
+        "A": "Tập quán pháp",
+        "B": "Tiền lệ pháp",
+        "C": "Tập quán",
+        "D": "Phong tục"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tập quán pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lệ pháp",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tập quán",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phong tục",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tiền lệ pháp"
+    },
+    {
+      "id": 19,
+      "question": "Quốc hội được phép ban hành văn bản nào sau đây?",
+      "options": {
+        "A": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+        "B": "Lệnh, nghị quyết",
+        "C": "Nghị định",
+        "D": "Quyết định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lệnh, nghị quyết",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quyết định",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Hiến Pháp, luật, nghị quyết Quốc hội,"
+    },
+    {
+      "id": 20,
+      "question": "Chủ tịch nước được phép ban hành văn bản pháp luật nào sau đây?",
+      "options": {
+        "A": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+        "B": "Lệnh, nghị quyết",
+        "C": "Nghị định",
+        "D": "Quyết định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lệnh, nghị quyết",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Nghị định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quyết định",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lệnh, nghị quyết"
+    },
+    {
+      "id": 21,
+      "question": "Chính phủ được phép ban hành văn bản pháp luật nào sau đây?",
+      "options": {
+        "A": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+        "B": "Lệnh, nghị quyết",
+        "C": "Nghị định",
+        "D": "Quyết định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lệnh, nghị quyết",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị định",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quyết định",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Nghị định"
+    },
+    {
+      "id": 22,
+      "question": "Thủ tướng chính phủ được phép ban hành văn bản pháp luật nào sau đây?",
+      "options": {
+        "A": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+        "B": "Lệnh, nghị quyết",
+        "C": "Nghị định",
+        "D": "Quyết định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp, luật, nghị quyết Quốc hội,",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lệnh, nghị quyết",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quyết định",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Quyết định"
+    },
+    {
+      "id": 23,
+      "question": "Văn bản luật là những văn bản nào sau đây?",
+      "options": {
+        "A": "Hiến Pháp",
+        "B": "Luật",
+        "C": "Nghị quyết của Quốc hội",
+        "D": "Tất cả các đáp án trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị quyết của Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án trên"
+    },
+    {
+      "id": 24,
+      "question": "Văn bản nào là văn bản dưới luật trong những văn bản dưới đây?",
+      "options": {
+        "A": "Hiến Pháp",
+        "B": "Luật",
+        "C": "Nghị quyết của Quốc hội",
+        "D": "Lệnh, Nghị quyết của Chủ tịch nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị quyết của Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lệnh, Nghị quyết của Chủ tịch nước",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Lệnh, Nghị quyết của Chủ tịch nước"
+    },
+    {
+      "id": 25,
+      "question": "Văn bản pháp luật nào được xem là “đạo luật mẹ” trong hệ thống văn bản pháp luật Việt Nam hiện nay?",
+      "options": {
+        "A": "Hiến Pháp",
+        "B": "Luật",
+        "C": "Nghị quyết của Quốc hội",
+        "D": "Lệnh, Nghị quyết của Chủ tịch nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị quyết của Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lệnh, Nghị quyết của Chủ tịch nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Hiến Pháp"
+    },
+    {
+      "id": 26,
+      "question": "Văn bản hướng dẫn thực hiện Hiến pháp và Pháp luật được gọi là?",
+      "options": {
+        "A": "Hiến Pháp",
+        "B": "Luật",
+        "C": "Nghị quyết của Quốc hội",
+        "D": "Nghị định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị quyết của Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nghị định",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Nghị định"
+    },
+    {
+      "id": 27,
+      "question": "Trong một số trường hợp, Nghị định hướng dẫn thi hành luật cũng chưa áp dụng được thực tiễn nên cần đến loại văn bản luật Hướng dẫn thi hành Nghị định do các Bộ thuộc Chính phủ ban hành, văn bản đó gọi là gì?",
+      "options": {
+        "A": "Hiến Pháp",
+        "B": "Luật",
+        "C": "Nghị định",
+        "D": "Thông Tư hướng dẫn thi hành Nghị định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hiến Pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghị định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thông Tư hướng dẫn thi hành Nghị định",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thông Tư hướng dẫn thi hành Nghị định"
+    },
+    {
+      "id": 28,
+      "question": "Nhận định nào sau đây là KHÔNG chính xác?",
+      "options": {
+        "A": "Pháp luật chỉ có thể được hình thành bằng con đường ban hành của nhà nước.",
+        "B": "Pháp luật không phải là tiêu chí duy nhất để điều chỉnh hành vi con người",
+        "C": "Tiền lệ pháp là việc áp dụng một sự việc đã từng xảy ra",
+        "D": "Pháp luật sử dụng biện pháp cưỡng chế để thực hiện"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Pháp luật chỉ có thể được hình thành bằng con đường ban hành của nhà nước.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Pháp luật không phải là tiêu chí duy nhất để điều chỉnh hành vi con người",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tiền lệ pháp là việc áp dụng một sự việc đã từng xảy ra",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pháp luật sử dụng biện pháp cưỡng chế để thực hiện",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Pháp luật chỉ có thể được hình thành bằng con đường ban hành của nhà nước."
+    },
+    {
+      "id": 29,
+      "question": "Khẳng định nào sau đây là đúng:",
+      "options": {
+        "A": "Tập quán pháp là tập quán được nhà nước thừa nhận",
+        "B": "Tập quán pháp là tập quán có thể được nhà nước thừa nhận hoặc không cần phải được nhà nước thừa nhận",
+        "C": "Tập quán pháp là tập quán có thể được nhà nước thừa nhận hoặc không cần phải được nhà nước thừa nhận; Tập quán pháp là tập quán được nhà nước thừa nhận",
+        "D": "Tập quán nhà nước không thừa nhận"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tập quán pháp là tập quán được nhà nước thừa nhận",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tập quán pháp là tập quán có thể được nhà nước thừa nhận hoặc không cần phải được nhà nước thừa nhận",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập quán pháp là tập quán có thể được nhà nước thừa nhận hoặc không cần phải được nhà nước thừa nhận; Tập quán pháp là tập quán được nhà nước thừa nhận",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tập quán nhà nước không thừa nhận",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Tập quán pháp là tập quán có thể được nhà nước thừa nhận hoặc không cần phải được nhà nước thừa nhận; Tập quán pháp là tập quán được nhà nước thừa nhận"
+    }
+  ]
+}

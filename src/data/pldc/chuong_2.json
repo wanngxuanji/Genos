@@ -1,0 +1,1061 @@
+{
+  "chapter": 2,
+  "title": "Chương 2: Nguồn gốc, bản chất, vai trò của Pháp luật và Ý thức pháp luật",
+  "total_questions": 31,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Luật Giáo dục do cơ quan nào ban hành?",
+      "options": {
+        "A": "Bộ giáo dục và đào tạo",
+        "B": "Quốc hội",
+        "C": "Bộ lao động thương binh và xã hội",
+        "D": "Chính phủ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bộ giáo dục và đào tạo",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quốc hội",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Bộ lao động thương binh và xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chính phủ",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quốc hội"
+    },
+    {
+      "id": 2,
+      "question": "Xét ở khía cạnh trình độ, ý thức pháp luật được chia thành hai loại:",
+      "options": {
+        "A": "ý thức pháp luật thông thường và ý thức pháp luật mang tính lý luận",
+        "B": "ý thức pháp luật cá nhân và ý thức pháp luật nhóm",
+        "C": "ý thức pháp luật lịch sử và ý thức pháp luật hiện tại",
+        "D": "ý thức pháp luật thấp và ý thức pháp luật cao"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "ý thức pháp luật thông thường và ý thức pháp luật mang tính lý luận",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "ý thức pháp luật cá nhân và ý thức pháp luật nhóm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "ý thức pháp luật lịch sử và ý thức pháp luật hiện tại",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "ý thức pháp luật thấp và ý thức pháp luật cao",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "ý thức pháp luật thông thường và ý thức pháp luật mang tính lý luận"
+    },
+    {
+      "id": 3,
+      "question": "Pháp luật được xem là?",
+      "options": {
+        "A": "Những quy tắc ứng xử, xử sự chung của một quốc gia",
+        "B": "Là do con người tự nghĩ ra",
+        "C": "Là do kết quả của đấu tranh giai cấp",
+        "D": "Là một phần của đời sống xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Những quy tắc ứng xử, xử sự chung của một quốc gia",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Là do con người tự nghĩ ra",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là do kết quả của đấu tranh giai cấp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là một phần của đời sống xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Những quy tắc ứng xử, xử sự chung của một quốc gia"
+    },
+    {
+      "id": 4,
+      "question": "Pháp luật thể hiện ý chí của giai cấp nào sau đây?",
+      "options": {
+        "A": "Mọi tầng lớp, giai cấp trong xã hội",
+        "B": "Giai cấp thống trị",
+        "C": "Giai cấp bị trị",
+        "D": "Ý muốn chủ quan của nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mọi tầng lớp, giai cấp trong xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giai cấp thống trị",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giai cấp bị trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ý muốn chủ quan của nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giai cấp thống trị"
+    },
+    {
+      "id": 5,
+      "question": "Lực lượng nào sau đây sẽ đảm bảo Pháp luật được thực hiện?",
+      "options": {
+        "A": "Nhà nước",
+        "B": "Giai cấp thống trị",
+        "C": "Giai cấp bị trị.",
+        "D": "Lực lượng công an, quân đội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giai cấp thống trị",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giai cấp bị trị.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lực lượng công an, quân đội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nhà nước"
+    },
+    {
+      "id": 6,
+      "question": "Xét về mặt khách quan, Pháp luật ra đời là do?",
+      "options": {
+        "A": "Chế độ tư hữu và đấu tranh giai cấp, cùng với sự ra đời của nhà nước",
+        "B": "Nhà nước ban hành pháp luật",
+        "C": "Do ý muốn chủ quan của con người",
+        "D": "Kết quả của những cuộc chiến tranh"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chế độ tư hữu và đấu tranh giai cấp, cùng với sự ra đời của nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước ban hành pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do ý muốn chủ quan của con người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kết quả của những cuộc chiến tranh",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Chế độ tư hữu và đấu tranh giai cấp, cùng với sự ra đời của nhà nước"
+    },
+    {
+      "id": 7,
+      "question": "Về mặt chủ quan, Pháp luật là do?",
+      "options": {
+        "A": "Chế độ tư hữu và đấu tranh giai cấp, cùng với sự ra đời của nhà nước",
+        "B": "Nhà nước ban hành hoặc thừa nhận pháp luật",
+        "C": "Do ý muốn chủ quan của con người",
+        "D": "Kết quả của những cuộc chiến tranh"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chế độ tư hữu và đấu tranh giai cấp, cùng với sự ra đời của nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước ban hành hoặc thừa nhận pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Do ý muốn chủ quan của con người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kết quả của những cuộc chiến tranh",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Nhà nước ban hành hoặc thừa nhận pháp luật"
+    },
+    {
+      "id": 8,
+      "question": "Pháp luật chỉ cách ứng xử mà mọi người phải tuân theo trong những trường hợp nhất định, là tính chất nào sau đây của Pháp luật?",
+      "options": {
+        "A": "Tính cưỡng chế của Pháp luật",
+        "B": "Tính phổ biến",
+        "C": "Tính khách quan",
+        "D": "Tính tương đối ổn định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính cưỡng chế của Pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tính phổ biến",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tính khách quan",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính tương đối ổn định",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tính phổ biến"
+    },
+    {
+      "id": 9,
+      "question": "Văn bản pháp luật cấp dưới không được trái với văn bản cấp trên, là tính chất nào sau đây của Pháp luật?",
+      "options": {
+        "A": "Tính cưỡng chế của Pháp",
+        "B": "Tính phổ biến",
+        "C": "Tính khách quan",
+        "D": "Tính xác định chặt chẽ về hình thức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính cưỡng chế của Pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tính phổ biến",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tính khách quan",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính xác định chặt chẽ về hình thức",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tính xác định chặt chẽ về hình thức"
+    },
+    {
+      "id": 10,
+      "question": "Giữa pháp luật và kinh tế, thì:",
+      "options": {
+        "A": "Kinh tế quyết định đến pháp luật",
+        "B": "Pháp luật quyết định đến kinh tế",
+        "C": "Pháp luật và kinh tế không phụ thuộc vào nhau",
+        "D": "Không ràng buộc nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kinh tế quyết định đến pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Pháp luật quyết định đến kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Pháp luật và kinh tế không phụ thuộc vào nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không ràng buộc nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Kinh tế quyết định đến pháp luật"
+    },
+    {
+      "id": 11,
+      "question": "Phương pháp điều chỉnh hành vi con người của Pháp luật và đạo đức, khác nhau ở chỗ:",
+      "options": {
+        "A": "Pháp luật điều chỉnh bằng tính cưỡng chế, đạo đức bằng ý thức tự giác",
+        "B": "Pháp luật điều chỉnh bằng hình phạt, còn đạo đức điều chỉnh bằng sự phê phán",
+        "C": "Pháp luật điều chỉnh bằng cơ quan nhà nước, đạo đức điều chỉnh bằng xã hội",
+        "D": "Pháp luật thì có thời hạn xét sử, còn đạo đức thì không."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Pháp luật điều chỉnh bằng tính cưỡng chế, đạo đức bằng ý thức tự giác",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Pháp luật điều chỉnh bằng hình phạt, còn đạo đức điều chỉnh bằng sự phê phán",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Pháp luật điều chỉnh bằng cơ quan nhà nước, đạo đức điều chỉnh bằng xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pháp luật thì có thời hạn xét sử, còn đạo đức thì không.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Pháp luật điều chỉnh bằng tính cưỡng chế, đạo đức bằng ý thức tự giác"
+    },
+    {
+      "id": 12,
+      "question": "Để quản lý xã hội, thời kỳ phong kiến Trung Quốc đã sử dụng học thuyết nào sau đây là chủ yếu?",
+      "options": {
+        "A": "Phật giáo",
+        "B": "Nho giáo",
+        "C": "Đạo giáo",
+        "D": "Chủ nghĩa mác xít"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phật giáo",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nho giáo",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Đạo giáo",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chủ nghĩa mác xít",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Nho giáo"
+    },
+    {
+      "id": 13,
+      "question": "Đặc điểm chung trong việc quản lý xã hội của các học thuyết Nho giáo, Đạo giáo, Phật giáo lấy yếu tố nào làm nòng cốt?",
+      "options": {
+        "A": "Nhân nghĩa",
+        "B": "Pháp luật",
+        "C": "Ý thức cá nhân",
+        "D": "Ý thức tập thể"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhân nghĩa",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ý thức cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ý thức tập thể",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nhân nghĩa"
+    },
+    {
+      "id": 14,
+      "question": "Pháp luật không có ở chế độ nào sau đây?",
+      "options": {
+        "A": "Cộng sản nguyên thủy",
+        "B": "Chiếm hữu nô lệ",
+        "C": "Phong kiến",
+        "D": "Tư bản chủ nghĩa"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cộng sản nguyên thủy",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Chiếm hữu nô lệ",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phong kiến",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tư bản chủ nghĩa",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cộng sản nguyên thủy"
+    },
+    {
+      "id": 15,
+      "question": "Bản chất của Pháp luật là?",
+      "options": {
+        "A": "Là hệ thống các văn bản, các quy phạm pháp luật",
+        "B": "Biểu hiện ý chí của giai cấp thống trị",
+        "C": "Là cơ sở để quản lý xã hội",
+        "D": "Là một hình thái ý thức xã hội của con người"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là hệ thống các văn bản, các quy phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Biểu hiện ý chí của giai cấp thống trị",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là cơ sở để quản lý xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là một hình thái ý thức xã hội của con người",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Biểu hiện ý chí của giai cấp thống trị"
+    },
+    {
+      "id": 16,
+      "question": "Chức năng nào KHÔNG phải là chức năng của pháp luật:",
+      "options": {
+        "A": "Chức năng điều chỉnh các quan hệ xã hội",
+        "B": "Chức năng xây dựng và bảo vệ tổ quốc",
+        "C": "Chức năng bảo vệ các quan hệ xã hội",
+        "D": "Chức năng giáo dục"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chức năng điều chỉnh các quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chức năng xây dựng và bảo vệ tổ quốc",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chức năng bảo vệ các quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chức năng giáo dục",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Chức năng xây dựng và bảo vệ tổ quốc"
+    },
+    {
+      "id": 17,
+      "question": "Các thuộc tính của pháp luật là:",
+      "options": {
+        "A": "Tính bắt buộc chung (hay tính quy phạm phổ biến)",
+        "B": "Tính xác định chặt chẽ về mặt hình thức",
+        "C": "Tính bắt buộc chung (hay tính quy phạm phổ biến); Tính xác định chặt chẽ về mặt hình thức",
+        "D": "Thuộc tính xác định về nội dung"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính bắt buộc chung (hay tính quy phạm phổ biến)",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tính xác định chặt chẽ về mặt hình thức",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tính bắt buộc chung (hay tính quy phạm phổ biến); Tính xác định chặt chẽ về mặt hình thức",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Thuộc tính xác định về nội dung",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Tính bắt buộc chung (hay tính quy phạm phổ biến); Tính xác định chặt chẽ về mặt hình thức"
+    },
+    {
+      "id": 18,
+      "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, nhà nước và pháp luật là hai hiện tượng xã hội:",
+      "options": {
+        "A": "Cùng phát sinh, phát triển, cùng tồn tại và tiêu vong.",
+        "B": "Luôn luôn phát sinh, phát triển và tồn tại cùng với xã hội loài người",
+        "C": "Nhà nước có thể bị tiêu vong còn pháp luật thì tồn tại mãi mãi",
+        "D": "Pháp luật có thể bị mất đi còn nhà nước thì cùng tồn tại với xã hội loài người"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cùng phát sinh, phát triển, cùng tồn tại và tiêu vong.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Luôn luôn phát sinh, phát triển và tồn tại cùng với xã hội loài người",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước có thể bị tiêu vong còn pháp luật thì tồn tại mãi mãi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pháp luật có thể bị mất đi còn nhà nước thì cùng tồn tại với xã hội loài người",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cùng phát sinh, phát triển, cùng tồn tại và tiêu vong."
+    },
+    {
+      "id": 19,
+      "question": "Thuộc tính (đặc trưng) nào sau đây là của pháp luật:",
+      "options": {
+        "A": "Tính bắt buộc chung (tính quy phạm phổ biến)",
+        "B": "Bảo vệ các quan hệ xã hội",
+        "C": "Điều chỉnh các quan hệ xã hội",
+        "D": "Tính xác định chặt chẽ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính bắt buộc chung (tính quy phạm phổ biến)",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bảo vệ các quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Điều chỉnh các quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính xác định chặt chẽ",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tính bắt buộc chung (tính quy phạm phổ biến)"
+    },
+    {
+      "id": 20,
+      "question": "Chức năng nào sau đây là của Pháp luật",
+      "options": {
+        "A": "Bảo vệ các quan hệ xã hội",
+        "B": "Tính được đảm bảo thực hiện bằng nhà nước",
+        "C": "Áp đặt các quan hệ xã hội",
+        "D": "Tính xác định chặt chẽ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bảo vệ các quan hệ xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tính được đảm bảo thực hiện bằng nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Áp đặt các quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính xác định chặt chẽ",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Bảo vệ các quan hệ xã hội"
+    },
+    {
+      "id": 21,
+      "question": "Chức năng nào sau đây là của Pháp luật",
+      "options": {
+        "A": "Giáo dục hành vi con người",
+        "B": "Tính được đảm bảo thực hiện bằng nhà nước",
+        "C": "Giác ngộ",
+        "D": "Tác động"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giáo dục hành vi con người",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tính được đảm bảo thực hiện bằng nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giác ngộ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tác động",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giáo dục hành vi con người"
+    },
+    {
+      "id": 22,
+      "question": "Pháp luật là quy tắc xử sự chung, được áp dụng đối với tất cả mọi người là thể hiện đặc trưng nào dưới đây của pháp luật?",
+      "options": {
+        "A": "Tính quy phạm phổ biến.",
+        "B": "Tính phổ cập.",
+        "C": "Tính rộng rãi.",
+        "D": "Tính nhân văn."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính quy phạm phổ biến.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tính phổ cập.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tính rộng rãi.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính nhân văn.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tính quy phạm phổ biến."
+    },
+    {
+      "id": 23,
+      "question": "Pháp luật không quy định về những việc nào dưới đây ?",
+      "options": {
+        "A": "Nên làm",
+        "B": "Được làm.",
+        "C": "Phải làm",
+        "D": "Không được làm."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nên làm",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Được làm.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phải làm",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không được làm.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nên làm"
+    },
+    {
+      "id": 24,
+      "question": "Một trong những đặc trưng của pháp luật thể hiện ở",
+      "options": {
+        "A": "Tính quyền lực, bắt buộc chung.",
+        "B": "Tính hiện đại.",
+        "C": "Tnh cơ bản",
+        "D": "Tính truyền thống."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính quyền lực, bắt buộc chung.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tính hiện đại.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tnh cơ bản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính truyền thống.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tính quyền lực, bắt buộc chung."
+    },
+    {
+      "id": 25,
+      "question": "Để quản lí xã hội, Nhà nước cần sử dụng phương tiện quan trọng nhất nào dưới đây?",
+      "options": {
+        "A": "Pháp luật",
+        "B": "Giáo dục.",
+        "C": "Thuyết phục",
+        "D": "Tuyên truyền."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giáo dục.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thuyết phục",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tuyên truyền.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Pháp luật"
+    },
+    {
+      "id": 26,
+      "question": "Các quy phạm pháp luật do Nhà nước ban hành phù hợp với lợi ích của giai cấp cầm quyền là thể hiện bản chất nào dưới đây của phâp luật?",
+      "options": {
+        "A": "Bản chất xã hội.",
+        "B": "Bản chất giai cấp.",
+        "C": "Bản chất nhân dân.",
+        "D": "Bản chất dân tộc."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bản chất xã hội.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bản chất giai cấp.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Bản chất nhân dân.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bản chất dân tộc.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Bản chất giai cấp."
+    },
+    {
+      "id": 27,
+      "question": "Pháp luật có tính quyền lực, bắt buộc chung, nghĩa là quy định bắt buộc đối với:",
+      "options": {
+        "A": "Mọi người từ 20 tuổi trở lên.",
+        "B": "Mọi cá nhân tổ chức.",
+        "C": "Mọi đối tượng cần thiết.",
+        "D": "Mọi cán bộ, công chức."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mọi người từ 20 tuổi trở lên.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mọi cá nhân tổ chức.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Mọi đối tượng cần thiết.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mọi cán bộ, công chức.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Mọi cá nhân tổ chức."
+    },
+    {
+      "id": 28,
+      "question": "Pháp luật phản ánh những nhu cầu, lợi ích của giai cấp, tầng lớp khác nhau trong xã hội là thể hiện bản chất nào dưới đây của pháp luật?",
+      "options": {
+        "A": "Bản chất xã hội.",
+        "B": "Bản chất giai cấp.",
+        "C": "Bản chất nhân dân.",
+        "D": "Bản chất hiện đại."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bản chất xã hội.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bản chất giai cấp.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bản chất nhân dân.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bản chất hiện đại.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Bản chất xã hội."
+    },
+    {
+      "id": 29,
+      "question": "Luật Hôn nhân và gia đình năm 2014 quy định nam, nữ khi kết hôn với nhau phải tuân theo điều kiện: “Việc kết hôn phải được đăng kí và do cơ quan nhà nước có thẩm quyền thực hiện”, là thể hiện đặc trưng nào dưới đây của pháp luật ?",
+      "options": {
+        "A": "Tính nghiêm túc.",
+        "B": "Tính quy phạm phổ biến.",
+        "C": "Tính nhân dân và xã hội.",
+        "D": "Tính quần chúng rộng rãi."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính nghiêm túc.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tính quy phạm phổ biến.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tính nhân dân và xã hội.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tính quần chúng rộng rãi.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tính quy phạm phổ biến."
+    },
+    {
+      "id": 30,
+      "question": "Khoản 2 Điều 69 Luật Hôn nhân và gia đình năm 2014 quy định về nghĩa vụ của cha ẹ: “Trông nom, nuôi dưỡng, chăm sóc, bảo vệ quyền và lợi ích hợp pháp của con chưa thành niên” là thể hiện mối quan hệ giữa pháp luật với:",
+      "options": {
+        "A": "Kinh tế",
+        "B": "Đạo đức.",
+        "C": "Chính trị",
+        "D": "Văn hóa."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đạo đức.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chính trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Văn hóa.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Đạo đức."
+    },
+    {
+      "id": 31,
+      "question": "Pháp luật có vai trò như thế nào đối với công dân ?",
+      "options": {
+        "A": "Bảo vệ quyền tự do tuyệt đối của công dân",
+        "B": "Bảo vệ quyền và lợi ích hợp pháp của công dân.",
+        "C": "Bảo vệ lợi ích của công dân.",
+        "D": "Bảo vệ mọi nhu cầu của công dân."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bảo vệ quyền tự do tuyệt đối của công dân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bảo vệ quyền và lợi ích hợp pháp của công dân.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Bảo vệ lợi ích của công dân.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bảo vệ mọi nhu cầu của công dân.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Bảo vệ quyền và lợi ích hợp pháp của công dân."
+    }
+  ]
+}

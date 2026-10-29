@@ -1,0 +1,1617 @@
+{
+  "chapter": 4,
+  "title": "Chương 4: Cạnh tranh và độc quyền trong nền kinh tế thị trường",
+  "total_questions": 46,
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 4,
+      "question": "Nguyên nhân ra đời của CNTB độc quyền là:",
+      "options": {
+        "A": "Do cuộc đấu tranh của GCCN và nhân dân lao động",
+        "B": "Do sự can thiệp của nhà nước tư sản",
+        "C": "Do sự tập trung sản xuất dưới tác động của cuộc cách mạng KH – CN",
+        "D": "Do cạnh tranh."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do cuộc đấu tranh của GCCN và nhân dân lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do sự can thiệp của nhà nước tư sản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do sự tập trung sản xuất dưới tác động của cuộc cách mạng KH – CN",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Do cạnh tranh.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Do sự tập trung sản xuất dưới tác động của cuộc cách mạng KH – CN"
+    },
+    {
+      "id": 2,
+      "chapter": 4,
+      "question": "Mối quan hệ giữa độc quyền và cạnh tranh:",
+      "options": {
+        "A": "Làm cho cạnh tranh gay gắt hơn",
+        "B": "Thủ tiêu cạnh tranh",
+        "C": "Cạnh tranh giảm đi",
+        "D": "Không có mối quan hệ với nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Làm cho cạnh tranh gay gắt hơn",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Thủ tiêu cạnh tranh",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cạnh tranh giảm đi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không có mối quan hệ với nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Làm cho cạnh tranh gay gắt hơn"
+    },
+    {
+      "id": 3,
+      "chapter": 4,
+      "question": "Xuất khẩu tư bản là:",
+      "options": {
+        "A": "Xuất khẩu KH – CN",
+        "B": "Xuất khẩu lao động",
+        "C": "Xuất khẩu hàng hóa",
+        "D": "Đầu tư tư bản ra nước ngoài"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xuất khẩu KH – CN",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Xuất khẩu lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xuất khẩu hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đầu tư tư bản ra nước ngoài",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Đầu tư tư bản ra nước ngoài"
+    },
+    {
+      "id": 4,
+      "chapter": 4,
+      "question": "Xuất khẩu hàng hóa là:",
+      "options": {
+        "A": "Đưa hàng hóa ra nước ngoài",
+        "B": "Đưa hàng hóa ra bán ở nước ngoài để thực hiện giá trị",
+        "C": "Xuất khẩu giá trị ra nước ngoài",
+        "D": "Đem hàng hóa ra nước ngoài để quảng cáo"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đưa hàng hóa ra nước ngoài",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đưa hàng hóa ra bán ở nước ngoài để thực hiện giá trị",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Xuất khẩu giá trị ra nước ngoài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đem hàng hóa ra nước ngoài để quảng cáo",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Đưa hàng hóa ra bán ở nước ngoài để thực hiện giá trị"
+    },
+    {
+      "id": 5,
+      "chapter": 4,
+      "question": "Đầu tư tư bản ra nước ngoài và xuất khẩu tư bản là:",
+      "options": {
+        "A": "Một hình thức đầu tư, khác nhau về tên gọi",
+        "B": "Hai hình thức đầu tư khác nhau",
+        "C": "Tên gọi của đầu tư nước ngoài trong những điều kiện khác nhau",
+        "D": "Giống nhau về mục đích, khác nhau về phương thức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Một hình thức đầu tư, khác nhau về tên gọi",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hai hình thức đầu tư khác nhau",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tên gọi của đầu tư nước ngoài trong những điều kiện khác nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giống nhau về mục đích, khác nhau về phương thức",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Giống nhau về mục đích, khác nhau về phương thức"
+    },
+    {
+      "id": 6,
+      "chapter": 4,
+      "question": "Vì sao trong CNTB độc quyền cạnh tranh không bị thủ tiêu?",
+      "options": {
+        "A": "Vì tổ chức độc quyền cạnh tranh với các công ty ngoài độc quyền",
+        "B": "Vì các tổ chức độc quyền cạnh tranh với nhau",
+        "C": "Vì cạnh tranh là quy luật khách quan của nền kinh tế hàng hóa",
+        "D": "Vì xí nghiệp trong nội bộ tổ chức độc quyền cạnh tranh với nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vì tổ chức độc quyền cạnh tranh với các công ty ngoài độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Vì các tổ chức độc quyền cạnh tranh với nhau",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vì cạnh tranh là quy luật khách quan của nền kinh tế hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Vì xí nghiệp trong nội bộ tổ chức độc quyền cạnh tranh với nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Vì cạnh tranh là quy luật khách quan của nền kinh tế hàng hóa"
+    },
+    {
+      "id": 7,
+      "chapter": 4,
+      "question": "Trong giai đoạn CNTB độc quyền có những hình thức cạnh tranh nào?",
+      "options": {
+        "A": "Cạnh tranh trong nội bộ tổ chức độc quyền",
+        "B": "Cạnh tranh giữa các tổ chức độc quyền với nhau",
+        "C": "Cạnh tranh giữa tổ chức độc quyền với xí nghiệp ngoài độc quyền",
+        "D": "Tất cả các hình thức cạnh tranh trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cạnh tranh trong nội bộ tổ chức độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cạnh tranh giữa các tổ chức độc quyền với nhau",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cạnh tranh giữa tổ chức độc quyền với xí nghiệp ngoài độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các hình thức cạnh tranh trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các hình thức cạnh tranh trên"
+    },
+    {
+      "id": 8,
+      "chapter": 4,
+      "question": "Trong giai đoạn CNTB độc quyền:",
+      "options": {
+        "A": "Quy luật giá trị vẫn hoạt động",
+        "B": "Quy luật giá trị không hoạt động",
+        "C": "Quy luật giá trị hoạt động kém hiệu quả",
+        "D": "Quy luật giá trị lúc hoạt động, lúc không."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy luật giá trị vẫn hoạt động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy luật giá trị không hoạt động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy luật giá trị hoạt động kém hiệu quả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quy luật giá trị lúc hoạt động, lúc không.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quy luật giá trị vẫn hoạt động"
+    },
+    {
+      "id": 9,
+      "chapter": 4,
+      "question": "Trong thời kỳ CNTB độc quyền:",
+      "options": {
+        "A": "Đời sống của GCCN và nhân dân lao động dần dần được cải thiện",
+        "B": "Mâu thuẫn giữa GCVS và GCTS ngày càng sâu sắc hơn",
+        "C": "Mâu thuẫn giữa GCVS và GCTS có phần dịu đi",
+        "D": "Mâu thuẫn giữa GCTS và vô sản không thay đổi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đời sống của GCCN và nhân dân lao động dần dần được cải thiện",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mâu thuẫn giữa GCVS và GCTS ngày càng sâu sắc hơn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Mâu thuẫn giữa GCVS và GCTS có phần dịu đi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mâu thuẫn giữa GCTS và vô sản không thay đổi",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Mâu thuẫn giữa GCVS và GCTS ngày càng sâu sắc hơn"
+    },
+    {
+      "id": 10,
+      "chapter": 4,
+      "question": "Sự xuất hiện của CNTB độc quyền nhà nước làm cho:",
+      "options": {
+        "A": "Mâu thuẫn giữa GCVS và GCTS giảm đi",
+        "B": "Mâu thuẫn giữa GCVS và GCTS sâu sắc hơn",
+        "C": "Làm hạn chế tác động tiêu cực của độc quyền",
+        "D": "Giữa GCTS và GCVS không còn mâu thuẫn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mâu thuẫn giữa GCVS và GCTS giảm đi",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mâu thuẫn giữa GCVS và GCTS sâu sắc hơn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Làm hạn chế tác động tiêu cực của độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giữa GCTS và GCVS không còn mâu thuẫn",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Mâu thuẫn giữa GCVS và GCTS sâu sắc hơn"
+    },
+    {
+      "id": 11,
+      "chapter": 4,
+      "question": "Phương thức sản xuất TBCN gồm có 2 giai đoạn. Đó là:",
+      "options": {
+        "A": "CNTB tự do cạnh tranh và CNTB độc quyền",
+        "B": "CNTB tự do cạnh tranh và CNTB hiện đại",
+        "C": "CNTB hiện đại và CNTB độc quyền",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "CNTB tự do cạnh tranh và CNTB độc quyền",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "CNTB tự do cạnh tranh và CNTB hiện đại",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "CNTB hiện đại và CNTB độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "CNTB tự do cạnh tranh và CNTB độc quyền"
+    },
+    {
+      "id": 12,
+      "chapter": 4,
+      "question": "Nhà kinh điển nào sau đây nghiên cứu sâu về CNTB độc quyền?",
+      "options": {
+        "A": "C. Mác",
+        "B": "Ph. Ăngghen",
+        "C": "V.I. Lenin",
+        "D": "C. Mác và Ăngghen"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "C. Mác",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ph. Ăngghen",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "V.I. Lenin",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "C. Mác và Ăngghen",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "V.I. Lenin"
+    },
+    {
+      "id": 13,
+      "chapter": 4,
+      "question": "CNTB độc quyền xuất hiện vào thời kỳ lịch sử nào?",
+      "options": {
+        "A": "Cuối thế kỷ 17 đầu thế kỷ 18",
+        "B": "Cuối thế kỷ 18 đầu thế kỷ 19",
+        "C": "Cuối thế kỷ 19 đầu thế kỷ 20",
+        "D": "Tất cả các phương án đều sai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cuối thế kỷ 17 đầu thế kỷ 18",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cuối thế kỷ 18 đầu thế kỷ 19",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cuối thế kỷ 19 đầu thế kỷ 20",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các phương án đều sai",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cuối thế kỷ 19 đầu thế kỷ 20"
+    },
+    {
+      "id": 14,
+      "chapter": 4,
+      "question": "Các thành viên tham gia vào Cácten sẽ thống nhất với nhau về:",
+      "options": {
+        "A": "Tiêu thụ hàng hóa",
+        "B": "Sản xuất hàng hóa",
+        "C": "Các yếu tố đầu vào",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiêu thụ hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các yếu tố đầu vào",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tiêu thụ hàng hóa"
+    },
+    {
+      "id": 15,
+      "chapter": 4,
+      "question": "Các thành viên tham gia vào Xanhđica thống nhất với nhau về:",
+      "options": {
+        "A": "Mua hàng hóa",
+        "B": "Sản xuất hàng hóa",
+        "C": "Tiêu thụ hàng hóa",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mua hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tiêu thụ hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Mua hàng hóa"
+    },
+    {
+      "id": 16,
+      "chapter": 4,
+      "question": "Ý nào dưới đây thể hiện đặc điểm của xuất khẩu tư bản là:",
+      "options": {
+        "A": "Đầu tư trực tiếp ra nước ngoài, Cho nước ngoài vay",
+        "B": "Mang hàng hóa ra bán ở nước ngoài, cho nước ngoài vay",
+        "C": "Mang hàng hóa ra bán ở nước ngoài để thực hiện giá trị",
+        "D": "Mang hàng hóa ra nước ngoài để quảng cáo"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đầu tư trực tiếp ra nước ngoài, Cho nước ngoài vay",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mang hàng hóa ra bán ở nước ngoài, cho nước ngoài vay",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mang hàng hóa ra bán ở nước ngoài để thực hiện giá trị",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Mang hàng hóa ra nước ngoài để quảng cáo",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Mang hàng hóa ra bán ở nước ngoài để thực hiện giá trị"
+    },
+    {
+      "id": 17,
+      "chapter": 4,
+      "question": "Hình thức tổ chức độc quyền nào độc lập về khâu sản xuất?",
+      "options": {
+        "A": "Cácten và Xanhđica",
+        "B": "Cácten và Tơrớt",
+        "C": "Cácten và Consơn",
+        "D": "Xanhđica và Tơrớt"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cácten và Xanhđica",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Cácten và Tơrớt",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cácten và Consơn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Xanhđica và Tơrớt",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cácten và Xanhđica"
+    },
+    {
+      "id": 18,
+      "chapter": 4,
+      "question": "Công ty Samsung của Hàn Quốc đầu tư xây dựng nhà máy tại Việt Nam. Đây là hình thức xuất khẩu tư bản nào?",
+      "options": {
+        "A": "Xuất khẩu tư bản gián tiếp",
+        "B": "Xuất khẩu tư bản trực tiếp",
+        "C": "Xuất khẩu tư bản nhà nước",
+        "D": "Tất cả đáp án đều sai( phải là xuất khẩu tư bản tư nhân)"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xuất khẩu tư bản gián tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Xuất khẩu tư bản trực tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xuất khẩu tư bản nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đáp án đều sai( phải là xuất khẩu tư bản tư nhân)",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả đáp án đều sai( phải là xuất khẩu tư bản tư nhân)"
+    },
+    {
+      "id": 19,
+      "chapter": 4,
+      "question": "CNTB độc quyền là ?",
+      "options": {
+        "A": "Một phương thức sản xuất mới",
+        "B": "Một giai đoạn phát triển của PTSX TBCN..",
+        "C": "Một hình thức kinh tế xã hội",
+        "D": "Một nấc thang phát triển của LLSX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Một phương thức sản xuất mới",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Một giai đoạn phát triển của PTSX TBCN..",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Một hình thức kinh tế xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Một nấc thang phát triển của LLSX",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Một nấc thang phát triển của LLSX"
+    },
+    {
+      "id": 20,
+      "chapter": 4,
+      "question": "Cơ chế kinh tế của CNTB độc quyền nhà nước gồm :",
+      "options": {
+        "A": "Cơ chế thị trường và độc quyền tư nhân",
+        "B": "Độc quyền tư nhân và sự điều tiết của nhà nước",
+        "C": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước",
+        "D": "Cơ chế thị trường và sự điều tiết của nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cơ chế thị trường và độc quyền tư nhân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Độc quyền tư nhân và sự điều tiết của nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cơ chế thị trường và sự điều tiết của nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước"
+    },
+    {
+      "id": 21,
+      "chapter": 4,
+      "question": "Trong giai đoạn CNTB tự do cạnh tranh quy luật giá trị thặng dư biểu hiện thành:",
+      "options": {
+        "A": "Qui luật giá cả sản xuất",
+        "B": "Qui luật tỷ suất lợi nhuận bình quân",
+        "C": "Qui luật tỷ suất lợi nhuận độc quyền cao",
+        "D": "Qui luật tích lũy tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Qui luật giá cả sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Qui luật tỷ suất lợi nhuận bình quân",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Qui luật tỷ suất lợi nhuận độc quyền cao",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Qui luật tích lũy tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Qui luật tỷ suất lợi nhuận bình quân"
+    },
+    {
+      "id": 22,
+      "chapter": 4,
+      "question": "Chọn các ý đúng dưới đây khi nói về CNTB độc quyền:",
+      "options": {
+        "A": "Do độc quyền thống trị nên không còn cạnh tranh.",
+        "B": "Vẫn còn cạnh tranh nhưng cạnh tranh đỡ gay gắt hơn.",
+        "C": "Chỉ còn cạnh tranh giữa các ngành, không còn cạnh tranh trong nội bộ ngành.",
+        "D": "Cạnh tranh có những hình thức mới."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do độc quyền thống trị nên không còn cạnh tranh.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Vẫn còn cạnh tranh nhưng cạnh tranh đỡ gay gắt hơn.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chỉ còn cạnh tranh giữa các ngành, không còn cạnh tranh trong nội bộ ngành.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cạnh tranh có những hình thức mới.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Cạnh tranh có những hình thức mới."
+    },
+    {
+      "id": 23,
+      "chapter": 4,
+      "question": "Chủ thể xuất khẩu tư bản của CNTB ngày nay chủ yếu là:",
+      "options": {
+        "A": "Các nhà tư bản tư nhân",
+        "B": "Các tổ chức độc quyền tư nhân trong một nước",
+        "C": "Các tổ chức độc quyền xuyên quốc gia",
+        "D": "Nhà nước tư sản."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các nhà tư bản tư nhân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các tổ chức độc quyền tư nhân trong một nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các tổ chức độc quyền xuyên quốc gia",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước tư sản.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Các tổ chức độc quyền xuyên quốc gia"
+    },
+    {
+      "id": 24,
+      "chapter": 4,
+      "question": "Trong CNTB ngày nay, xuất khẩu tư bản chủ yếu theo hướng:",
+      "options": {
+        "A": "Nước TB phát triển xuất khẩu sang các nước kém phát triển.",
+        "B": "Các nước tư bản phát triển xuất khẩu lẫn nhau",
+        "C": "Các nước kém phát triển xuất khẩu lẫn nhau",
+        "D": "Các nước kém phát triển xuất khẩu sang các nước TB phát triển"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nước TB phát triển xuất khẩu sang các nước kém phát triển.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các nước tư bản phát triển xuất khẩu lẫn nhau",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Các nước kém phát triển xuất khẩu lẫn nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Các nước kém phát triển xuất khẩu sang các nước TB phát triển",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Các nước tư bản phát triển xuất khẩu lẫn nhau"
+    },
+    {
+      "id": 25,
+      "chapter": 4,
+      "question": "Trong CNTB ngày nay, các trùm tài chính thống trị nền kinh tế thông qua:",
+      "options": {
+        "A": "Chế độ tham dự",
+        "B": "Chế độ uỷ nhiệm",
+        "C": "Kết hợp chế độ tham dự với chế độ uỷ nhiệm",
+        "D": "Các tổ chức tài chính quốc tế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chế độ tham dự",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chế độ uỷ nhiệm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kết hợp chế độ tham dự với chế độ uỷ nhiệm",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các tổ chức tài chính quốc tế",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Kết hợp chế độ tham dự với chế độ uỷ nhiệm"
+    },
+    {
+      "id": 26,
+      "chapter": 4,
+      "question": "Hình thức tổ chức và cơ chế thống trị của tư bản tài chính trong CNTB ngày nay thay đổi là do:",
+      "options": {
+        "A": "Lực lượng sản xuất phát triển, nhiều ngành mới xuất hiện",
+        "B": "ý muốn thống trị của tư bản tài chính",
+        "C": "Mục đích thu lợi nhuận độc quyền",
+        "D": "Sự điều tiết của nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lực lượng sản xuất phát triển, nhiều ngành mới xuất hiện",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "ý muốn thống trị của tư bản tài chính",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mục đích thu lợi nhuận độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sự điều tiết của nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lực lượng sản xuất phát triển, nhiều ngành mới xuất hiện"
+    },
+    {
+      "id": 27,
+      "chapter": 4,
+      "question": "Cơ chế kinh tế của CNTB độc quyền nhà nước gồm:",
+      "options": {
+        "A": "Cơ chế thị trường và độc quyền tư nhân",
+        "B": "Độc quyền tư nhân và sự điều tiết của nhà nước",
+        "C": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước",
+        "D": "Cơ chế thị trường và sự điều tiết của nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cơ chế thị trường và độc quyền tư nhân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Độc quyền tư nhân và sự điều tiết của nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cơ chế thị trường và sự điều tiết của nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cơ chế thị trường, độc quyền tư nhân và sự can thiệp của nhà nước"
+    },
+    {
+      "id": 28,
+      "chapter": 4,
+      "question": "Sở hữu độc quyền nhà nước là sự kết hợp của:",
+      "options": {
+        "A": "Sở hữu nhà nước và sở hữu tư nhân TBCN",
+        "B": "Sở hữu nhà nước và sở hữu độc quyền tư nhân",
+        "C": "Sở hữu của nhà nước tư sản",
+        "D": "Sở hữu của nhiều nước tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sở hữu nhà nước và sở hữu tư nhân TBCN",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sở hữu nhà nước và sở hữu độc quyền tư nhân",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sở hữu của nhà nước tư sản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sở hữu của nhiều nước tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sở hữu nhà nước và sở hữu độc quyền tư nhân"
+    },
+    {
+      "id": 29,
+      "chapter": 4,
+      "question": "CNTB độc quyền nhà nước là:",
+      "options": {
+        "A": "Một quan hệ kinh tế, chính trị, xã hội",
+        "B": "Một chính sách trong giai đoạn độc quyền",
+        "C": "Một kiểu tổ chức kinh tế - xã hội",
+        "D": "Một cơ chế điều tiết của nhà nước tư sản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Một quan hệ kinh tế, chính trị, xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Một chính sách trong giai đoạn độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Một kiểu tổ chức kinh tế - xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Một cơ chế điều tiết của nhà nước tư sản",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Một quan hệ kinh tế, chính trị, xã hội"
+    },
+    {
+      "id": 30,
+      "chapter": 4,
+      "question": "Trong cơ chế của CNTB độc quyền nhà nước thì:",
+      "options": {
+        "A": "Tổ chức độc quyền phụ thuộc vào nhà nước.",
+        "B": "Nhà nước phụ thuộc vào tổ chức độc quyền",
+        "C": "Nhà nước không phụ thuộc vào tổ chức độc quyền",
+        "D": "Nhà nước chi phối tổ chức độc quyền"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tổ chức độc quyền phụ thuộc vào nhà nước.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước phụ thuộc vào tổ chức độc quyền",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước không phụ thuộc vào tổ chức độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước chi phối tổ chức độc quyền",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Nhà nước phụ thuộc vào tổ chức độc quyền"
+    },
+    {
+      "id": 31,
+      "chapter": 4,
+      "question": "Sự ra đời của CNTB độc quyền nhà nước nhằm mục đích:",
+      "options": {
+        "A": "Phục vụ lợi ích của CNTB",
+        "B": "Phục vụ lợi ích của tổ chức độc quyền tư nhân",
+        "C": "Phục vụ lợi ích của nhà nước tư sản",
+        "D": "Phục vụ lợi ích của tổ chức độc quyền tư nhân và cứu nguy cho CNTB"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phục vụ lợi ích của CNTB",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phục vụ lợi ích của tổ chức độc quyền tư nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phục vụ lợi ích của nhà nước tư sản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phục vụ lợi ích của tổ chức độc quyền tư nhân và cứu nguy cho CNTB",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Phục vụ lợi ích của tổ chức độc quyền tư nhân và cứu nguy cho CNTB"
+    },
+    {
+      "id": 32,
+      "chapter": 4,
+      "question": "Bản chất của CNTB độc quyền nhà nước là:",
+      "options": {
+        "A": "Sự kết hợp tổ chức độc quyền tư nhân và nhà nước tư sản",
+        "B": "Nhà nước tư sản can thiệp vào kinh tế, chi phối độc quyền",
+        "C": "Các tổ chức độc quyền phụ thuộc vào nhà nước",
+        "D": "Sự thoả hiệp giữa nhà nước và tổ chức độc quyền"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sự kết hợp tổ chức độc quyền tư nhân và nhà nước tư sản",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước tư sản can thiệp vào kinh tế, chi phối độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các tổ chức độc quyền phụ thuộc vào nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sự thoả hiệp giữa nhà nước và tổ chức độc quyền",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Sự kết hợp tổ chức độc quyền tư nhân và nhà nước tư sản"
+    },
+    {
+      "id": 33,
+      "chapter": 4,
+      "question": "Nguyên nhân hình thành lợi nhuận độc quyền là:",
+      "options": {
+        "A": "Do cạnh tranh nội bộ ngành",
+        "B": "Do sự thèm khát giá trị thặng dư của các nhà tư bản",
+        "C": "Do địa vị độc quyền đem lại",
+        "D": "Do Nhà nước quyết định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do cạnh tranh nội bộ ngành",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do sự thèm khát giá trị thặng dư của các nhà tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do địa vị độc quyền đem lại",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Do Nhà nước quyết định",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Do địa vị độc quyền đem lại"
+    },
+    {
+      "id": 34,
+      "chapter": 4,
+      "question": "Các tổ chức độc quyền sử dụng giá cả độc quyền để:",
+      "options": {
+        "A": "Chiếm đoạt giá trị thặng dư của người khác",
+        "B": "Khống chế thị trường",
+        "C": "Gây thiệt hại cho các đối thủ cạnh tranh",
+        "D": "Củng cố vai trò tổ chức độc quyền"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chiếm đoạt giá trị thặng dư của người khác",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Khống chế thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Gây thiệt hại cho các đối thủ cạnh tranh",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Củng cố vai trò tổ chức độc quyền",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Chiếm đoạt giá trị thặng dư của người khác"
+    },
+    {
+      "id": 35,
+      "chapter": 4,
+      "question": "Khi CNTB độc quyền ra đời sẽ:",
+      "options": {
+        "A": "Phủ định các quy luật trong giai đoạn CNTB tự do cạnh tranh",
+        "B": "Phủ định các quy luật kinh tế của sản xuất hàng hoá",
+        "C": "Làm cho các quy luật kinh tế của sản xuất hàng hoá và của CNTB có hình thức biểu hiện mới",
+        "D": "Không làm thay đổi các quy luật kinh tế nói chung."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phủ định các quy luật trong giai đoạn CNTB tự do cạnh tranh",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phủ định các quy luật kinh tế của sản xuất hàng hoá",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Làm cho các quy luật kinh tế của sản xuất hàng hoá và của CNTB có hình thức biểu hiện mới",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Không làm thay đổi các quy luật kinh tế nói chung.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Làm cho các quy luật kinh tế của sản xuất hàng hoá và của CNTB có hình thức biểu hiện mới"
+    },
+    {
+      "id": 36,
+      "chapter": 4,
+      "question": "Kết quả cạnh tranh giữa các tổ chức độc quyền trong cùng một ngành là:",
+      "options": {
+        "A": "Một sự thoả hiệp",
+        "B": "Một bên phá sản",
+        "C": "Hai bên cùng phát triển",
+        "D": "Một sự thoả hiệp hoặc một bên phá sản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Một sự thoả hiệp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Một bên phá sản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hai bên cùng phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Một sự thoả hiệp hoặc một bên phá sản",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Một sự thoả hiệp hoặc một bên phá sản"
+    },
+    {
+      "id": 37,
+      "chapter": 4,
+      "question": "Chọn nhận định đúng trong các nhận định dưới đây?",
+      "options": {
+        "A": "Độc quyền là con đẻ của cạnh tranh, đối lập với cạnh tranh và thủ tiêu cạnh tranh",
+        "B": "Độc quyền là con đẻ của cạnh tranh, đối lập với cạnh tranh nhưng không thủ tiêu cạnh tranh.",
+        "C": "Cạnh tranh sinh ra độc quyền, chúng không đối lập nhau.",
+        "D": "Cạnh tranh và độc quyền không có quan hệ gì với nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Độc quyền là con đẻ của cạnh tranh, đối lập với cạnh tranh và thủ tiêu cạnh tranh",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Độc quyền là con đẻ của cạnh tranh, đối lập với cạnh tranh nhưng không thủ tiêu cạnh tranh.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cạnh tranh sinh ra độc quyền, chúng không đối lập nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cạnh tranh và độc quyền không có quan hệ gì với nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Độc quyền là con đẻ của cạnh tranh, đối lập với cạnh tranh nhưng không thủ tiêu cạnh tranh."
+    },
+    {
+      "id": 38,
+      "chapter": 4,
+      "question": "Các cuộc xâm chiếm thuộc địa của các nước đế quốc diễn ra mạnh mẽ vào thời kỳ nào?",
+      "options": {
+        "A": "Thế kỷ 17",
+        "B": "Thế kỷ 18",
+        "C": "Cuối thế kỷ 18 - đầu thế kỷ 19",
+        "D": "Cuối thế kỷ 19 - đầu thế kỷ 20"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thế kỷ 17",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thế kỷ 18",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cuối thế kỷ 18 - đầu thế kỷ 19",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cuối thế kỷ 19 - đầu thế kỷ 20",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cuối thế kỷ 18 - đầu thế kỷ 19"
+    },
+    {
+      "id": 39,
+      "chapter": 4,
+      "question": "Các cường quốc đế quốc xâm chiếm thuộc địa nhằm:",
+      "options": {
+        "A": "Đảm bảo nguồn nguyên liệu",
+        "B": "Khống chế thị trường",
+        "C": "Thực hiện mục đích kinh tế - chính trị - quân sự",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đảm bảo nguồn nguyên liệu",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khống chế thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thực hiện mục đích kinh tế - chính trị - quân sự",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 40,
+      "chapter": 4,
+      "question": "Vì sao trong CNTB độc quyền cạnh tranh không bị thủ tiêu?",
+      "options": {
+        "A": "Vì các tổ chức độc quyền cạnh tranh với nhau",
+        "B": "Vì tổ chức độc quyền cạnh tranh với các công ty ngoài độc quyền",
+        "C": "Vì các xí nghiệp trong nội bộ tổ chức độc quyền cạnh tranh với nhau",
+        "D": "Vì cạnh tranh là quy luật khách quan của kinh tế hàng hoá"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vì các tổ chức độc quyền cạnh tranh với nhau",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Vì tổ chức độc quyền cạnh tranh với các công ty ngoài độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vì các xí nghiệp trong nội bộ tổ chức độc quyền cạnh tranh với nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vì cạnh tranh là quy luật khách quan của kinh tế hàng hoá",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Vì cạnh tranh là quy luật khách quan của kinh tế hàng hoá"
+    },
+    {
+      "id": 41,
+      "chapter": 4,
+      "question": "Các tổ chức độc quyền của các quốc gia cạnh tranh trên thị trường quốc tế dẫn đến:",
+      "options": {
+        "A": "Thôn tính nhau, đấu tranh không khoan nhượng hoặc thoả hiệp với nhau hình thành các tổ chức độc quyền quốc tế",
+        "B": "Luôn đấu tranh không khoan nhượng, không thỏa hiệp",
+        "C": "Luôn Thoả hiệp với nhau để hình thành các tổ chức độc quyền quốc tế",
+        "D": "Thương lượng với nhau để thủ tiêu cạnh tranh"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thôn tính nhau, đấu tranh không khoan nhượng hoặc thoả hiệp với nhau hình thành các tổ chức độc quyền quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Luôn đấu tranh không khoan nhượng, không thỏa hiệp",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Luôn Thoả hiệp với nhau để hình thành các tổ chức độc quyền quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thương lượng với nhau để thủ tiêu cạnh tranh",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Luôn đấu tranh không khoan nhượng, không thỏa hiệp"
+    },
+    {
+      "id": 42,
+      "chapter": 4,
+      "question": "Mục đích của xuất khẩu tư bản là:",
+      "options": {
+        "A": "Để giải quyết nguồn tư bản &quot;thừa&quot; trong nước",
+        "B": "Chiếm đoạt giá trị thặng dư và các nguồn lợi khác ở nước nhập khẩu tư bản",
+        "C": "Thực hiện giá trị và chiếm các nguồn lợi khác của nước nhập khẩu tư bản",
+        "D": "Giúp đỡ các nước nhập khẩu tư bản phát triển."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Để giải quyết nguồn tư bản &quot;thừa&quot; trong nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chiếm đoạt giá trị thặng dư và các nguồn lợi khác ở nước nhập khẩu tư bản",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Thực hiện giá trị và chiếm các nguồn lợi khác của nước nhập khẩu tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giúp đỡ các nước nhập khẩu tư bản phát triển.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Chiếm đoạt giá trị thặng dư và các nguồn lợi khác ở nước nhập khẩu tư bản"
+    },
+    {
+      "id": 43,
+      "chapter": 4,
+      "question": "hế độ tham dự của tư bản tài chính được thiết lập do:",
+      "options": {
+        "A": "Quyết định của nhà nước62",
+        "B": "Yêu cầu tổ chức của các ngân hàng",
+        "C": "Yêu cầu của các tổ chức độc quyền công nghiệp",
+        "D": "Số cổ phiếu khống chế nắm công ty mẹ, con, cháu."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quyết định của nhà nước62",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Yêu cầu tổ chức của các ngân hàng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Yêu cầu của các tổ chức độc quyền công nghiệp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Số cổ phiếu khống chế nắm công ty mẹ, con, cháu.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Số cổ phiếu khống chế nắm công ty mẹ, con, cháu."
+    },
+    {
+      "id": 44,
+      "chapter": 4,
+      "question": "Vai trò mới của ngân hàng trong giai đoạn CNTB độc quyền là:",
+      "options": {
+        "A": "Đầu tư tư bản",
+        "B": "Khống chế hoạt động của nền kinh tế TBCN",
+        "C": "Trung tâm tín dụng",
+        "D": "Trung tâm thanh toán"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đầu tư tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khống chế hoạt động của nền kinh tế TBCN",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Trung tâm tín dụng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trung tâm thanh toán",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Khống chế hoạt động của nền kinh tế TBCN"
+    },
+    {
+      "id": 45,
+      "chapter": 4,
+      "question": "Sự ra đời của tư bản tài chính là kết quả của sự phát triển:",
+      "options": {
+        "A": "Độc quyền ngân hàng",
+        "B": "Sự phát triển của thị trường tài chính",
+        "C": "Độc quyền công nghiệp",
+        "D": "Quá trình xâm nhập liên kết độc quyền ngân hàng với độc quyền công nghiệp"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Độc quyền ngân hàng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sự phát triển của thị trường tài chính",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Độc quyền công nghiệp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quá trình xâm nhập liên kết độc quyền ngân hàng với độc quyền công nghiệp",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Quá trình xâm nhập liên kết độc quyền ngân hàng với độc quyền công nghiệp"
+    },
+    {
+      "id": 46,
+      "chapter": 4,
+      "question": "Kết luận sau đây là của ai?;Tự do cạnh tranh đẻ ra tập trung sản xuất và sự tập trung sản xuất này khi phát triển đến mức độ nhất định, lại dẫn tới độc quyền”",
+      "options": {
+        "A": "C.Mác",
+        "B": "Ph. Ăng ghen",
+        "C": "Lênin",
+        "D": "C.Mác và Ph. Ăng ghen"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "C.Mác",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ph. Ăng ghen",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lênin",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "C.Mác và Ph. Ăng ghen",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lênin"
+    }
+  ]
+}

@@ -1,0 +1,2912 @@
+{
+  "chapter": 3,
+  "title": "Chương 3: Sản xuất giá trị thặng dư trong nền kinh tế thị trường",
+  "total_questions": 83,
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 3,
+      "question": "Căn cứ nào phân chia tư bản thành tư bản bất biến và tư bản khả biến?",
+      "options": {
+        "A": "Việc xác định nguồn gốc của gía trị thặng dư",
+        "B": "Phương thức chu chuyển của giá trị vào sản phẩm",
+        "C": "Phương thức khấu hao tư bản cố định",
+        "D": "Tốc độ chu chuyển của tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Việc xác định nguồn gốc của gía trị thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phương thức chu chuyển của giá trị vào sản phẩm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phương thức khấu hao tư bản cố định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ chu chuyển của tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Việc xác định nguồn gốc của gía trị thặng dư"
+    },
+    {
+      "id": 2,
+      "chapter": 3,
+      "question": "Vai trò của máy móc trong quá trình sản xuất giá trị thặng dư:",
+      "options": {
+        "A": "Máy móc là nguồn gốc chủ yếu tạo ra thặng dư",
+        "B": "Máy móc chỉ là tiền đề vật chất cho việc tạo ra thặng dư",
+        "C": "Máy móc cùng với sức lao động đều tạo ra thặng dư",
+        "D": "Máy móc là yếu tố quyết định."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Máy móc là nguồn gốc chủ yếu tạo ra thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Máy móc chỉ là tiền đề vật chất cho việc tạo ra thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Máy móc cùng với sức lao động đều tạo ra thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Máy móc là yếu tố quyết định.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Máy móc chỉ là tiền đề vật chất cho việc tạo ra thặng dư"
+    },
+    {
+      "id": 3,
+      "chapter": 3,
+      "question": "Tiền tệ là:",
+      "options": {
+        "A": "Thước đo giá trị của hàng hóa",
+        "B": "Phương tiện lưu thông trong việc trao đổi hàng hóa",
+        "C": "Hàng hóa đặc biệt đóng vai trò là vật ngang giá chung",
+        "D": "Tiền giấy, tiền vàng và ngoại tệ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thước đo giá trị của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phương tiện lưu thông trong việc trao đổi hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hàng hóa đặc biệt đóng vai trò là vật ngang giá chung",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tiền giấy, tiền vàng và ngoại tệ",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Hàng hóa đặc biệt đóng vai trò là vật ngang giá chung"
+    },
+    {
+      "id": 4,
+      "chapter": 3,
+      "question": "Nền kinh tế tri thức được xem là",
+      "options": {
+        "A": "Một phương thức sản xuất mới",
+        "B": "Một hình thái kinh tế – xã hội mới",
+        "C": "Một giai đoạn phát triển của CNTB hiện đại",
+        "D": "Một nấc thang phát triển của lực lượng sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Một phương thức sản xuất mới",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Một hình thái kinh tế – xã hội mới",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Một giai đoạn phát triển của CNTB hiện đại",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Một nấc thang phát triển của lực lượng sản xuất",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Một nấc thang phát triển của lực lượng sản xuất"
+    },
+    {
+      "id": 5,
+      "chapter": 3,
+      "question": "Tư bản là:",
+      "options": {
+        "A": "Tiền và máy móc thiết bị",
+        "B": "Giá trị dôi ra ngoài sức lao động",
+        "C": "Tiền có khả năng tăng lên",
+        "D": "Giá trị mang lại giá trị thặng dư bằng cách bóc lột lao động làm thuê."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiền và máy móc thiết bị",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá trị dôi ra ngoài sức lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tiền có khả năng tăng lên",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giá trị mang lại giá trị thặng dư bằng cách bóc lột lao động làm thuê.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Giá trị mang lại giá trị thặng dư bằng cách bóc lột lao động làm thuê."
+    },
+    {
+      "id": 6,
+      "chapter": 3,
+      "question": "Lợi nhuận:",
+      "options": {
+        "A": "Là tỷ lệ phần lãi trên tổng số tư bản đầu tư",
+        "B": "Hình thức biến tướng của giá trị thặng dư",
+        "C": "Là khoản tiền công mà doanh nhân tự trả cho mình",
+        "D": "Hiệu số giữa giá trị hàng hóa và chi phí sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là tỷ lệ phần lãi trên tổng số tư bản đầu tư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hình thức biến tướng của giá trị thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là khoản tiền công mà doanh nhân tự trả cho mình",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hiệu số giữa giá trị hàng hóa và chi phí sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Hình thức biến tướng của giá trị thặng dư"
+    },
+    {
+      "id": 7,
+      "chapter": 3,
+      "question": "Tăng trưởng kinh tế, phát triển kinh tế và tiến bộ xã hội là:",
+      "options": {
+        "A": "Đồng nghĩa",
+        "B": "Trái ngược nhau",
+        "C": "Không đồng nghĩa",
+        "D": "Có liên hệ với nhau và làm điều kiện cho nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đồng nghĩa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trái ngược nhau",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không đồng nghĩa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Có liên hệ với nhau và làm điều kiện cho nhau",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Có liên hệ với nhau và làm điều kiện cho nhau"
+    },
+    {
+      "id": 8,
+      "chapter": 3,
+      "question": "Nguồn gốc của giá trị thặng dư do đâu mà có?",
+      "options": {
+        "A": "Do lưu thông",
+        "B": "Do sản xuất",
+        "C": "Do ngẫu nhiên mà có",
+        "D": "Do lao động thặng dư của người công nhân tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do ngẫu nhiên mà có",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Do lao động thặng dư của người công nhân tư bản",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Do lao động thặng dư của người công nhân tư bản"
+    },
+    {
+      "id": 9,
+      "chapter": 3,
+      "question": "Mục đích của lưu thông hàng hóa tư bản là gì",
+      "options": {
+        "A": "Giá trị thặng dư",
+        "B": "Trao đổi giá trị sử dụng",
+        "C": "Trao đổi giá trị",
+        "D": "Tạo điều kiện phát triển xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Trao đổi giá trị sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trao đổi giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tạo điều kiện phát triển xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giá trị thặng dư"
+    },
+    {
+      "id": 10,
+      "chapter": 3,
+      "question": "Giá trị thặng dư được sáng tạo ra trong giai đoạn nào?",
+      "options": {
+        "A": "Tiêu dùng",
+        "B": "Lưu thông",
+        "C": "Sản xuất",
+        "D": "Cả sản xuất lẫn lưu thông"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiêu dùng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cả sản xuất lẫn lưu thông",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Sản xuất"
+    },
+    {
+      "id": 11,
+      "chapter": 3,
+      "question": "Những điều kiện nào để sức lao động trở thành hàng hóa?",
+      "options": {
+        "A": "Sản xuất phải phát triển",
+        "B": "Người lao động được tự do thân thể, mất hết tư liệu sản xuất và không còn gì để sống phải bán sức lao động để tồn tại",
+        "C": "Xã hội có nhu cầu thuê nhân công",
+        "D": "Nền sản xuất cơ khí ra đời"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất phải phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Người lao động được tự do thân thể, mất hết tư liệu sản xuất và không còn gì để sống phải bán sức lao động để tồn tại",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Xã hội có nhu cầu thuê nhân công",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nền sản xuất cơ khí ra đời",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Người lao động được tự do thân thể, mất hết tư liệu sản xuất và không còn gì để sống phải bán sức lao động để tồn tại"
+    },
+    {
+      "id": 12,
+      "chapter": 3,
+      "question": "Giá trị sức lao động được đo bằng gì?",
+      "options": {
+        "A": "Thời gian lao động xã hội cần thiết để tạo ra con người có sức lao động",
+        "B": "Thời gian lao động mà người công nhân cống hiến",
+        "C": "Giá trị tư liệu sinh hoạt cần thiết để tái sản xuất sức lao động của người công nhân và cho con cái người công nhân cộng với phí tổn đào tạo",
+        "D": "Tiền lương của người công nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thời gian lao động xã hội cần thiết để tạo ra con người có sức lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thời gian lao động mà người công nhân cống hiến",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá trị tư liệu sinh hoạt cần thiết để tái sản xuất sức lao động của người công nhân và cho con cái người công nhân cộng với phí tổn đào tạo",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tiền lương của người công nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Giá trị tư liệu sinh hoạt cần thiết để tái sản xuất sức lao động của người công nhân và cho con cái người công nhân cộng với phí tổn đào tạo"
+    },
+    {
+      "id": 13,
+      "chapter": 3,
+      "question": "Trong xã hội tư bản cần phải làm gì để đảm bảo sự công bằng và tiến bộ xã hội?",
+      "options": {
+        "A": "Cấm thuê lao động",
+        "B": "Cần buộc nhà tư bản phải trả hết giá trị thặng dư cho người lao động",
+        "C": "Cần phải thuê lao động nước ngoài để tránh quan hệ bóc lột trong nước",
+        "D": "Cần đấu tranh trong phân chia công bằng hợp lý giá trị thặng dư"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cấm thuê lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cần buộc nhà tư bản phải trả hết giá trị thặng dư cho người lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cần phải thuê lao động nước ngoài để tránh quan hệ bóc lột trong nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cần đấu tranh trong phân chia công bằng hợp lý giá trị thặng dư",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Cần đấu tranh trong phân chia công bằng hợp lý giá trị thặng dư"
+    },
+    {
+      "id": 14,
+      "chapter": 3,
+      "question": "Giá trị thặng dư là gì?",
+      "options": {
+        "A": "Giá trị sức lao động của người công nhân làm thuê",
+        "B": "Giá trị mới được tạo ra trong quá trình sản xuất",
+        "C": "Giá trị mới dôi ra ngoài giá trị sức lao động",
+        "D": "Là lãi của nhà tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị sức lao động của người công nhân làm thuê",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá trị mới được tạo ra trong quá trình sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá trị mới dôi ra ngoài giá trị sức lao động",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Là lãi của nhà tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Giá trị mới dôi ra ngoài giá trị sức lao động"
+    },
+    {
+      "id": 15,
+      "chapter": 3,
+      "question": "Tư bản là gì?",
+      "options": {
+        "A": "Tiền vốn của nhà tư bản",
+        "B": "Giá trị mang lại giá trị thặng dư",
+        "C": "Lượng tiền chi tiêu trong sản xuất",
+        "D": "Tiền thuê nhân công"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiền vốn của nhà tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá trị mang lại giá trị thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lượng tiền chi tiêu trong sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tiền thuê nhân công",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giá trị mang lại giá trị thặng dư"
+    },
+    {
+      "id": 16,
+      "chapter": 3,
+      "question": "Mặt lượng của tư bản bất biến trong quá trình sản xuất sẽ như thế nào?",
+      "options": {
+        "A": "Tăng thêm",
+        "B": "Giảm đi",
+        "C": "Không thay đổi",
+        "D": "Chuyển dần vào giá trị sản phẩm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng thêm",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giảm đi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không thay đổi",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Chuyển dần vào giá trị sản phẩm",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Không thay đổi"
+    },
+    {
+      "id": 17,
+      "chapter": 3,
+      "question": "Phương pháp bóc lột giá trị thặng dư tương đối là gì?",
+      "options": {
+        "A": "Kéo dài ngày lao động",
+        "B": "Tăng thời gian lao động tất yếu",
+        "C": "Rút ngắn thời gian lao động tất yếu",
+        "D": "Mở rộng quy mô sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kéo dài ngày lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tăng thời gian lao động tất yếu",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Rút ngắn thời gian lao động tất yếu",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Mở rộng quy mô sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Rút ngắn thời gian lao động tất yếu"
+    },
+    {
+      "id": 18,
+      "chapter": 3,
+      "question": "Thực chất của tích lũy tư bản là gì?",
+      "options": {
+        "A": "Tích tụ của cải của nhà tư bản",
+        "B": "Mở rộng quy mô sản xuất",
+        "C": "Chuyển một phần giá trị thặng dư thành tư bản",
+        "D": "Tiết kiệm chi tiêu của chủ tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tích tụ của cải của nhà tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng quy mô sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chuyển một phần giá trị thặng dư thành tư bản",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tiết kiệm chi tiêu của chủ tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chuyển một phần giá trị thặng dư thành tư bản"
+    },
+    {
+      "id": 19,
+      "chapter": 3,
+      "question": "Tập trung tư bản là gì?",
+      "options": {
+        "A": "Đầu tư tập trung trên một địa bàn",
+        "B": "Tập trung đầu tư theo từng ngành",
+        "C": "Sự gia tăng quy mô của tư bản thông qua hợp nhất các tư bản cá biệt",
+        "D": "Chính sách ưu tiên đầu tiên đầu tư tư bản của nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đầu tư tập trung trên một địa bàn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tập trung đầu tư theo từng ngành",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sự gia tăng quy mô của tư bản thông qua hợp nhất các tư bản cá biệt",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Chính sách ưu tiên đầu tiên đầu tư tư bản của nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Sự gia tăng quy mô của tư bản thông qua hợp nhất các tư bản cá biệt"
+    },
+    {
+      "id": 20,
+      "chapter": 3,
+      "question": "Tiền lương danh nghĩa trong chủ nghĩa tư bản là gì?",
+      "options": {
+        "A": "Số tiền mà nhà tư bản trả cho công nhân làm thuê",
+        "B": "Số hàng hóa dịch vụ mà người công nhân mua được bằng lương của mình",
+        "C": "Giá cả lao động của người công nhân",
+        "D": "Tiền phân chia lợi nhuận cho công nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Số tiền mà nhà tư bản trả cho công nhân làm thuê",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Số hàng hóa dịch vụ mà người công nhân mua được bằng lương của mình",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá cả lao động của người công nhân",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tiền phân chia lợi nhuận cho công nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Số tiền mà nhà tư bản trả cho công nhân làm thuê"
+    },
+    {
+      "id": 21,
+      "chapter": 3,
+      "question": "Mặt lượng của tư bản khả biến trong quá trình sản xuất sẽ như thế nào?",
+      "options": {
+        "A": "Tăng thêm",
+        "B": "Giảm đi",
+        "C": "Không thay đổi",
+        "D": "Không xác định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng thêm",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giảm đi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không thay đổi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không xác định",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tăng thêm"
+    },
+    {
+      "id": 22,
+      "chapter": 3,
+      "question": "Khối lượng giá trị thặng dư biểu hiện cái gì?",
+      "options": {
+        "A": "Quy mô của bóc lột tư bản",
+        "B": "Trình độ của bóc lột tư bản",
+        "C": "Tính chất của bóc lột tư bản",
+        "D": "Phạm vi của bóc lột tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy mô của bóc lột tư bản",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Trình độ của bóc lột tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tính chất của bóc lột tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phạm vi của bóc lột tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quy mô của bóc lột tư bản"
+    },
+    {
+      "id": 23,
+      "chapter": 3,
+      "question": "Phương pháp bóc lột thặng dư tuyệt đối là gì?",
+      "options": {
+        "A": "Kéo dài thời gian lao động và tăng cường độ lao động",
+        "B": "Tăng năng suất lao động xã hội",
+        "C": "Rút ngắn thời gian lao động tất yếu",
+        "D": "Tăng kỷ luật lao động"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kéo dài thời gian lao động và tăng cường độ lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tăng năng suất lao động xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Rút ngắn thời gian lao động tất yếu",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tăng kỷ luật lao động",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Kéo dài thời gian lao động và tăng cường độ lao động"
+    },
+    {
+      "id": 24,
+      "chapter": 3,
+      "question": "Thực chất tích tụ tư bản là gì?",
+      "options": {
+        "A": "Tăng thêm quy mô của tư bản cá biệt qua tích lũy tư bản",
+        "B": "Sự hợp nhất tư bản của các nhà tư bản",
+        "C": "Tập trung đầu tư tư bản trên một địa bàn",
+        "D": "Tăng tiết kiệm do hạn chế tiêu dùng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng thêm quy mô của tư bản cá biệt qua tích lũy tư bản",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sự hợp nhất tư bản của các nhà tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tập trung đầu tư tư bản trên một địa bàn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tăng tiết kiệm do hạn chế tiêu dùng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tăng thêm quy mô của tư bản cá biệt qua tích lũy tư bản"
+    },
+    {
+      "id": 25,
+      "chapter": 3,
+      "question": "Tác dụng chủ yếu của quy luật giá trị thặng dư là gì?",
+      "options": {
+        "A": "Đảm bảo lợi ích cho mọi người",
+        "B": "Đàm bảo hiệu quả của nền kinh tế",
+        "C": "Thúc đẩy giáo dục phát triển",
+        "D": "Là động lực phát triển chủ ngĩa tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đảm bảo lợi ích cho mọi người",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đàm bảo hiệu quả của nền kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thúc đẩy giáo dục phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là động lực phát triển chủ ngĩa tư bản",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Là động lực phát triển chủ ngĩa tư bản"
+    },
+    {
+      "id": 26,
+      "chapter": 3,
+      "question": "Mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản là gì?",
+      "options": {
+        "A": "Mâu thuẫn giữa lao động tư nhân và lao động xã hội",
+        "B": "Mâu thuẫn giữa giai cấp vô sản và tư sản",
+        "C": "Mâu thuẫn giữa quy mô đầu tư và quy mô lợi ích",
+        "D": "Mâu thuẫn giữa tính xã hội hóa cao của lực lượng sản xuất với chế độ chiếm hữu tư nhân về tư liệu sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mâu thuẫn giữa lao động tư nhân và lao động xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mâu thuẫn giữa giai cấp vô sản và tư sản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mâu thuẫn giữa quy mô đầu tư và quy mô lợi ích",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mâu thuẫn giữa tính xã hội hóa cao của lực lượng sản xuất với chế độ chiếm hữu tư nhân về tư liệu sản xuất",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Mâu thuẫn giữa tính xã hội hóa cao của lực lượng sản xuất với chế độ chiếm hữu tư nhân về tư liệu sản xuất"
+    },
+    {
+      "id": 27,
+      "chapter": 3,
+      "question": "Tỉ suất giá trị thặng dư biểu hiện cái gì?",
+      "options": {
+        "A": "Quy mô của bóc lột",
+        "B": "Trình độ bóc lột",
+        "C": "Tính chất của bóc lột",
+        "D": "Phạm vi của bóc lột"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy mô của bóc lột",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trình độ bóc lột",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tính chất của bóc lột",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phạm vi của bóc lột",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Trình độ bóc lột"
+    },
+    {
+      "id": 28,
+      "chapter": 3,
+      "question": "Tiền lương trong chủ nghĩa tư bản là gì?",
+      "options": {
+        "A": "Sự biểu hiện bằng tiền của giá trị sức lao động",
+        "B": "Giá cả lao động của người công nhân",
+        "C": "Khoản tiền mà người công nhân yêu cầu chủ tư bản phải thanh toán",
+        "D": "Khoản phân chia lợi nhuận"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sự biểu hiện bằng tiền của giá trị sức lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giá cả lao động của người công nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Khoản tiền mà người công nhân yêu cầu chủ tư bản phải thanh toán",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Khoản phân chia lợi nhuận",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Sự biểu hiện bằng tiền của giá trị sức lao động"
+    },
+    {
+      "id": 29,
+      "chapter": 3,
+      "question": "Giá trị thặng dư và lợi nhuận giống nhau ở điểm  gì?",
+      "options": {
+        "A": "Đều bặt nguồn từ lao động thặng dư",
+        "B": "Đều được biểu hiện thành tiền",
+        "C": "Đều phụ thuộc vào tài kinh doanh của nhà tư bản",
+        "D": "Đều phản ánh quan hệ bóc lột"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đều bặt nguồn từ lao động thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Đều được biểu hiện thành tiền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Đều phụ thuộc vào tài kinh doanh của nhà tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đều phản ánh quan hệ bóc lột",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Đều bặt nguồn từ lao động thặng dư"
+    },
+    {
+      "id": 30,
+      "chapter": 3,
+      "question": "Cấu tạo hữu cơ của tư bản là gì?",
+      "options": {
+        "A": "Cấu tạo kỹ thuật",
+        "B": "Cấu tạo giá trị",
+        "C": "Cấu tạo giá trị khi phản ánh đúng trình độ kỹ thuật",
+        "D": "Tỷ lệ giữa các yếu tố cấu thành tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cấu tạo kỹ thuật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cấu tạo giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cấu tạo giá trị khi phản ánh đúng trình độ kỹ thuật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tỷ lệ giữa các yếu tố cấu thành tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cấu tạo giá trị khi phản ánh đúng trình độ kỹ thuật"
+    },
+    {
+      "id": 31,
+      "chapter": 3,
+      "question": "Chi phí sản xuất tư bản  là gì?",
+      "options": {
+        "A": "Chi phí máy móc thiết bị",
+        "B": "Tiền lương công nhân",
+        "C": "Chi phí mà nhà tư bản bỏ ra để sản xuất hàng hóa",
+        "D": "Chi phí bình quân để sản xuất một đơn vị hàng hóa"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chi phí máy móc thiết bị",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền lương công nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chi phí mà nhà tư bản bỏ ra để sản xuất hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Chi phí bình quân để sản xuất một đơn vị hàng hóa",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chi phí mà nhà tư bản bỏ ra để sản xuất hàng hóa"
+    },
+    {
+      "id": 32,
+      "chapter": 3,
+      "question": "Cấu tạo kỹ thuật phản ánh cái gì?",
+      "options": {
+        "A": "Trình độ bóc lột",
+        "B": "Trình độ bóc lột của một nhà tư bản",
+        "C": "Trình độ phát triển của con người",
+        "D": "Trình độ phát triển của lực lượng sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trình độ bóc lột",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trình độ bóc lột của một nhà tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trình độ phát triển của con người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trình độ phát triển của lực lượng sản xuất",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Trình độ phát triển của lực lượng sản xuất"
+    },
+    {
+      "id": 33,
+      "chapter": 3,
+      "question": "Căn cứ nào phân chia tư bản thành tư bản cố định và tư bản lưu động?            Trùng 69.",
+      "options": {
+        "A": "Việc xác định nguồn gốc của gía trị thặng dư",
+        "B": "Phương thức chu chuyển của giá trị vào sản phẩm",
+        "C": "Phương thức khấu hao tư bản cố định",
+        "D": "Tốc độ chu chuyển của tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Việc xác định nguồn gốc của gía trị thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phương thức chu chuyển của giá trị vào sản phẩm",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Phương thức khấu hao tư bản cố định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ chu chuyển của tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Phương thức chu chuyển của giá trị vào sản phẩm"
+    },
+    {
+      "id": 34,
+      "chapter": 3,
+      "question": "Điều kiện để sức lao động trở thành hàng hoá:",
+      "options": {
+        "A": "Xã hội có người bóc lột người.",
+        "B": "Người lao động được tự do về thân thể và bị mất hết về tư liệu sản xuất.",
+        "C": "Sản xuất hàng hoá phát triển.",
+        "D": "Phân công lao động xã hội phát triển."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xã hội có người bóc lột người.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Người lao động được tự do về thân thể và bị mất hết về tư liệu sản xuất.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất hàng hoá phát triển.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phân công lao động xã hội phát triển.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Người lao động được tự do về thân thể và bị mất hết về tư liệu sản xuất."
+    },
+    {
+      "id": 35,
+      "chapter": 3,
+      "question": "Giá trị của hàng hoá sức lao động phụ thuộc vào:",
+      "options": {
+        "A": "Năng suất lao động xã hội, nhất là những ngành sản xuất tư liệu sinh hoạt.",
+        "B": "Năng suất lao động của ngành mà người có sức khoẻ lao động tham gia lao động.",
+        "C": "Năng suất lao động của ngành công nghiệp nặng.",
+        "D": "Thời gian mà người lao động làm thuê làm việc cho nhà tư bản."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Năng suất lao động xã hội, nhất là những ngành sản xuất tư liệu sinh hoạt.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Năng suất lao động của ngành mà người có sức khoẻ lao động tham gia lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Năng suất lao động của ngành công nghiệp nặng.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thời gian mà người lao động làm thuê làm việc cho nhà tư bản.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Năng suất lao động xã hội, nhất là những ngành sản xuất tư liệu sinh hoạt."
+    },
+    {
+      "id": 36,
+      "chapter": 3,
+      "question": "Phương pháp bóc lột giá trị thặng dư tương đối:",
+      "options": {
+        "A": "Kéo dài ngày lao động, trong lúc vẫn giữ nguyên thời gian lao động tất yếu.",
+        "B": "Tăng cường độ lao động.",
+        "C": "Tăng cường độ lao động và tăng thời gian lao động.",
+        "D": "Rút ngắn thời gian lao động tất yếu trong điều kiện giữ nguyên độ dài ngày lao động như cũ."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kéo dài ngày lao động, trong lúc vẫn giữ nguyên thời gian lao động tất yếu.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tăng cường độ lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tăng cường độ lao động và tăng thời gian lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Rút ngắn thời gian lao động tất yếu trong điều kiện giữ nguyên độ dài ngày lao động như cũ.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Rút ngắn thời gian lao động tất yếu trong điều kiện giữ nguyên độ dài ngày lao động như cũ."
+    },
+    {
+      "id": 37,
+      "chapter": 3,
+      "question": "Mặt lượng của tư bản bất biến trong quá trình sản xuất sẽ thay đổi như thế nào?",
+      "options": {
+        "A": "Chuyển hoá toàn bộ giá trị vào sản phẩm.",
+        "B": "Không tăng về lượng.",
+        "C": "Chuyển dần từng phần giá trị vào sản phẩm.",
+        "D": "Tăng lên về lượng."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chuyển hoá toàn bộ giá trị vào sản phẩm.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Không tăng về lượng.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chuyển dần từng phần giá trị vào sản phẩm.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tăng lên về lượng.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Không tăng về lượng."
+    },
+    {
+      "id": 38,
+      "chapter": 3,
+      "question": "Muốn tăng cường bóc lột giá trị thặng dư tương đối phải:",
+      "options": {
+        "A": "Cải tiến kỹ thuật, yêu cầu công nhân tăng ca nhiều",
+        "B": "Tăng năng suất lao động trong các ngành sản xuất ra tư liệu sinh hoạt.",
+        "C": "Tăng cường độ lao động.",
+        "D": "Kéo dài thời gian lao động."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cải tiến kỹ thuật, yêu cầu công nhân tăng ca nhiều",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tăng năng suất lao động trong các ngành sản xuất ra tư liệu sinh hoạt.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tăng cường độ lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kéo dài thời gian lao động.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tăng năng suất lao động trong các ngành sản xuất ra tư liệu sinh hoạt."
+    },
+    {
+      "id": 39,
+      "chapter": 3,
+      "question": "Mối quan hệ giữa lợi nhuận và giá trị thặng dư:",
+      "options": {
+        "A": "Lợi nhuận và giá trị thặng dư khác nhau về nguồn gốc.",
+        "B": "Cùng một nguồn gốc và luôn bằng nhau.",
+        "C": "Lợi nhuận là hỡnh thức biến tướng của giá trị thặng dư nhưng thường khác nhau về lượng.",
+        "D": "Lợi nhuận luôn nhỏ hơn giá trị thặng dư."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi nhuận và giá trị thặng dư khác nhau về nguồn gốc.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cùng một nguồn gốc và luôn bằng nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi nhuận là hỡnh thức biến tướng của giá trị thặng dư nhưng thường khác nhau về lượng.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lợi nhuận luôn nhỏ hơn giá trị thặng dư.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lợi nhuận là hỡnh thức biến tướng của giá trị thặng dư nhưng thường khác nhau về lượng."
+    },
+    {
+      "id": 40,
+      "chapter": 3,
+      "question": "Tư bản cho vay là:",
+      "options": {
+        "A": "Tư bản mang hình thái hàng hóa.",
+        "B": "Tư bản thuộc sở hữu của người sử dụng.",
+        "C": "Là tư bản tiền tệ mà người chủ sở hữu đưa nó cho nhà tư bản khác sử dụng để được nhận một số lợi tức nhất định.",
+        "D": "Là tư bản đầu tư thêm vào sản xuất."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tư bản mang hình thái hàng hóa.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tư bản thuộc sở hữu của người sử dụng.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là tư bản tiền tệ mà người chủ sở hữu đưa nó cho nhà tư bản khác sử dụng để được nhận một số lợi tức nhất định.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Là tư bản đầu tư thêm vào sản xuất.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Là tư bản tiền tệ mà người chủ sở hữu đưa nó cho nhà tư bản khác sử dụng để được nhận một số lợi tức nhất định."
+    },
+    {
+      "id": 41,
+      "chapter": 3,
+      "question": "Nguyên nhân dẫn đến sự bình quân hóa lợi nhuận là do:",
+      "options": {
+        "A": "Cạnh tranh.",
+        "B": "Cạnh tranh giữa các ngành.",
+        "C": "Cạnh tranh trong nội bộ từng ngành.",
+        "D": "Do cải tiến kỹ thuật nhằm chiếm lợi nhuận siêu ngạch."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cạnh tranh.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cạnh tranh giữa các ngành.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cạnh tranh trong nội bộ từng ngành.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Do cải tiến kỹ thuật nhằm chiếm lợi nhuận siêu ngạch.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cạnh tranh giữa các ngành."
+    },
+    {
+      "id": 42,
+      "chapter": 3,
+      "question": "Tư bản cho vay huy động từ:",
+      "options": {
+        "A": "Tiết kiệm tiêu dùng của các nhà tư bản sản xuất.",
+        "B": "Tiết kiệm của các tầng lớp dân cư.",
+        "C": "Tiết kiệm rút từ lĩnh vực sản xuất",
+        "D": "Tiền nhàn rỗi của các nhà tư bản sản xuất và các tầng lớp dân cư."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiết kiệm tiêu dùng của các nhà tư bản sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiết kiệm của các tầng lớp dân cư.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tiết kiệm rút từ lĩnh vực sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tiền nhàn rỗi của các nhà tư bản sản xuất và các tầng lớp dân cư.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tiền nhàn rỗi của các nhà tư bản sản xuất và các tầng lớp dân cư."
+    },
+    {
+      "id": 43,
+      "chapter": 3,
+      "question": "Tiền lương thực tế:",
+      "options": {
+        "A": "Là số lượng và chất lượng tư liệu sinh hoạt mà người công nhân mua được bằng tiền lương danh nghĩa của mình.",
+        "B": "Tăng lên khi giá cả tư liệu sinh hoạt tăng.",
+        "C": "Luôn tỉ lệ thuận với lương danh nghĩa khi có biến động về giá sinh họat.",
+        "D": "Không tăng theo lương danh nghĩa khi giá cả sinh hoạt giữ nguyên."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là số lượng và chất lượng tư liệu sinh hoạt mà người công nhân mua được bằng tiền lương danh nghĩa của mình.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tăng lên khi giá cả tư liệu sinh hoạt tăng.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Luôn tỉ lệ thuận với lương danh nghĩa khi có biến động về giá sinh họat.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không tăng theo lương danh nghĩa khi giá cả sinh hoạt giữ nguyên.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Là số lượng và chất lượng tư liệu sinh hoạt mà người công nhân mua được bằng tiền lương danh nghĩa của mình."
+    },
+    {
+      "id": 44,
+      "chapter": 3,
+      "question": "Nguồn gốc của lợi tức:",
+      "options": {
+        "A": "Là một phần của giá trị thặng dư tạo ra trong sản xuất.",
+        "B": "Là do tư bản tiền tệ sinh ra.",
+        "C": "Là do lao động thặng dư của công nhân viên ngành ngân hàng tạo ra.",
+        "D": "Là do lạm phát tạo ra."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là một phần của giá trị thặng dư tạo ra trong sản xuất.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Là do tư bản tiền tệ sinh ra.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là do lao động thặng dư của công nhân viên ngành ngân hàng tạo ra.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là do lạm phát tạo ra.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Là một phần của giá trị thặng dư tạo ra trong sản xuất."
+    },
+    {
+      "id": 45,
+      "chapter": 3,
+      "question": "Điều kiện để chuyển mô hình tái sản xuất giản đơn tư bản chủ nghĩa sang mô hình tái sản xuất mở rộng tư bản chủ nghĩa là ở chỗ:",
+      "options": {
+        "A": "Quy mô tư bản khả biến phải lớn hơn trước.",
+        "B": "Phải có tích luỹ tư bản để tăng quy mô tư bản ứng trước.",
+        "C": "Số công nhân phải nhiều hơn trước.",
+        "D": "Phải tổ chức lao động tốt hơn trước."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy mô tư bản khả biến phải lớn hơn trước.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phải có tích luỹ tư bản để tăng quy mô tư bản ứng trước.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Số công nhân phải nhiều hơn trước.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phải tổ chức lao động tốt hơn trước.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Phải có tích luỹ tư bản để tăng quy mô tư bản ứng trước."
+    },
+    {
+      "id": 46,
+      "chapter": 3,
+      "question": "Quá trình tập trung tư bản sẽ đưa đến:",
+      "options": {
+        "A": "Làm tăng quy mô của tư bản xã hội.",
+        "B": "Làm tăng quy mô tích luỹ tư bản.",
+        "C": "Làm tăng quy mô của tư bản cá biệt và quy mô của tư bản xã hội.",
+        "D": "Làm tăng quy mô của tư bản cá biệt."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Làm tăng quy mô của tư bản xã hội.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Làm tăng quy mô tích luỹ tư bản.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Làm tăng quy mô của tư bản cá biệt và quy mô của tư bản xã hội.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Làm tăng quy mô của tư bản cá biệt.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Làm tăng quy mô của tư bản cá biệt."
+    },
+    {
+      "id": 47,
+      "chapter": 3,
+      "question": "Điều kiện để tư bản tuần hoàn một cách bình thường là:",
+      "options": {
+        "A": "Các giai đoạn được liên tục kế tiếp nhau.",
+        "B": "Cùng tồn tại một lúc ba hình thức tư bản.",
+        "C": "Không cùng tồn tại một lúc ba hình thức tư bản.",
+        "D": "Vừa có sự kế tiếp liên tục giữa ba giai đoạn, vừa tồn tại cùng một lúc ba hình thức tư bản."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các giai đoạn được liên tục kế tiếp nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cùng tồn tại một lúc ba hình thức tư bản.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không cùng tồn tại một lúc ba hình thức tư bản.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vừa có sự kế tiếp liên tục giữa ba giai đoạn, vừa tồn tại cùng một lúc ba hình thức tư bản.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Vừa có sự kế tiếp liên tục giữa ba giai đoạn, vừa tồn tại cùng một lúc ba hình thức tư bản."
+    },
+    {
+      "id": 48,
+      "chapter": 3,
+      "question": "Tích luỹ tư bản là quá trình:",
+      "options": {
+        "A": "Biến một phần giá trị thặng dư thành tư bản.",
+        "B": "Làm tăng tích trữ vốn tiền tệ.",
+        "C": "Làm tăng lượng dự trữ về của cải.",
+        "D": "Biến giá trị thặng dư thành tư bản khả biến."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Biến một phần giá trị thặng dư thành tư bản.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Làm tăng tích trữ vốn tiền tệ.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Làm tăng lượng dự trữ về của cải.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biến giá trị thặng dư thành tư bản khả biến.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Biến một phần giá trị thặng dư thành tư bản."
+    },
+    {
+      "id": 49,
+      "chapter": 3,
+      "question": "Giá trị thặng dư là:",
+      "options": {
+        "A": "Giá trị sức lao động của người công nhân làm thuê cho tư bản.",
+        "B": "Là giá trị mới dôi ra ngoài giá trị sức lao động bị nhà tư bản chiếm không.",
+        "C": "Giá trị bóc lột được do nhà tư bản trả tiền công thấp hơn giá trị sức lao động.",
+        "D": "Giá trị mới được tạo ra trong quá trình sản xuất."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị sức lao động của người công nhân làm thuê cho tư bản.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là giá trị mới dôi ra ngoài giá trị sức lao động bị nhà tư bản chiếm không.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giá trị bóc lột được do nhà tư bản trả tiền công thấp hơn giá trị sức lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giá trị mới được tạo ra trong quá trình sản xuất.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Là giá trị mới dôi ra ngoài giá trị sức lao động bị nhà tư bản chiếm không."
+    },
+    {
+      "id": 50,
+      "chapter": 3,
+      "question": "Nhân tố chủ yếu ảnh hưởng đến tốc độ chu chuyển của tư bản:",
+      "options": {
+        "A": "Thời gian sản xuất và thời gian lưu thông để tư bản thực hiện một vòng tuần hoàn.",
+        "B": "Thời gian sản xuất dài hay ngắn trong một vòng tuần hoàn.",
+        "C": "Thời gian tồn tại của tư bản cố định trong một vòng tuần hoàn.",
+        "D": "Thời gian bán và thời gian mua hàng hóa trong mỗi vòng tuần hoàn."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thời gian sản xuất và thời gian lưu thông để tư bản thực hiện một vòng tuần hoàn.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Thời gian sản xuất dài hay ngắn trong một vòng tuần hoàn.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thời gian tồn tại của tư bản cố định trong một vòng tuần hoàn.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thời gian bán và thời gian mua hàng hóa trong mỗi vòng tuần hoàn.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Thời gian sản xuất và thời gian lưu thông để tư bản thực hiện một vòng tuần hoàn."
+    },
+    {
+      "id": 51,
+      "chapter": 3,
+      "question": "Việc phân chia tư bản thành tư bản cố định và tư bản lưu động là căn cứ vào:",
+      "options": {
+        "A": "Xác định nguồn gốc cuối cùng của giá trị thặng dư.",
+        "B": "Phương thức (đặc điểm) chu chuyển về mặt giá trị vào sản phẩm của mỗi loại tư bản.",
+        "C": "Phương thức khấu hao tư bản cố định trong quá trình sản xuất.",
+        "D": "Tốc độ chu chuyển của tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xác định nguồn gốc cuối cùng của giá trị thặng dư.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phương thức (đặc điểm) chu chuyển về mặt giá trị vào sản phẩm của mỗi loại tư bản.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Phương thức khấu hao tư bản cố định trong quá trình sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tốc độ chu chuyển của tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Phương thức (đặc điểm) chu chuyển về mặt giá trị vào sản phẩm của mỗi loại tư bản."
+    },
+    {
+      "id": 52,
+      "chapter": 3,
+      "question": "Tuần hoàn của chu chuyển tư bản là:",
+      "options": {
+        "A": "Sự vận động liên tục của tư bản từ hình thức tư bản tiền tệ sang hình thức khác rồi trở về hình thức ban đầu với lượng giá trị lớn hơn.",
+        "B": "Sự vận động liên tục của tư bản tiền tệ của các nhà tư bản.",
+        "C": "Sự vận động liên tục của tư bản từ hình thức tư bản tiền tệ sang hình thức tư bản sản xuất và tư bản hàng hoá.",
+        "D": "Sự vận động liên tục của tư bản cố định và tư bản lưu động."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sự vận động liên tục của tư bản từ hình thức tư bản tiền tệ sang hình thức khác rồi trở về hình thức ban đầu với lượng giá trị lớn hơn.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sự vận động liên tục của tư bản tiền tệ của các nhà tư bản.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sự vận động liên tục của tư bản từ hình thức tư bản tiền tệ sang hình thức tư bản sản xuất và tư bản hàng hoá.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sự vận động liên tục của tư bản cố định và tư bản lưu động.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Sự vận động liên tục của tư bản từ hình thức tư bản tiền tệ sang hình thức khác rồi trở về hình thức ban đầu với lượng giá trị lớn hơn."
+    },
+    {
+      "id": 53,
+      "chapter": 3,
+      "question": "Để chống hao mòn vô hình giải pháp là tốt nhất:",
+      "options": {
+        "A": "Bắt công nhân lao động với cường độ cao hơn và ngày lao động dài hơn để làm ra nhiều sản phẩm.",
+        "B": "Sử dụng máy móc loại trung bình, do đó có thể đầu tư ít tiền hơn.",
+        "C": "Nâng tỉ suất khấu hao của tư bản cố định.",
+        "D": "Sử dụng hết công suất của máy bằng cách làm ba ca trong một ngày, do đó phải thuê thêm lao động."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bắt công nhân lao động với cường độ cao hơn và ngày lao động dài hơn để làm ra nhiều sản phẩm.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng máy móc loại trung bình, do đó có thể đầu tư ít tiền hơn.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nâng tỉ suất khấu hao của tư bản cố định.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sử dụng hết công suất của máy bằng cách làm ba ca trong một ngày, do đó phải thuê thêm lao động.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Sử dụng hết công suất của máy bằng cách làm ba ca trong một ngày, do đó phải thuê thêm lao động."
+    },
+    {
+      "id": 54,
+      "chapter": 3,
+      "question": "Lợi nhuận mà nhà tư bản thương nghiệp thu được là do:",
+      "options": {
+        "A": "Bán hàng hoá với giá cả cao hơn giá trị.",
+        "B": "Quay vòng vốn nhanh nên thu được lợi nhuận.",
+        "C": "Nhà tư bản công nghiệp nhường một phần giá trị thặng dư cho nhà tư bản thương nghiệp để thực hiện hàng hoá cho họ.",
+        "D": "Lừa đảo trong quá trình mua bán hàng hóa."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bán hàng hoá với giá cả cao hơn giá trị.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quay vòng vốn nhanh nên thu được lợi nhuận.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà tư bản công nghiệp nhường một phần giá trị thặng dư cho nhà tư bản thương nghiệp để thực hiện hàng hoá cho họ.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lừa đảo trong quá trình mua bán hàng hóa.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Nhà tư bản công nghiệp nhường một phần giá trị thặng dư cho nhà tư bản thương nghiệp để thực hiện hàng hoá cho họ."
+    },
+    {
+      "id": 55,
+      "chapter": 3,
+      "question": "Sự tồn tại của hoạt động thương nghiệp:",
+      "options": {
+        "A": "Có hại cho nền kinh tế xã hội.",
+        "B": "Làm cho hoạt động kinh tế kém hiệu quả vì nhiều khoản chí vô ích.",
+        "C": "Có lợi cho nền kinh tế xã hội.",
+        "D": "Có hại cho những người sản xuất trực tiếp."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Có hại cho nền kinh tế xã hội.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Làm cho hoạt động kinh tế kém hiệu quả vì nhiều khoản chí vô ích.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có lợi cho nền kinh tế xã hội.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Có hại cho những người sản xuất trực tiếp.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Có lợi cho nền kinh tế xã hội."
+    },
+    {
+      "id": 56,
+      "chapter": 3,
+      "question": "Xét trong quan hệ sản xuất tư bản chủ nghĩa giai cấp công nhân là ?",
+      "options": {
+        "A": "Giai cấp nghèo nhất.",
+        "B": "Giai cấp không có tư liệu sản xuất, làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư.",
+        "C": "Giai cấp có số lượng đông trong dân cư.",
+        "D": "Tất cả đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giai cấp nghèo nhất.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giai cấp không có tư liệu sản xuất, làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giai cấp có số lượng đông trong dân cư.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giai cấp không có tư liệu sản xuất, làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư."
+    },
+    {
+      "id": 57,
+      "chapter": 3,
+      "question": "Quá trình sản xuất TBCN là:",
+      "options": {
+        "A": "Quá trình sản xuất ra giá trị thặng dư",
+        "B": "Quá trình sản xuất ra giá trị sử dụng",
+        "C": "Sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị thặng dư",
+        "D": "Sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quá trình sản xuất ra giá trị thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quá trình sản xuất ra giá trị sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị thặng dư",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Sự thống nhất giữa quá trình sản xuất ra giá trị sử dụng và quá trình sản xuất ra giá trị thặng dư"
+    },
+    {
+      "id": 58,
+      "chapter": 3,
+      "question": "Giá trị sử dụng của hàng hóa sức lao động:",
+      "options": {
+        "A": "Là nguồn gốc của giá trị thặng dư",
+        "B": "Là quá trình lao động",
+        "C": "Thỏa mãn nhu cầu của người mua nó",
+        "D": "Tạo ra giá trị mới lớn hơn giá trị bản thân nó"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là nguồn gốc của giá trị thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là quá trình lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thỏa mãn nhu cầu của người mua nó",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tạo ra giá trị mới lớn hơn giá trị bản thân nó",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Thỏa mãn nhu cầu của người mua nó"
+    },
+    {
+      "id": 59,
+      "chapter": 3,
+      "question": "Điểm đặc biệt của hàng hóa sức lao động là:",
+      "options": {
+        "A": "Thỏa mãn nhu cầu của người mua nó",
+        "B": "Tạo ra giá trị mới lớn hơn giá trị bản thân nó",
+        "C": "Không nhìn thấy được, nó nằm trong bản thân người lao động",
+        "D": "Không thể xác định được"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thỏa mãn nhu cầu của người mua nó",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tạo ra giá trị mới lớn hơn giá trị bản thân nó",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không nhìn thấy được, nó nằm trong bản thân người lao động",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Không thể xác định được",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Không nhìn thấy được, nó nằm trong bản thân người lao động"
+    },
+    {
+      "id": 60,
+      "chapter": 3,
+      "question": "Điểm đặc biệt của giá trị hàng hóa sức lao động là:",
+      "options": {
+        "A": "Thỏa mãn nhu cầu của người mua nó",
+        "B": "Khi tiêu dùng nó tạo ra giá trị mới lớn hơn giá trị bản thân nó",
+        "C": "Không nhìn thấy được, nó nằm trong bản thân người lao động",
+        "D": "Không thể xác định được."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thỏa mãn nhu cầu của người mua nó",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khi tiêu dùng nó tạo ra giá trị mới lớn hơn giá trị bản thân nó",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Không nhìn thấy được, nó nằm trong bản thân người lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không thể xác định được.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Khi tiêu dùng nó tạo ra giá trị mới lớn hơn giá trị bản thân nó"
+    },
+    {
+      "id": 61,
+      "chapter": 3,
+      "question": "Thời gian sản xuất không bao gồm:",
+      "options": {
+        "A": "Thời gian lao động",
+        "B": "Thời gian gián đoạn lao động",
+        "C": "Thời gian tiêu thụ hàng hóa",
+        "D": "Thời gian dự trữ sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thời gian lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thời gian gián đoạn lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thời gian tiêu thụ hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Thời gian dự trữ sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Thời gian tiêu thụ hàng hóa"
+    },
+    {
+      "id": 62,
+      "chapter": 3,
+      "question": "Giá trị thặng dư siêu ngạch là:",
+      "options": {
+        "A": "Do tăng năng suất lao động cá biệt",
+        "B": "Do tăng năng suất lao động của từng ngành",
+        "C": "Do tăng năng lao động của từng người",
+        "D": "Do tăng năng suất lao động xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do tăng năng suất lao động cá biệt",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Do tăng năng suất lao động của từng ngành",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do tăng năng lao động của từng người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Do tăng năng suất lao động xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Do tăng năng suất lao động cá biệt"
+    },
+    {
+      "id": 63,
+      "chapter": 3,
+      "question": "Một công nhân làm việc 8h/ngày, m’ = 300%. Sau đó nhà tư bản kéo dài thời gian lao động lên 10h; trong điều kiện giá trị sức lao động không đổi. Xác định sự thay đổi của m’ trong xí nghiệp? Nhà tư bản đã tăng thêm giá trị thặng dư bằng phương pháp nào?",
+      "options": {
+        "A": "m’ = 375%; phương pháp sản xuất giá trị thặng dư tương đối",
+        "B": "m’ = 400%; phương pháp sản xuất giá trị thặng dư tuyệt đối",
+        "C": "m’ = 375%, phương pháp sản xuất giá trị thặng dư tuyệt đối",
+        "D": "m’ = 400%; phương pháp sản xuất giá trị thặng dư siêu ngạch"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "m’ = 375%; phương pháp sản xuất giá trị thặng dư tương đối",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "m’ = 400%; phương pháp sản xuất giá trị thặng dư tuyệt đối",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "m’ = 375%, phương pháp sản xuất giá trị thặng dư tuyệt đối",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "m’ = 400%; phương pháp sản xuất giá trị thặng dư siêu ngạch",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "m’ = 375%, phương pháp sản xuất giá trị thặng dư tuyệt đối"
+    },
+    {
+      "id": 64,
+      "chapter": 3,
+      "question": "Tỷ suất lợi nhuận bình quân hình thành do:",
+      "options": {
+        "A": "Cạnh tranh trong nội bộ ngành",
+        "B": "Cạnh tranh giữa các ngành",
+        "C": "Cơ chế thị trường",
+        "D": "Tác động của các quy luật kinh tế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cạnh tranh trong nội bộ ngành",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cạnh tranh giữa các ngành",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cơ chế thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tác động của các quy luật kinh tế",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cạnh tranh giữa các ngành"
+    },
+    {
+      "id": 65,
+      "chapter": 3,
+      "question": "Trong lịch sử nhân loại thì hình thức quan hệ sản xuất nào sinh ra chế độ bóc lột sức lao động thặng dư đối với GCCN?",
+      "options": {
+        "A": "Chiếm hữu nô lệ",
+        "B": "Phong kiến",
+        "C": "Tư bản chủ nghĩa",
+        "D": "Xã hội chủ nghĩa"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chiếm hữu nô lệ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phong kiến",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tư bản chủ nghĩa",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Xã hội chủ nghĩa",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Tư bản chủ nghĩa"
+    },
+    {
+      "id": 66,
+      "chapter": 3,
+      "question": "Khi nghiên cứu PTSX TBCN, C.Mác bắt đầu từ:",
+      "options": {
+        "A": "Sản xuất của cải vật chất",
+        "B": "Sản xuất giá trị thặng dư",
+        "C": "Lưu thông hàng hóa",
+        "D": "Sản xuất hàng hóa giản đơn và hàng hóa"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất của cải vật chất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất giá trị thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lưu thông hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sản xuất hàng hóa giản đơn và hàng hóa",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Sản xuất hàng hóa giản đơn và hàng hóa"
+    },
+    {
+      "id": 67,
+      "chapter": 3,
+      "question": "Nhân tố nào là cơ bản thúc đẩy CNTB ra đời nhanh chóng?",
+      "options": {
+        "A": "Tích lũy nguyên thủy",
+        "B": "Phững phát kiến về địa lý",
+        "C": "Sự phát triển mạnh mẽ của phương tiện giao thong vận tải, mở rộng giao lưu buôn bán quốc tế",
+        "D": "Sự tác động của quy luật giá trị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tích lũy nguyên thủy",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phững phát kiến về địa lý",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sự phát triển mạnh mẽ của phương tiện giao thong vận tải, mở rộng giao lưu buôn bán quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sự tác động của quy luật giá trị",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tích lũy nguyên thủy"
+    },
+    {
+      "id": 68,
+      "chapter": 3,
+      "question": "Những lựa chọn nào được coi là tư bản?",
+      "options": {
+        "A": "Nhà để cho thuê",
+        "B": "Xe máy để đi học",
+        "C": "Tiền để tiêu dùng sinh hoạt",
+        "D": "Nhà để gia đình ở"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà để cho thuê",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xe máy để đi học",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tiền để tiêu dùng sinh hoạt",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nhà để gia đình ở",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nhà để cho thuê"
+    },
+    {
+      "id": 69,
+      "chapter": 3,
+      "question": "Sức lao động trở thành hàng hóa một cách phổ biến khi nào?",
+      "options": {
+        "A": "Trong nền sản xuất hàng hóa giản đơn",
+        "B": "Trong nền sản xuất tự cung tự cấp",
+        "C": "Trong nền sản xuất hàng hóa tư bản chủ nghĩa",
+        "D": "Trong nền sản xuất lớn hiện đại"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trong nền sản xuất hàng hóa giản đơn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trong nền sản xuất tự cung tự cấp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trong nền sản xuất hàng hóa tư bản chủ nghĩa",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Trong nền sản xuất lớn hiện đại",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Trong nền sản xuất hàng hóa tư bản chủ nghĩa"
+    },
+    {
+      "id": 70,
+      "chapter": 3,
+      "question": "Kéo dài tuyệt đối ngày lao động của công nhân trong điều kiện thời gian  lao  động  tất  yếu  không  đổi  là  cách  thức  thực  hiện của phương pháp?",
+      "options": {
+        "A": "Sản xuất giá trị thặng dư tương đối",
+        "B": "Sản xuất giá trị thặng dư tuyệt đối",
+        "C": "Sản xuất giá trị thặng dư siêu ngạch",
+        "D": "Tất cả phương án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất giá trị thặng dư tương đối",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất giá trị thặng dư tuyệt đối",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất giá trị thặng dư siêu ngạch",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả phương án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sản xuất giá trị thặng dư tuyệt đối"
+    },
+    {
+      "id": 71,
+      "chapter": 3,
+      "question": "Phương pháp sản xuất giá trị thặng dư tuyệt đối được áp dụng chủyếu vào giai đoạn nào?",
+      "options": {
+        "A": "Giai đoạn đầu của CNTB",
+        "B": "Giai đoạn CNTB hiện đại",
+        "C": "Giai đoạn CNTB độc quyền",
+        "D": "Giai đoạn CNTB độc quyền nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giai đoạn đầu của CNTB",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giai đoạn CNTB hiện đại",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giai đoạn CNTB độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giai đoạn CNTB độc quyền nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giai đoạn đầu của CNTB"
+    },
+    {
+      "id": 72,
+      "chapter": 3,
+      "question": "Giá trị thặng dư tương đối là kết quả của việc:",
+      "options": {
+        "A": "Nâng cao năng suất lao động xã hội",
+        "B": "Nâng cao năng suất lao động cá biệt",
+        "C": "Nâng cao cường độ lao động",
+        "D": "Nâng cao thời gian lao động"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nâng cao năng suất lao động xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nâng cao năng suất lao động cá biệt",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nâng cao cường độ lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nâng cao thời gian lao động",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nâng cao năng suất lao động xã hội"
+    },
+    {
+      "id": 73,
+      "chapter": 3,
+      "question": "Địa tô tuyệt đối có ở loại ruộng đất nào?",
+      "options": {
+        "A": "Ruộng đất trung bình",
+        "B": "Ruộng đất xấu",
+        "C": "Ruộng đất tốt",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ruộng đất trung bình",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ruộng đất xấu",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ruộng đất tốt",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 74,
+      "chapter": 3,
+      "question": "Việc mua bán nô lệ và mua bán sức lao động được so sánh như thế nào?",
+      "options": {
+        "A": "Giống nhau hoàn toàn",
+        "B": "Khác nhau hoàn toàn",
+        "C": "Giống nhau về bản chất, khác nhau về hình thức",
+        "D": "Giống nhau về hình thức, khác nhau về bản chất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giống nhau hoàn toàn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khác nhau hoàn toàn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giống nhau về bản chất, khác nhau về hình thức",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giống nhau về hình thức, khác nhau về bản chất",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Khác nhau hoàn toàn"
+    },
+    {
+      "id": 75,
+      "chapter": 3,
+      "question": "Chọn ý đúng về sức lao động và lao động:",
+      "options": {
+        "A": "Sức lao động là hàng hóa, lao động không phải là hàng hóa",
+        "B": "Lao động là hàng hóa, sức lao dộng không phải là hàng hóa",
+        "C": "Lao động có giá trị còn sức lao động không có giá trị",
+        "D": "Lao động chỉ là khả năng còn sức lao động là lao động đã được tiêu dùng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sức lao động là hàng hóa, lao động không phải là hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lao động là hàng hóa, sức lao dộng không phải là hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lao động có giá trị còn sức lao động không có giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lao động chỉ là khả năng còn sức lao động là lao động đã được tiêu dùng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Sức lao động là hàng hóa, lao động không phải là hàng hóa"
+    },
+    {
+      "id": 76,
+      "chapter": 3,
+      "question": "Các luận điểm dưới đây, luận điểm nào sai?",
+      "options": {
+        "A": "Các phương thức sản xuất trước CNTB bóc lột sản phẩm thặng dư trực tiếp",
+        "B": "Bóc lột sản phẩm thặng dư chỉ có ở CNTB",
+        "C": "Sản xuất giá trị thặng dư tuyệt đối là hình thái chung nhất của sản xuất giá trị thặng dư",
+        "D": "Sản xuất giá trị thặng dư tuyệt đối là điểm xuất phát để sản xuất giá trị thặng dư tương đối"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các phương thức sản xuất trước CNTB bóc lột sản phẩm thặng dư trực tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bóc lột sản phẩm thặng dư chỉ có ở CNTB",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất giá trị thặng dư tuyệt đối là hình thái chung nhất của sản xuất giá trị thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sản xuất giá trị thặng dư tuyệt đối là điểm xuất phát để sản xuất giá trị thặng dư tương đối",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Bóc lột sản phẩm thặng dư chỉ có ở CNTB"
+    },
+    {
+      "id": 77,
+      "chapter": 3,
+      "question": "Khi nói về phương pháp sản xuất giá trị thặng dư tuyệt đối, nhận định nào dưới đây không đúng?",
+      "options": {
+        "A": "Giá trị sức lao động không đổi",
+        "B": "Thời gian lao động cần thiết thay đổi",
+        "C": "Ngày lao động thay đổi",
+        "D": "Thời gian lao động thặng dư thay đổi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị sức lao động không đổi",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thời gian lao động cần thiết thay đổi",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Ngày lao động thay đổi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thời gian lao động thặng dư thay đổi",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Thời gian lao động cần thiết thay đổi"
+    },
+    {
+      "id": 78,
+      "chapter": 3,
+      "question": "Tiền công thực tế thay đổi thế nào? Chọn các phát biểu sai dưới đây:",
+      "options": {
+        "A": "Tỷ lệ thuận với tiền công danh nghĩa",
+        "B": "Tỷ lệ nghịch với giá trị tư liệu tiêu dùng và dịch vụ.",
+        "C": "Biến đổi cùng chiều với lạm phát",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tỷ lệ thuận với tiền công danh nghĩa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tỷ lệ nghịch với giá trị tư liệu tiêu dùng và dịch vụ.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Biến đổi cùng chiều với lạm phát",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Biến đổi cùng chiều với lạm phát"
+    },
+    {
+      "id": 79,
+      "chapter": 3,
+      "question": "Khi nào lợi nhuận bằng giá trị thặng dư?",
+      "options": {
+        "A": "Khi cung = cầu",
+        "B": "Khi mua và bán hàng hoá đều đúng giá trị.",
+        "C": "Tất cả các đáp án đều đúng",
+        "D": "Không khi nào"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khi cung = cầu",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khi mua và bán hàng hoá đều đúng giá trị.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không khi nào",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Khi mua và bán hàng hoá đều đúng giá trị."
+    },
+    {
+      "id": 80,
+      "chapter": 3,
+      "question": "Địa tô chênh lệch I và chênh lệch II khác nhau ở:",
+      "options": {
+        "A": "Địa tô chênh lệch I có trên ruộng đất tốt và trung bình về màu mỡ.",
+        "B": "Địa tô chênh lệch II có trên ruộng đất có vị trí thuận lợi.",
+        "C": "Địa tô chênh lệch I do độ màu mỡ tự nhiên của đất mang lại, địa tô chênh lệch II do độ màu mỡ nhân tạo đem lại.",
+        "D": "Địa tô chênh lệch II có thể chuyển thành địa tô chênh lệch I."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Địa tô chênh lệch I có trên ruộng đất tốt và trung bình về màu mỡ.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Địa tô chênh lệch II có trên ruộng đất có vị trí thuận lợi.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Địa tô chênh lệch I do độ màu mỡ tự nhiên của đất mang lại, địa tô chênh lệch II do độ màu mỡ nhân tạo đem lại.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Địa tô chênh lệch II có thể chuyển thành địa tô chênh lệch I.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Địa tô chênh lệch I do độ màu mỡ tự nhiên của đất mang lại, địa tô chênh lệch II do độ màu mỡ nhân tạo đem lại."
+    },
+    {
+      "id": 81,
+      "chapter": 3,
+      "question": "Nguyên nhân có địa tô chênh lệch II là do:",
+      "options": {
+        "A": "Do độ màu mỡ tự nhiên của đất",
+        "B": "Do vị trí thuận lợi của đất",
+        "C": "Do đầu tư thêm mà có",
+        "D": "Do Nhà nước quy định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do độ màu mỡ tự nhiên của đất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do vị trí thuận lợi của đất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do đầu tư thêm mà có",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Do Nhà nước quy định",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Do đầu tư thêm mà có"
+    },
+    {
+      "id": 82,
+      "chapter": 3,
+      "question": "Loại ruộng đất nào chỉ có địa tô tuyệt đối?",
+      "options": {
+        "A": "Ruộng tốt",
+        "B": "Ruộng trung bình",
+        "C": "Ruộng có vị trí thuận lợi",
+        "D": "Ruộng xấu"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ruộng tốt",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ruộng trung bình",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ruộng có vị trí thuận lợi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ruộng xấu",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Ruộng tốt"
+    },
+    {
+      "id": 83,
+      "chapter": 3,
+      "question": "Địa tô tuyệt đối có ở loại ruộng đất nào?",
+      "options": {
+        "A": "Ruộng đất tốt",
+        "B": "Ruộng đất trung bình",
+        "C": "Ruộng đất xấu",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ruộng đất tốt",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ruộng đất trung bình",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ruộng đất xấu",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    }
+  ]
+}

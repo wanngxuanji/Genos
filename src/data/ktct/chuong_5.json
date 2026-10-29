@@ -1,0 +1,1897 @@
+{
+  "chapter": 5,
+  "title": "Chương 5: Kinh tế thị trường định hướng XHCN và các quan hệ lợi ích kinh tế ở Việt Nam",
+  "total_questions": 54,
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 5,
+      "question": "Nước ta đang ở giai đoạn nào của quá trình xây dựng và phát triển CNXH?",
+      "options": {
+        "A": "Đang ở trong giai đoạn phát triển CNXH",
+        "B": "Thời kỳ quá độ lên CNXH",
+        "C": "Giai đoạn đầu của quá trình tiến lên CNXH",
+        "D": "Đang ở trong giai đoạn CNXH phát triển"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đang ở trong giai đoạn phát triển CNXH",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thời kỳ quá độ lên CNXH",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giai đoạn đầu của quá trình tiến lên CNXH",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đang ở trong giai đoạn CNXH phát triển",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Thời kỳ quá độ lên CNXH"
+    },
+    {
+      "id": 2,
+      "chapter": 5,
+      "question": "Hãy kể tên các loại hình sở hữu cơ bản ở nước ta?( không có trong ngân hàng đề thi)",
+      "options": {
+        "A": "Sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân, sở hữu hỗn hợp",
+        "B": "Sở hữu toàn dân, sở hữu tư nhân, sở hữu hỗn hợp",
+        "C": "Sở hữu nhà nước, sở hữu tập thể, sở hữu tư nhân",
+        "D": "Sở hữu nhà nước, sở hữu hợp tác, sở hữu tập thể"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sở hữu toàn dân, sở hữu tập thể, sở hữu tư nhân, sở hữu hỗn hợp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sở hữu toàn dân, sở hữu tư nhân, sở hữu hỗn hợp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sở hữu nhà nước, sở hữu tập thể, sở hữu tư nhân",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Sở hữu nhà nước, sở hữu hợp tác, sở hữu tập thể",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Sở hữu nhà nước, sở hữu tập thể, sở hữu tư nhân"
+    },
+    {
+      "id": 3,
+      "chapter": 5,
+      "question": "Vai trò chủ yếu của nhà nước khi tham gia thị trường?",
+      "options": {
+        "A": "Sản xuất và cung cấp hàng hoá cho thị trường",
+        "B": "Tiêu thụ hàng hoá cho thị trường",
+        "C": "Kết nối doanh nghiệp ở các quốc gia",
+        "D": "Điều tiết nền kinh tế vĩ mô thông qua luật pháp và chính sách"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất và cung cấp hàng hoá cho thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiêu thụ hàng hoá cho thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kết nối doanh nghiệp ở các quốc gia",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Điều tiết nền kinh tế vĩ mô thông qua luật pháp và chính sách",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Điều tiết nền kinh tế vĩ mô thông qua luật pháp và chính sách"
+    },
+    {
+      "id": 4,
+      "chapter": 5,
+      "question": "Điểm khác biệt căn bản nhất về cơ sở hạ tầng của nền kinh tế thị trường định hướng XHCN so với nền kinh tế thị trường TBCN là gì ?",
+      "options": {
+        "A": "Thành phần kinh tế Nhà nước giữ vai trò chủ đạo",
+        "B": "Nhà nước do Đảng Cộng sản lãnh đạo",
+        "C": "Hình thức phân phối theo lao động là chủ yếu",
+        "D": "Mục tiêu xây dựng xã hội \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\""
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thành phần kinh tế Nhà nước giữ vai trò chủ đạo",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước do Đảng Cộng sản lãnh đạo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hình thức phân phối theo lao động là chủ yếu",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mục tiêu xây dựng xã hội \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\"",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Thành phần kinh tế Nhà nước giữ vai trò chủ đạo"
+    },
+    {
+      "id": 5,
+      "chapter": 5,
+      "question": "Hệ thống chính trị do Đảng Cộng sản lãnh đạo là đặc trưng về lĩnh vực gì của nền kinh tế thị trường tại Việt Nam ?",
+      "options": {
+        "A": "Kiến trúc thượng tầng",
+        "B": "Về quan hệ sở hữu",
+        "C": "Về quan hệ phân phối",
+        "D": "Về mục tiêu"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kiến trúc thượng tầng",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Về quan hệ sở hữu",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Về quan hệ phân phối",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Về mục tiêu",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Kiến trúc thượng tầng"
+    },
+    {
+      "id": 6,
+      "chapter": 5,
+      "question": "Trong các nguyên nhân hình thành nền kinh tế thị trường định hướng XHCN tại Việt Nam, nguyên nhân nào là đặc thù riêng của Việt Nam ?",
+      "options": {
+        "A": "Lịch sử Việt Nam có Đảng cộng sản lãnh đạo cuộc cách mạng Dân tộc dân chủ",
+        "B": "Nhân dân Việt Nam có nguyên vọng xây dựng xã hội \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\"",
+        "C": "Nền kinh tế Việt Nam vận hành theo quy luật \"Quan hệ sản xuất phải phù hợp với trình độ của Lực lượng sản xuất\"",
+        "D": "Tất cả phương án nêu ra đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lịch sử Việt Nam có Đảng cộng sản lãnh đạo cuộc cách mạng Dân tộc dân chủ",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nhân dân Việt Nam có nguyên vọng xây dựng xã hội \"dân giàu, nước mạnh, dân chủ, công bằng, văn minh\"",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nền kinh tế Việt Nam vận hành theo quy luật \"Quan hệ sản xuất phải phù hợp với trình độ của Lực lượng sản xuất\"",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả phương án nêu ra đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lịch sử Việt Nam có Đảng cộng sản lãnh đạo cuộc cách mạng Dân tộc dân chủ"
+    },
+    {
+      "id": 7,
+      "chapter": 5,
+      "question": "Hãy chọn đáp án sai khi nói về vai trò của Đảng đối với hoàn thiện thể chế kinh tế thị trường định hướng XHCN:",
+      "options": {
+        "A": "Phát triển lý luận, định hướng chiến lược",
+        "B": "Điều hành nền kinh tế xã hội( đảng ko có điều hành kinh tế mà lãnh đạo)",
+        "C": "Giám sát, chỉnh đốn, phòng chống tham nhũng",
+        "D": "Phát huy sự lãnh đạo theo nguyên tắc tập trung dân chủ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phát triển lý luận, định hướng chiến lược",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Điều hành nền kinh tế xã hội( đảng ko có điều hành kinh tế mà lãnh đạo)",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giám sát, chỉnh đốn, phòng chống tham nhũng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phát huy sự lãnh đạo theo nguyên tắc tập trung dân chủ",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Điều hành nền kinh tế xã hội( đảng ko có điều hành kinh tế mà lãnh đạo)"
+    },
+    {
+      "id": 8,
+      "chapter": 5,
+      "question": "Điểm khác biệt căn bản về kiến trúc thượng tầng thể chế kinh tế thị trường định hưỡng XHCN với thể chế kinh tế thị trường TBCN là gì?",
+      "options": {
+        "A": "Đảng cộng sản lãnh đạo",
+        "B": "Hiệu lực của Nhà nước pháp quyền",
+        "C": "Quan hệ hội nhập kinh tế quốc tế",
+        "D": "Tất cả phương án nêu ra đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đảng cộng sản lãnh đạo",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hiệu lực của Nhà nước pháp quyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ hội nhập kinh tế quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả phương án nêu ra đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Đảng cộng sản lãnh đạo"
+    },
+    {
+      "id": 9,
+      "chapter": 5,
+      "question": "Chọn đáp án đúng điền vào … “Lợi ích kinh tế là lợi ích …, lợi ích thu được khi thực hiện các hoạt động kinh tế của con người.”.",
+      "options": {
+        "A": "Tinh thần",
+        "B": "Vật chất",
+        "C": "Xã hội",
+        "D": "Cá nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tinh thần",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Vật chất",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cá nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Vật chất"
+    },
+    {
+      "id": 10,
+      "chapter": 5,
+      "question": "Đâu là lợi ích kinh tế của chủ doanh nghiệp?",
+      "options": {
+        "A": "Thu nhập của người lao động",
+        "B": "Lợi nhuận",
+        "C": "Vốn đầu tư",
+        "D": "Cổ phiếu"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thu nhập của người lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lợi nhuận",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Vốn đầu tư",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cổ phiếu",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lợi nhuận"
+    },
+    {
+      "id": 11,
+      "chapter": 5,
+      "question": "Có mấy vai trò chính của lợi ích kinh tế đối với các chủ thể kinh tế - xã hội?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "2",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "2"
+    },
+    {
+      "id": 12,
+      "chapter": 5,
+      "question": "Chọn phát biểu không đúng về sự mâu thuẫn trong các quan hệ lợi ích kinh tế:",
+      "options": {
+        "A": "Mâu thuẫn về lợi ích kinh tế là cội nguồn của các xung đột xã hội",
+        "B": "Lợi ích của chủ thể này được thực hiện thì lợi ích của chủ thể khác cũng trực tiếp hoặc gián tiếp thực hiện.",
+        "C": "Các chủ thể kinh tế thực hiện lợi ích của mình bằng những phương thức khác nhau gây ra mâu thuẫn.",
+        "D": "Thu nhập của chủ thể này tăng thì thu nhập của chủ thể khác giảm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mâu thuẫn về lợi ích kinh tế là cội nguồn của các xung đột xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích của chủ thể này được thực hiện thì lợi ích của chủ thể khác cũng trực tiếp hoặc gián tiếp thực hiện.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Các chủ thể kinh tế thực hiện lợi ích của mình bằng những phương thức khác nhau gây ra mâu thuẫn.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thu nhập của chủ thể này tăng thì thu nhập của chủ thể khác giảm",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lợi ích của chủ thể này được thực hiện thì lợi ích của chủ thể khác cũng trực tiếp hoặc gián tiếp thực hiện."
+    },
+    {
+      "id": 13,
+      "chapter": 5,
+      "question": "Có bao nhiêu nhân tố ảnh hưởng đến lợi ích kinh tế?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "5",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "6",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "4"
+    },
+    {
+      "id": 14,
+      "chapter": 5,
+      "question": "Xác định các câu trả lời đúng về sự điều tiết vĩ mô của nhà nước là nhằm:",
+      "options": {
+        "A": "Hạn chế tác động tiêu cực của cơ chế thị trường",
+        "B": "Phát huy tác động tích cực của cơ chế thị trường",
+        "C": "Đảm bảo cho nền kinh tế hoạt động có hiệu quả",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hạn chế tác động tiêu cực của cơ chế thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phát huy tác động tích cực của cơ chế thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Đảm bảo cho nền kinh tế hoạt động có hiệu quả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 15,
+      "chapter": 5,
+      "question": "Yếu tố nào là chủ yếu nhất trong tổng thu của ngân sách nhà nước?",
+      "options": {
+        "A": "Các khoản thu từ kinh tế nhà nước",
+        "B": "Các khoản đóng góp của các tổ chức và cá nhân",
+        "C": "Các khoản thu từ thuế",
+        "D": "Các nguồn viện trợ, tại trợ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các khoản thu từ kinh tế nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các khoản đóng góp của các tổ chức và cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các khoản thu từ thuế",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các nguồn viện trợ, tại trợ",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Các khoản thu từ thuế"
+    },
+    {
+      "id": 16,
+      "chapter": 5,
+      "question": "Cơ cấu lợi ích trong thành phần kinh tế có vốn đầu tư nước ngoài là:",
+      "options": {
+        "A": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân",
+        "B": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân",
+        "C": "Lợi ích của chủ đầu tư nước ngoài, lợi ích nhà nước, lợi ích người lao động",
+        "D": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích của chủ đầu tư nước ngoài, lợi ích nhà nước, lợi ích người lao động",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lợi ích của chủ đầu tư nước ngoài, lợi ích nhà nước, lợi ích người lao động"
+    },
+    {
+      "id": 17,
+      "chapter": 5,
+      "question": "Trong thời kỳ quá độ ở nước ta tồn tại nhiều nguyên tắc phân phối. Vì trong thời kỳ quá độ còn:",
+      "options": {
+        "A": "Nhiều hình thức sở hữu TLSX",
+        "B": "Nhiều hình thức kinh doanh",
+        "C": "Nhiều thành phần kinh tế",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhiều hình thức sở hữu TLSX",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhiều hình thức kinh doanh",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhiều thành phần kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 18,
+      "chapter": 5,
+      "question": "Mô hình kinh tế tổng quát trong thời kỳ quá độ ở nước ta là:",
+      "options": {
+        "A": "Kinh tế thị trường có sự quản lý của nhà nước",
+        "B": "Kinh tế nhiều thành phần theo định hướng XHCN",
+        "C": "Kinh tế thị trường định hướng XHCN",
+        "D": "Kinh tế nhiều thành phần có sự quản lý của nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kinh tế thị trường có sự quản lý của nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế nhiều thành phần theo định hướng XHCN",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế thị trường định hướng XHCN",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế nhiều thành phần có sự quản lý của nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Kinh tế thị trường định hướng XHCN"
+    },
+    {
+      "id": 19,
+      "chapter": 5,
+      "question": "Phân phối theo lao động là nguyên tắc cơ bản, áp dụng thích hợp nhất cho:",
+      "options": {
+        "A": "Thành phần kinh tế nhà nước",
+        "B": "Thành phần kinh tế nhà nước, kinh tế tập thể và kinh tế tư bản nhà nước",
+        "C": "Cho tất cả các thành phần kinh tế trong thời kỳ quá độ",
+        "D": "Thành phần kinh tế dựa trên sở hữu công về TLSX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thành phần kinh tế nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thành phần kinh tế nhà nước, kinh tế tập thể và kinh tế tư bản nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cho tất cả các thành phần kinh tế trong thời kỳ quá độ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thành phần kinh tế dựa trên sở hữu công về TLSX",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thành phần kinh tế dựa trên sở hữu công về TLSX"
+    },
+    {
+      "id": 20,
+      "chapter": 5,
+      "question": "Kinh tế thị trường định hướng xã hội chủ nghĩa ở VN là:",
+      "options": {
+        "A": "Nền kinh tế có nhiều hình thức sở hữu, nhiều thành phần kinh tế, kinh tế nhà nước giữ vai trò chủ đạo",
+        "B": "Nền kinh tế có nhiều hình thức tách biệt, nhiều thành phần kinh tế, kinh tế tư nhân giữ vai trò chủ yếu",
+        "C": "Nền kinh tế có nhiều hình thức tách biệt, nhiều thành phần kinh tế phân hóa, kinh tế nhà nước và kinh tế tư nhân giữ vai trò trong nền kinh tế",
+        "D": "Tất cả đều sai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nền kinh tế có nhiều hình thức sở hữu, nhiều thành phần kinh tế, kinh tế nhà nước giữ vai trò chủ đạo",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nền kinh tế có nhiều hình thức tách biệt, nhiều thành phần kinh tế, kinh tế tư nhân giữ vai trò chủ yếu",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nền kinh tế có nhiều hình thức tách biệt, nhiều thành phần kinh tế phân hóa, kinh tế nhà nước và kinh tế tư nhân giữ vai trò trong nền kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều sai",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nền kinh tế có nhiều hình thức sở hữu, nhiều thành phần kinh tế, kinh tế nhà nước giữ vai trò chủ đạo"
+    },
+    {
+      "id": 21,
+      "chapter": 5,
+      "question": "Đâu không phải là đặc trưng chung của kinh tế thị trường?",
+      "options": {
+        "A": "Quyền tự do kinh doanh.",
+        "B": "Lấy thị trường để phân bố nguồn lực sản xuất.",
+        "C": "Kết hợp phát triển kinh tế thị trường và giải quyết các vấn đề xã hội.",
+        "D": "Các quy luật kinh tế thị trường có tác dụng điều tiết hoạt động của các chủ kinh tế."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quyền tự do kinh doanh.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lấy thị trường để phân bố nguồn lực sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kết hợp phát triển kinh tế thị trường và giải quyết các vấn đề xã hội.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các quy luật kinh tế thị trường có tác dụng điều tiết hoạt động của các chủ kinh tế.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Kết hợp phát triển kinh tế thị trường và giải quyết các vấn đề xã hội."
+    },
+    {
+      "id": 22,
+      "chapter": 5,
+      "question": "Tìm câu trả lời chính xác nhất cho câu hỏi dưới đây về cơ chế thị trường. Cơ chế thị trường là:",
+      "options": {
+        "A": "Cơ chế điều tiết nền kinh tế tự phát",
+        "B": "Cơ chế điều tiết nền kinh tế theo các quy luật của kinh tế thị trường",
+        "C": "Cơ chế điều tiết nền kinh tế theo các quy luật kinh tế",
+        "D": "Cơ chế thị trường do \"bàn tay vô hình\" chi phối"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cơ chế điều tiết nền kinh tế tự phát",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cơ chế điều tiết nền kinh tế theo các quy luật của kinh tế thị trường",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cơ chế điều tiết nền kinh tế theo các quy luật kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cơ chế thị trường do \"bàn tay vô hình\" chi phối",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cơ chế điều tiết nền kinh tế theo các quy luật của kinh tế thị trường"
+    },
+    {
+      "id": 23,
+      "chapter": 5,
+      "question": "Lợi ích kinh tế là gì :",
+      "options": {
+        "A": "Là lợi ích tinh thần, lợi ích thu được khi thực hiện các hoạt động kinh tế của con người.",
+        "B": "Là lợi ích tinh thần, lợi ích thu được khi thực hiện các hoạt động chính trị của con người.",
+        "C": "Là lợi ích vật chất, lợi ích thu được khi thực hiện các hoạt động kinh tế của con người.",
+        "D": "Là lợi ích vật chất hóa, lợi ích thu được khi thực hiện các hoạt động kinh doanh của con người."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là lợi ích tinh thần, lợi ích thu được khi thực hiện các hoạt động kinh tế của con người.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là lợi ích tinh thần, lợi ích thu được khi thực hiện các hoạt động chính trị của con người.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là lợi ích vật chất, lợi ích thu được khi thực hiện các hoạt động kinh tế của con người.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Là lợi ích vật chất hóa, lợi ích thu được khi thực hiện các hoạt động kinh doanh của con người.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Là lợi ích vật chất, lợi ích thu được khi thực hiện các hoạt động kinh tế của con người."
+    },
+    {
+      "id": 24,
+      "chapter": 5,
+      "question": "Mâu thuẫn về lợi ích kinh tế là ?",
+      "options": {
+        "A": "Cội nguồn của các cuộc sụp đổ tập đoàn kinh tế.",
+        "B": "Cơ hội sụp đổ của nền kinh tế xã hội",
+        "C": "Cội nguồn của các xung đột xã hội",
+        "D": "Cơ hội của các cuộc chiến tranh lớn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cội nguồn của các cuộc sụp đổ tập đoàn kinh tế.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cơ hội sụp đổ của nền kinh tế xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cội nguồn của các xung đột xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cơ hội của các cuộc chiến tranh lớn",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cội nguồn của các xung đột xã hội"
+    },
+    {
+      "id": 25,
+      "chapter": 5,
+      "question": "Kinh tế thị trường nói chung và kinh tế thị trường định hướng XHCN quan hệ với nhau thế nào?",
+      "options": {
+        "A": "Khác nhau hoàn toàn",
+        "B": "Giống nhau về bản chất chỉ khác về hình thức",
+        "C": "Vừa có đặc điểm chung vừa có đặc điểm riêng",
+        "D": "Nội dung giống nhau, chỉ khác nhau về bản chất nhà nước."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khác nhau hoàn toàn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giống nhau về bản chất chỉ khác về hình thức",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vừa có đặc điểm chung vừa có đặc điểm riêng",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Nội dung giống nhau, chỉ khác nhau về bản chất nhà nước.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Vừa có đặc điểm chung vừa có đặc điểm riêng"
+    },
+    {
+      "id": 26,
+      "chapter": 5,
+      "question": "Phân phối theo vốn kết hợp với phân phối theo lao động được áp dụng ở thành phần kinh tế nào?",
+      "options": {
+        "A": "Trong các HTX",
+        "B": "Cho kinh tế tập thể và kinh tế nhà nước.",
+        "C": "Cho kinh tế tập thể.",
+        "D": "Cho kinh tế tập thể và kinh tế tư bản nhà nước."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trong các HTX",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cho kinh tế tập thể và kinh tế nhà nước.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cho kinh tế tập thể.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cho kinh tế tập thể và kinh tế tư bản nhà nước.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cho kinh tế tập thể."
+    },
+    {
+      "id": 27,
+      "chapter": 5,
+      "question": "Kinh tế tư nhân, kinh tế cá thể và kinh tế tư bản tư nhân giống nhauở điểm cơ bản nào?",
+      "options": {
+        "A": "Sử dụng lao động làm thuê, tuy mức độ khác nhau.",
+        "B": "Tư hữu TLSX, tuy mức độ khác nhau",
+        "C": "Sử dụng lao động bản thân và gia đình là chủ yếu.",
+        "D": "Bóc lột giá trị thặng dư ở mức độ khác nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sử dụng lao động làm thuê, tuy mức độ khác nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tư hữu TLSX, tuy mức độ khác nhau",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sử dụng lao động bản thân và gia đình là chủ yếu.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bóc lột giá trị thặng dư ở mức độ khác nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tư hữu TLSX, tuy mức độ khác nhau"
+    },
+    {
+      "id": 28,
+      "chapter": 5,
+      "question": "Thành phần kinh tế tư bản nhà nước ở Việt Nam hiện nay thể hiện ở:",
+      "options": {
+        "A": "Các doanh nghiệp liên doanh",
+        "B": "Các liên doanh giữa Việt Nam với nước ngoài",
+        "C": "Các liên doanh giữa kinh tế nhà nước với kinh tế tư bản tư nhân",
+        "D": "Các liên doanh giữa nhà nước với các thành phần kinh tế khác."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các doanh nghiệp liên doanh",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các liên doanh giữa Việt Nam với nước ngoài",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các liên doanh giữa kinh tế nhà nước với kinh tế tư bản tư nhân",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các liên doanh giữa nhà nước với các thành phần kinh tế khác.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Các liên doanh giữa kinh tế nhà nước với kinh tế tư bản tư nhân"
+    },
+    {
+      "id": 29,
+      "chapter": 5,
+      "question": "Nền tảng của nền kinh tế quốc dân theo định hướng XHCN là",
+      "options": {
+        "A": "Kinh tế nhà nước",
+        "B": "Kinh tế quốc doanh và tập thể",
+        "C": "Kinh tế quốc doanh, tập thể và CNTB nhà nước",
+        "D": "Kinh tế tư nhân, kinh tế tập thể"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kinh tế nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế quốc doanh và tập thể",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế quốc doanh, tập thể và CNTB nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế tư nhân, kinh tế tập thể",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Kinh tế nhà nước"
+    },
+    {
+      "id": 30,
+      "chapter": 5,
+      "question": "Dựa vào tiêu chí nào để đánh giá hiệu quả xây dựng QHSX mới ở nước ta?",
+      "options": {
+        "A": "Thúc đẩy lực lượng sản xuất phát triển, cải thiện đời sống.",
+        "B": "LLSX phát triển, thực hiện công bằng xã hội",
+        "C": "LLSX phát triển, QHSX phát triển vững chắc",
+        "D": "LLSX phát triển, cải thiện đời sống, thực hiện công bằng xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thúc đẩy lực lượng sản xuất phát triển, cải thiện đời sống.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "LLSX phát triển, thực hiện công bằng xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "LLSX phát triển, QHSX phát triển vững chắc",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "LLSX phát triển, cải thiện đời sống, thực hiện công bằng xã hội",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "LLSX phát triển, cải thiện đời sống, thực hiện công bằng xã hội"
+    },
+    {
+      "id": 31,
+      "chapter": 5,
+      "question": "Quan hệ phân phối có tính lịch sử. Yếu tố nào quy định tính lịch sử đó?",
+      "options": {
+        "A": "Phương thức sản xuất",
+        "B": "Lực lượng sản xuất",
+        "C": "Quan hệ sản xuất",
+        "D": "Kiến trúc thượng tầng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phương thức sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lực lượng sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ sản xuất",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kiến trúc thượng tầng",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quan hệ sản xuất"
+    },
+    {
+      "id": 32,
+      "chapter": 5,
+      "question": "Tính chất của quan hệ phân phối do nhân tố nào quyết định?",
+      "options": {
+        "A": "Quan hệ sản xuất",
+        "B": "Lực lượng sản xuất",
+        "C": "Kiến trúc thượng tầng",
+        "D": "Hạ tầng cơ sở"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ sản xuất",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lực lượng sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kiến trúc thượng tầng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hạ tầng cơ sở",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quan hệ sản xuất"
+    },
+    {
+      "id": 33,
+      "chapter": 5,
+      "question": "Quan hệ nào có vai trò quyết định đến phân phối?",
+      "options": {
+        "A": "Quan hệ sở hữu TLSX",
+        "B": "Quan hệ tổ chức quản lý",
+        "C": "Quan hệ xã hội, đạo đức.",
+        "D": "Quan hệ tổ chức quản lý và quan hệ xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ sở hữu TLSX",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ tổ chức quản lý",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ xã hội, đạo đức.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ tổ chức quản lý và quan hệ xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quan hệ sở hữu TLSX"
+    },
+    {
+      "id": 34,
+      "chapter": 5,
+      "question": "Cơ cấu lợi ích trong thành phần kinh tế tư bản tư nhân là:",
+      "options": {
+        "A": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+        "B": "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể",
+        "C": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân.",
+        "D": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội"
+    },
+    {
+      "id": 35,
+      "chapter": 5,
+      "question": "Cơ cấu lợi ích trong thành phần kinh tế cá thể, tiểu chủ:",
+      "options": {
+        "A": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân.",
+        "B": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân.",
+        "C": "Lợi ích cá nhân, lợi ích xã hội.",
+        "D": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích cá nhân, lợi ích xã hội.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lợi ích cá nhân, lợi ích xã hội."
+    },
+    {
+      "id": 36,
+      "chapter": 5,
+      "question": "Cơ cấu lợi ích trong thành phần kinh tế tư bản nhà nước là",
+      "options": {
+        "A": "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể",
+        "B": "Lợi ích chủ doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+        "C": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+        "D": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích chủ doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân"
+    },
+    {
+      "id": 37,
+      "chapter": 5,
+      "question": "Cơ cấu lợi ích trong thành phần kinh tế tập thể là gì?",
+      "options": {
+        "A": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân.",
+        "B": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+        "C": "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể",
+        "D": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích cá nhân, lợi ích xã hội, lợi ích tập thể",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân."
+    },
+    {
+      "id": 38,
+      "chapter": 5,
+      "question": "Cơ cấu lợi ích trong thành phần kinh tế nhà nước là:",
+      "options": {
+        "A": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân",
+        "B": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+        "C": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội",
+        "D": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích doanh nghiệp, lợi ích xã hội, lợi ích cá nhân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích chủ doanh nghiệp, lợi ích cá nhân, lợi ích xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích tập thể, lợi ích xã hội, lợi ích cá nhân.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lợi ích nhà nước, lợi ích tập thể, lợi ích cá nhân"
+    },
+    {
+      "id": 39,
+      "chapter": 5,
+      "question": "Câu nói: \"ở đâu không có lợi ích chung, ở đó không có sự thống nhất về mục đích\" là của ai?",
+      "options": {
+        "A": "C.Mác",
+        "B": "Ph.Ăng ghen",
+        "C": "V.I.Lênin",
+        "D": "Hồ Chí Minh"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "C.Mác",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ph.Ăng ghen",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "V.I.Lênin",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hồ Chí Minh",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Ph.Ăng ghen"
+    },
+    {
+      "id": 40,
+      "chapter": 5,
+      "question": "Nhân tố nào quyết định lợi ích kinh tế?",
+      "options": {
+        "A": "Quan hệ sở hữu",
+        "B": "Quan hệ phân phối",
+        "C": "Quan hệ trao đổi",
+        "D": "Quan hệ tiêu dùng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ sở hữu",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ phân phối",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ trao đổi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ tiêu dùng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quan hệ sở hữu"
+    },
+    {
+      "id": 41,
+      "chapter": 5,
+      "question": "Động lực quan trọng nhất của sự phát triển kinh tế là:",
+      "options": {
+        "A": "Lợi ích kinh tế",
+        "B": "Lợi ích chính trị xã hội",
+        "C": "Lợi ích văn hoá, tinh thần",
+        "D": "Lợi ích quân sự"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lợi ích kinh tế",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lợi ích chính trị xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lợi ích văn hoá, tinh thần",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lợi ích quân sự",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lợi ích kinh tế"
+    },
+    {
+      "id": 42,
+      "chapter": 5,
+      "question": "Hiện nay trong nền kinh tế thị trường ở nước ta, nhà nước có chức năng kinh tế gì?",
+      "options": {
+        "A": "Đảm bảo ổn định kinh tế - xã hội; tạo lập khuôn khổ pháp luật cho hoạt động kinh tế.",
+        "B": "Định hướng phát triển kinh tế và điều tiết các hoạt động kinh tế làm cho kinh tế tăng trưởng ổn định, hiệu quả.",
+        "C": "Hạn chế, khắc phục mặt tiêu cực của cơ chế thị trường.",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đảm bảo ổn định kinh tế - xã hội; tạo lập khuôn khổ pháp luật cho hoạt động kinh tế.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Định hướng phát triển kinh tế và điều tiết các hoạt động kinh tế làm cho kinh tế tăng trưởng ổn định, hiệu quả.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hạn chế, khắc phục mặt tiêu cực của cơ chế thị trường.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 43,
+      "chapter": 5,
+      "question": "Sự quản lý của nhà nước trong kinh tế thị trường định hướng XHCN và kinh tế thị trường TBCN khác nhau. Sự khác nhau đó chủ yếu do:",
+      "options": {
+        "A": "Mục tiêu phát triển kinh tế - xã hội",
+        "B": "Bản chất của nhà nước",
+        "C": "Các công cụ quản lý vĩ mô",
+        "D": "Do trình độ phát triển của lực lượng sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mục tiêu phát triển kinh tế - xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Bản chất của nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các công cụ quản lý vĩ mô",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Do trình độ phát triển của lực lượng sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Mục tiêu phát triển kinh tế - xã hội"
+    },
+    {
+      "id": 44,
+      "chapter": 5,
+      "question": "Trong các nguyên tắc phân phối dưới đây, nguyên tắc nào là chủ yếu nhất ở nước ta hiện nay?",
+      "options": {
+        "A": "Phân phối theo lao động",
+        "B": "Phân phối theo giá trị sức lao động",
+        "C": "Phân phối theo kết quả sản xuất kinh doanh",
+        "D": "Phân phối theo vốn hay tài sản."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phân phối theo lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phân phối theo giá trị sức lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phân phối theo kết quả sản xuất kinh doanh",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phân phối theo vốn hay tài sản.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Phân phối theo lao động"
+    },
+    {
+      "id": 45,
+      "chapter": 5,
+      "question": "Sự khác biệt cơ bản giữa kinh tế thị trường định hướng XHCN với kinh tế thị trường TBCN là:",
+      "options": {
+        "A": "Có sự điều tiết của nhà nước XHCN",
+        "B": "Nền kinh tế nhiều thành phần",
+        "C": "Vai trò chủ đạo của kinh tế nhà nước",
+        "D": "Có nhiều hình thức sở hữu TLSX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Có sự điều tiết của nhà nước XHCN",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nền kinh tế nhiều thành phần",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vai trò chủ đạo của kinh tế nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Có nhiều hình thức sở hữu TLSX",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Vai trò chủ đạo của kinh tế nhà nước"
+    },
+    {
+      "id": 46,
+      "chapter": 5,
+      "question": "Các thành phần kinh tế cùng hoạt động trong TKQĐ. Chúng quan hệ với nhau thế nào?",
+      "options": {
+        "A": "Tự nguyện hợp tác với nhau, cạnh tranh với nhau, đấu tranh loại trừ nhau",
+        "B": "Luôn luôn hợp tác với nhau, không loại trừ nhau",
+        "C": "Luôn luôn cạnh tranh với nhau, không bao giờ hợp tác với nhau",
+        "D": "Vừa hợp tác vừa cạnh tranh với nhau nhưng không bao giờ loại trừ nhau"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tự nguyện hợp tác với nhau, cạnh tranh với nhau, đấu tranh loại trừ nhau",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Luôn luôn hợp tác với nhau, không loại trừ nhau",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Luôn luôn cạnh tranh với nhau, không bao giờ hợp tác với nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vừa hợp tác vừa cạnh tranh với nhau nhưng không bao giờ loại trừ nhau",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tự nguyện hợp tác với nhau, cạnh tranh với nhau, đấu tranh loại trừ nhau"
+    },
+    {
+      "id": 47,
+      "chapter": 5,
+      "question": "Kinh tế nhà nước giữ vai trò chủ đạo. Biểu hiện nào dưới đây không đúng về vai trò chủ đạo:",
+      "options": {
+        "A": "Chiếm tỷ trọng lớn",
+        "B": "Nắm các ngành then chốt, các lĩnh vực quan trọng",
+        "C": "Là nhân tố chính thúc đẩy tăng trưởng kinh tế nhanh và bền vững, có tác dụng chi phối các thành phần kinh tế khác.",
+        "D": "Đi đầu trong ứng dụng tiến bộ KHCN, là công cụ để định hướng và điều tiết kinh tế vĩ mô."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chiếm tỷ trọng lớn",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nắm các ngành then chốt, các lĩnh vực quan trọng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là nhân tố chính thúc đẩy tăng trưởng kinh tế nhanh và bền vững, có tác dụng chi phối các thành phần kinh tế khác.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đi đầu trong ứng dụng tiến bộ KHCN, là công cụ để định hướng và điều tiết kinh tế vĩ mô.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Chiếm tỷ trọng lớn"
+    },
+    {
+      "id": 48,
+      "chapter": 5,
+      "question": "Chọn các ý đúng về sở hữu và thành phần kinh tế:",
+      "options": {
+        "A": "Một hình thức sở hữu chỉ hình thành 1 thành phần kinh tế",
+        "B": "Một hình thức sở hữu có thể hình thành nhiều thành phần kinh tế",
+        "C": "Một thành phần kinh tế chỉ tồn tại thông qua 1 hình thức tổ chức sản xuất kinh doanh",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Một hình thức sở hữu chỉ hình thành 1 thành phần kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Một hình thức sở hữu có thể hình thành nhiều thành phần kinh tế",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Một thành phần kinh tế chỉ tồn tại thông qua 1 hình thức tổ chức sản xuất kinh doanh",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Một hình thức sở hữu có thể hình thành nhiều thành phần kinh tế"
+    },
+    {
+      "id": 49,
+      "chapter": 5,
+      "question": "Trong TKQĐ ở nước ta sở hữu tư nhân:",
+      "options": {
+        "A": "Bị xoá bỏ",
+        "B": "Bị hạn chế",
+        "C": "Là hình thức sở hữu thống trị",
+        "D": "Tồn tại đan xen với các hình thức sở hữu khác."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bị xoá bỏ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bị hạn chế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là hình thức sở hữu thống trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tồn tại đan xen với các hình thức sở hữu khác.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tồn tại đan xen với các hình thức sở hữu khác."
+    },
+    {
+      "id": 50,
+      "chapter": 5,
+      "question": "Trong TKQĐ ở nước ta, sở hữu nhà nước giữ vai trò gì?",
+      "options": {
+        "A": "Thống trị trong cơ cấu sở hữu ở nước ta",
+        "B": "Nền tảng trong cơ cấu sở hữu ở nước ta",
+        "C": "Chủ đạo trong cơ cấu sở hữu ở nước ta",
+        "D": "Quan trọng trong cơ cấu sở hữu ở nước ta"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thống trị trong cơ cấu sở hữu ở nước ta",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nền tảng trong cơ cấu sở hữu ở nước ta",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chủ đạo trong cơ cấu sở hữu ở nước ta",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quan trọng trong cơ cấu sở hữu ở nước ta",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chủ đạo trong cơ cấu sở hữu ở nước ta"
+    },
+    {
+      "id": 51,
+      "chapter": 5,
+      "question": "Mô hình kinh tế thị trường định hướng XHCN ở nước ta được chính thức nêu ra ở Đại hội nào của Đảng CSVN?",
+      "options": {
+        "A": "Đại hội VI",
+        "B": "Đại hội VII",
+        "C": "Đại hội VIII",
+        "D": "Đại hội IX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đại hội VI",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đại hội VII",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Đại hội VIII",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đại hội IX",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Đại hội IX"
+    },
+    {
+      "id": 52,
+      "chapter": 5,
+      "question": "Thời kỳ quá độ lên CNXH ở nước ta bắt đầu từ khi nào?",
+      "options": {
+        "A": "Sau Cách mạng tháng 8 - 1945",
+        "B": "Sau khi miền Bắc được giải phóng (1954)",
+        "C": "Sau đại thắng mùa xuân 1975",
+        "D": "Sau khi Bác Hồ vê nước năm 1941"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sau Cách mạng tháng 8 - 1945",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sau khi miền Bắc được giải phóng (1954)",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sau đại thắng mùa xuân 1975",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Sau khi Bác Hồ vê nước năm 1941",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Sau đại thắng mùa xuân 1975"
+    },
+    {
+      "id": 53,
+      "chapter": 5,
+      "question": "Nhà nước can thiệp vào các khâu nào của quá trình sản xuất?",
+      "options": {
+        "A": "Sản xuất",
+        "B": "Sản xuất và tiêu dùng",
+        "C": "Phân phối và trao đổi",
+        "D": "Sản xuất - phân phối - trao đổi – tiêu dùng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất và tiêu dùng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phân phối và trao đổi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sản xuất - phân phối - trao đổi – tiêu dùng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Sản xuất - phân phối - trao đổi – tiêu dùng"
+    },
+    {
+      "id": 54,
+      "chapter": 5,
+      "question": "Nhà nước tư sản đảm nhận đầu tư vào ngành nào?",
+      "options": {
+        "A": "Đầu tư lớn, thu hồi vốn nhanh, lợi nhuận ít",
+        "B": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận cao",
+        "C": "Đầu tư không lớn, thu hồi vốn nhanh, lợi nhuận cao68",
+        "D": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận ít"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đầu tư lớn, thu hồi vốn nhanh, lợi nhuận ít",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận cao",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Đầu tư không lớn, thu hồi vốn nhanh, lợi nhuận cao68",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận ít",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Đầu tư lớn, thu hồi vốn chậm, lợi nhuận ít"
+    }
+  ]
+}

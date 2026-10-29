@@ -1,0 +1,1333 @@
+{
+  "chapter": 4,
+  "title": "Chương 4: Quy phạm pháp luật",
+  "total_questions": 39,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quy phạm pháp luật là:",
+      "options": {
+        "A": "Quy tắc xử sự có tính bắt buộc chung do nhà nước ban hành và bảo đảm thực hiện",
+        "B": "Các nội quy do nhà nước đặt ra",
+        "C": "Các quy định do người nắm giữ quyền lực nhà nước đặt ra",
+        "D": "Do Chủ tịch nước ban hành"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy tắc xử sự có tính bắt buộc chung do nhà nước ban hành và bảo đảm thực hiện",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Các nội quy do nhà nước đặt ra",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các quy định do người nắm giữ quyền lực nhà nước đặt ra",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Do Chủ tịch nước ban hành",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quy tắc xử sự có tính bắt buộc chung do nhà nước ban hành và bảo đảm thực hiện"
+    },
+    {
+      "id": 2,
+      "question": "Quy phạm pháp luật là quy tắc xử sự cho phép cá nhân:",
+      "options": {
+        "A": "Được làm bất cứ việc gì mình muốn",
+        "B": "Chỉ được làm những việc mà luật cho phép và không cấm",
+        "C": "Không được làm những việc có lợi cho nước ngoài",
+        "D": "Không được quyền góp ý"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Được làm bất cứ việc gì mình muốn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chỉ được làm những việc mà luật cho phép và không cấm",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Không được làm những việc có lợi cho nước ngoài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không được quyền góp ý",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Chỉ được làm những việc mà luật cho phép và không cấm"
+    },
+    {
+      "id": 3,
+      "question": "Bộ phận nào của Quy phạm pháp luật nêu lên cách thức xử sự của chủ thể?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy định"
+    },
+    {
+      "id": 4,
+      "question": "Tế bào nhỏ nhất trong hệ thống pháp luật là?",
+      "options": {
+        "A": "Văn bản pháp luật",
+        "B": "Bộ luật",
+        "C": "Quy phạm pháp luật",
+        "D": "Ngành luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Văn bản pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bộ luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Ngành luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quy phạm pháp luật"
+    },
+    {
+      "id": 5,
+      "question": "Quy phạm xã hội được hiểu là?",
+      "options": {
+        "A": "Quy phạm đạo đức",
+        "B": "Quy tắc ứng xử của con người trong cuộc sống",
+        "C": "Quy phạm pháp luật",
+        "D": "Quy tắc trong một quốc gia"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm đạo đức",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy tắc ứng xử của con người trong cuộc sống",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quy tắc trong một quốc gia",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy tắc ứng xử của con người trong cuộc sống"
+    },
+    {
+      "id": 6,
+      "question": "Những quy tắc nào điều chỉnh các mối quan hệ xã hội của con người?",
+      "options": {
+        "A": "Quy phạm đạo đức",
+        "B": "Quy phạm tôn giáo",
+        "C": "Quy phạm pháp luật",
+        "D": "Tất cả các đáp án trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm đạo đức",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm tôn giáo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án trên"
+    },
+    {
+      "id": 7,
+      "question": "Quy phạm pháp luật được hiểu là?",
+      "options": {
+        "A": "Những quy tắc xử sự có tính chất khuôn mẫu, bắt buộc mọi chủ thể phải tuân thủ",
+        "B": "Được biểu thị bằng hình thức nhất định",
+        "C": "Do nhà nước ban hành hoặc thừa nhận, được nhà nước bảo đảm thực hiện và có thể có cả các biện pháp cưỡng chế của nhà nước",
+        "D": "Tất cả các phương án trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Những quy tắc xử sự có tính chất khuôn mẫu, bắt buộc mọi chủ thể phải tuân thủ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Được biểu thị bằng hình thức nhất định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do nhà nước ban hành hoặc thừa nhận, được nhà nước bảo đảm thực hiện và có thể có cả các biện pháp cưỡng chế của nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các phương án trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các phương án trên"
+    },
+    {
+      "id": 8,
+      "question": "Những quy tắc hành vi được hình thành trong xã hội trên cơ sở quan niệm về đạo đức và được con người tự giác thực hiện, được gọi là quy phạm?",
+      "options": {
+        "A": "Quy phạm đạo đức",
+        "B": "Quy phạm tôn giáo",
+        "C": "Quy phạm pháp luật",
+        "D": "Quy phạm xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm đạo đức",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm tôn giáo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quy phạm xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quy phạm đạo đức"
+    },
+    {
+      "id": 9,
+      "question": "Các quy phạm do các tổ chức xã hội đặt ra, nó tồn tại và được thực hiện trong các tổ chức xã hội đó, được gọi là quy phạm?",
+      "options": {
+        "A": "Quy phạm đạo",
+        "B": "Quy phạm tôn giáo",
+        "C": "Quy phạm pháp luật",
+        "D": "Quy phạm của các tổ chức xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm đạo",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm tôn giáo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quy phạm của các tổ chức xã hội",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Quy phạm của các tổ chức xã hội"
+    },
+    {
+      "id": 10,
+      "question": "Sự khác nhau căn bản của quy phạm pháp luật so với các quy phạm khác là?",
+      "options": {
+        "A": "Được nhà nước công nhận và đảm bảo thực hiện",
+        "B": "Được cụ thể bằng ngôn ngữ, văn bản",
+        "C": "Là quy phạm có đối tượng rộng lớn nhất",
+        "D": "Ưu việt hơn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Được nhà nước công nhận và đảm bảo thực hiện",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Được cụ thể bằng ngôn ngữ, văn bản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là quy phạm có đối tượng rộng lớn nhất",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ưu việt hơn",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Được nhà nước công nhận và đảm bảo thực hiện"
+    },
+    {
+      "id": 11,
+      "question": "Sự khác nhau căn bản giữa quy phạm đạo đức, phong tục tập quán so với quy phạm pháp luật thể hiện ở chỗ?",
+      "options": {
+        "A": "Các quy phạm này có thời gian lâu dài hơn",
+        "B": "Đối tượng hẹp hơn",
+        "C": "Được hình thành một cách tự phát",
+        "D": "Mang ý chí chủ quan"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các quy phạm này có thời gian lâu dài hơn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đối tượng hẹp hơn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Được hình thành một cách tự phát",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mang ý chí chủ quan",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Đối tượng hẹp hơn"
+    },
+    {
+      "id": 12,
+      "question": "Cơ sở nào để thực hiện các quy tắc đạo đức trong đời sống xã hội?",
+      "options": {
+        "A": "Cưỡng chế",
+        "B": "Bạo lực",
+        "C": "Lòng tin của con người",
+        "D": "Giáo dục"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cưỡng chế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bạo lực",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lòng tin của con người",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Giáo dục",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lòng tin của con người"
+    },
+    {
+      "id": 13,
+      "question": "Cơ sở nào để thực hiện các quy tắc của phong tục tập quán trong đời sống xã hội?",
+      "options": {
+        "A": "Cưỡng chế",
+        "B": "Thói quen",
+        "C": "Lòng tin của con người",
+        "D": "Giáo dục"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cưỡng chế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thói quen",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lòng tin của con người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giáo dục",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Thói quen"
+    },
+    {
+      "id": 14,
+      "question": "Cơ sở nào để thực hiện các quy tắc của quy phạm pháp luật trong đời sống xã hội?",
+      "options": {
+        "A": "Cưỡng chế",
+        "B": "Thói quen",
+        "C": "Lòng tin của con người",
+        "D": "Giáo dục"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cưỡng chế",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Thói quen",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lòng tin của con người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giáo dục",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cưỡng chế"
+    },
+    {
+      "id": 15,
+      "question": "Quy phạm pháp luật ra đời gắn liền với sự ra đời của?",
+      "options": {
+        "A": "Xã hội loài người",
+        "B": "Pháp luật",
+        "C": "Nhà nước",
+        "D": "Con người"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xã hội loài người",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Con người",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Pháp luật"
+    },
+    {
+      "id": 16,
+      "question": "Đặc điểm của quy phạm pháp luật?",
+      "options": {
+        "A": "Quy phạm pháp luật bao giờ cũng do nhà nước đặt ra hoặc được nhà nước thừa nhận",
+        "B": "Quy phạm pháp luật thừa nhận ý chí của giai cấp thống trị",
+        "C": "Có tính chất bắt buộc chung đối với mọi người trong những điều kiện nhất định",
+        "D": "Tất cả các đáp án trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm pháp luật bao giờ cũng do nhà nước đặt ra hoặc được nhà nước thừa nhận",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm pháp luật thừa nhận ý chí của giai cấp thống trị",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có tính chất bắt buộc chung đối với mọi người trong những điều kiện nhất định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án trên"
+    },
+    {
+      "id": 17,
+      "question": "Các bộ phận cấu thành các quy phạm pháp luật, gồm?",
+      "options": {
+        "A": "Chế tài – Giải thiết – Kết luận",
+        "B": "Giả thiết – giả định – chế tài",
+        "C": "Giả định – quy định – chế tài",
+        "D": "Giả thiết – quy định – chế tài"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chế tài – Giải thiết – Kết luận",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giả thiết – giả định – chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giả định – quy định – chế tài",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết – quy định – chế tài",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Giả định – quy định – chế tài"
+    },
+    {
+      "id": 18,
+      "question": "Nêu rõ hoàn cảnh, điều kiện cụ thể của cuộc sống mà khi hoàn cảnh, điều kiện đó xảy ra thì người ở trong hoàn cảnh đó phải xử sự theo quy định của pháp luật. Được gọi là bộ phận nào sau đây?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Chỉ thị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chỉ thị",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giả định"
+    },
+    {
+      "id": 19,
+      "question": "Dấu hiệu nhận biết: giả định thường trả lời các câu hỏi: Người (tổ chức) nào? Khi nào? Trong hoàn cảnh nào? Điều kiện nào? Là bộ phận nào của quy phạm pháp luật",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giả định"
+    },
+    {
+      "id": 20,
+      "question": "Bộ phận nào nếu thiếu thì làm cho quy phạm pháp luật trở nên vô nghĩa?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giả định"
+    },
+    {
+      "id": 21,
+      "question": "Nêu lên cách cư xử buộc người ta được làm hay không được làm, hoặc đã thực hiện những hành vi mà pháp luật cấm khi ở trong những hoàn cảnh, những điều kiện nào, được xem là bộ phận nào sau đây của quy phạm pháp luật?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy định"
+    },
+    {
+      "id": 22,
+      "question": "Bộ phận nào của quy phạm pháp luật nêu lên quyền và nghĩa vụ trong những điều kiện, hoàn cảnh cụ thể?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy định"
+    },
+    {
+      "id": 23,
+      "question": "Thông qua bộ phận nào, nhà nước xác định quyền và nghĩa vụ pháp lý của các chủ thể tham gia quan hệ xã hội mà quy phạm pháp luật điều chỉnh?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy định"
+    },
+    {
+      "id": 24,
+      "question": "Bộ phận nào trả lời những câu hỏi như: phải làm gì? Được làm gì? Không được làm gì? Làm như thế nào?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy định"
+    },
+    {
+      "id": 25,
+      "question": "Nêu biện pháp xử lý dự kiến sẽ áp dụng đối với những người đã xử sự không đúng hoặc làm trái quy định của nhà nước- trái với nội dung được quy định ở quy phạm pháp luật. Là bộ phận nào của quy phạm pháp luật?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chế tài"
+    },
+    {
+      "id": 26,
+      "question": "Bộ phận nào thường trả lời câu hỏi: hậu quả sẽ như thế nào nếu không làm đúng với quy định của nhà nước?",
+      "options": {
+        "A": "Giả định",
+        "B": "Quy định",
+        "C": "Chế tài",
+        "D": "Giả thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giả định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Giả thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chế tài"
+    },
+    {
+      "id": 27,
+      "question": "Chế tài được hiểu là?",
+      "options": {
+        "A": "Kết quả có lợi cho các chủ thể vi phạm pháp luật?",
+        "B": "Hậu quả bất lợi cho các chủ thể vi phạm pháp luật",
+        "C": "Là dấu hiệu khi xem xét các hành vi vi phạm pháp luật",
+        "D": "Là nguyên nhân để xảy ra các hành vi vi phạm pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kết quả có lợi cho các chủ thể vi phạm pháp luật?",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hậu quả bất lợi cho các chủ thể vi phạm pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là dấu hiệu khi xem xét các hành vi vi phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là nguyên nhân để xảy ra các hành vi vi phạm pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Hậu quả bất lợi cho các chủ thể vi phạm pháp luật"
+    },
+    {
+      "id": 28,
+      "question": "Mục đích của chế tài là?",
+      "options": {
+        "A": "Trừng trị những người vi phạm pháp luật, làm cho họ có ý thức tôn trọng và chấp hành pháp luật.",
+        "B": "Ngăn ngừa các khả năng có thể vi phạm pháp luật.",
+        "C": "Trừng trị những người vi phạm pháp luật, làm cho họ có ý thức tôn trọng và chấp hành pháp luật; Ngăn ngừa các khả năng có thể vi phạm pháp luật.",
+        "D": "Tất cả đều sai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trừng trị những người vi phạm pháp luật, làm cho họ có ý thức tôn trọng và chấp hành pháp luật.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ngăn ngừa các khả năng có thể vi phạm pháp luật.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trừng trị những người vi phạm pháp luật, làm cho họ có ý thức tôn trọng và chấp hành pháp luật; Ngăn ngừa các khả năng có thể vi phạm pháp luật.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều sai",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Trừng trị những người vi phạm pháp luật, làm cho họ có ý thức tôn trọng và chấp hành pháp luật; Ngăn ngừa các khả năng có thể vi phạm pháp luật."
+    },
+    {
+      "id": 29,
+      "question": "Trường hợp trong Điều luật chỉ có phần giả định và quy định, còn phần chế tài ở trong Điều luật khác, thậm chí trong các Bộ luật khác. Được gọi là?",
+      "options": {
+        "A": "Gửi chế tài",
+        "B": "Quy định ẩn",
+        "C": "Chế tài ẩn",
+        "D": "Gửi quy định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Gửi chế tài",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy định ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Gửi quy định",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Gửi chế tài"
+    },
+    {
+      "id": 30,
+      "question": "Trường hợp trong điều luật, ta thấy quy phạm pháp luật chỉ có phần giả định và chế tài mà không thấy quy định. Trường hợp đó gọi là?",
+      "options": {
+        "A": "Gửi chế tài",
+        "B": "Quy định ẩn",
+        "C": "Chế tài ẩn",
+        "D": "Gửi quy định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Gửi chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định ẩn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chế tài ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Gửi quy định",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy định ẩn"
+    },
+    {
+      "id": 31,
+      "question": "Điều 60 Luật Hôn nhân và Gia đình 2000: “Khi ly hôn, nếu một bên túng thiếu có yêu cầu cấp dưỡng mà có lý do chính đáng, thì bên kia có nghĩa vụ cấp dưỡng theo khả năng cấp dưỡng”. Đây là trường hợp nào sau đây?",
+      "options": {
+        "A": "Gửi chế tài",
+        "B": "Quy định ẩn",
+        "C": "Chế tài ẩn",
+        "D": "Gửi quy định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Gửi chế tài",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy định ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Gửi quy định",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Gửi chế tài"
+    },
+    {
+      "id": 32,
+      "question": "Điều 29, Hiến pháp 1992 quy định: “Cơ quan Nhà nước, đơn vị vũ trang, tổ chức kinh tế, tổ chức xã hội, mọi cá nhân phải thực hiện các quy định của Nhà nước về sử dụng hợp lý tài nguyên thiên nhiên và bảo vệ môi trường”. Quy phạm pháp luật trên thuộc dạng nào sau đây?",
+      "options": {
+        "A": "Gửi chế tài",
+        "B": "Quy định ẩn",
+        "C": "Chế tài ẩn",
+        "D": "Gửi quy định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Gửi chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy định ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chế tài ẩn",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Gửi quy định",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chế tài ẩn"
+    },
+    {
+      "id": 33,
+      "question": "Trong quy phạm pháp luật sau đây, đâu là Giả định? “Mọi công dân đều có quyền và nghĩa vụ học tập”?",
+      "options": {
+        "A": "Mọi công dân",
+        "B": "Quyền và nghĩa vụ",
+        "C": "Mọi công dân, học tập",
+        "D": "Học tập"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mọi công dân",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quyền và nghĩa vụ",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mọi công dân, học tập",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Học tập",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Mọi công dân"
+    },
+    {
+      "id": 34,
+      "question": "Khẳng định nào là đúng:",
+      "options": {
+        "A": "Quy phạm đạo đức là quy phạm xã hội",
+        "B": "Quy phạm tập quán không phải là quy phạm xã hội",
+        "C": "Quy phạm pháp luật là khuôn mẫu cho hành vi một người",
+        "D": "Quy phạm pháp luật là khuôn mẫu cho hành vi của một tổ chức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm đạo đức là quy phạm xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm tập quán không phải là quy phạm xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật là khuôn mẫu cho hành vi một người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quy phạm pháp luật là khuôn mẫu cho hành vi của một tổ chức",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quy phạm đạo đức là quy phạm xã hội"
+    },
+    {
+      "id": 35,
+      "question": "Khẳng định nào là đúng:",
+      "options": {
+        "A": "Quy phạm pháp luật là quy phạm xã hội",
+        "B": "Quy phạm tôn giáo không phải là quy phạm xã hội",
+        "C": "Quy phạm pháp luật là khuôn mẫu cho hành vi một người",
+        "D": "Quy phạm pháp luật là khuôn mẫu cho hành vi của một tổ chức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy phạm pháp luật là quy phạm xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm tôn giáo không phải là quy phạm xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quy phạm pháp luật là khuôn mẫu cho hành vi một người",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quy phạm pháp luật là khuôn mẫu cho hành vi của một tổ chức",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quy phạm pháp luật là quy phạm xã hội"
+    },
+    {
+      "id": 36,
+      "question": "Đối với các quy phạm xã hội không phải là Quy phạm pháp luật, các chủ thể có phải tuân thủ không khi xử sự theo các quy phạm đó:",
+      "options": {
+        "A": "Phải tuân thủ các quy tắc xử sự đó",
+        "B": "Không phải tuân thủ các quy tắc sử sự đó",
+        "C": "Có thể phải tuân thủ hoặc không, tùy theo từng trường hợp cụ thể",
+        "D": "Không tuân thủ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phải tuân thủ các quy tắc xử sự đó",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Không phải tuân thủ các quy tắc sử sự đó",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có thể phải tuân thủ hoặc không, tùy theo từng trường hợp cụ thể",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Không tuân thủ",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Có thể phải tuân thủ hoặc không, tùy theo từng trường hợp cụ thể"
+    },
+    {
+      "id": 37,
+      "question": "Khẳng định nào sau đây là đúng:",
+      "options": {
+        "A": "Điều luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật",
+        "B": "Quy phạm pháp luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật",
+        "C": "Cả điều luật và Quy phạm pháp luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật",
+        "D": "Tất cả đều sai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Điều luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy phạm pháp luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cả điều luật và Quy phạm pháp luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều sai",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy phạm pháp luật là phần tử cấu thành nhỏ nhất của hệ thống pháp luật"
+    },
+    {
+      "id": 38,
+      "question": "“Văn bản quy phạm pháp luật phải được gửi đến cơ quan nhà nước có thẩm quyền để giám sát, kiểm tra” (Điều 10, Luật ban hành văn bản quy phạm pháp luật 2008).Trong quy phạm pháp luật trên, đâu là Giả định?",
+      "options": {
+        "A": "Văn bản",
+        "B": "Văn bản quy phạm pháp luật, cơ quan nhà nước",
+        "C": "Kiểm tra, giám sát",
+        "D": "Giả định ẩn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Văn bản",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Văn bản quy phạm pháp luật, cơ quan nhà nước",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kiểm tra, giám sát",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giả định ẩn",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Văn bản quy phạm pháp luật, cơ quan nhà nước"
+    },
+    {
+      "id": 39,
+      "question": "“Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với nhà đầu tư có hành vi đầu tư kinh doanh vốn nhà nước khi chưa được cơ quan có thẩm quyền thẩm định chấp thuận sử dụng vốn nhà nước để đầu tư” (Khoản 1, điều 23 nghị định 53/2007/NĐ-CP). Trong quy phạm pháp luật trên, đâu là chế tài?",
+      "options": {
+        "A": "Chế tài ẩn",
+        "B": "Gửi chế tài",
+        "C": "“Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng",
+        "D": "“Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với nhà đầu tư có hành vi đầu tư kinh doanh vốn nhà nước khi chưa được cơ quan có thẩm quyền thẩm định chấp thuận sử dụng vốn nhà nước để đầu tư”"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chế tài ẩn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Gửi chế tài",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "“Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "“Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng đối với nhà đầu tư có hành vi đầu tư kinh doanh vốn nhà nước khi chưa được cơ quan có thẩm quyền thẩm định chấp thuận sử dụng vốn nhà nước để đầu tư”",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "“Phạt tiền từ 5.000.000 đồng đến 10.000.000 đồng"
+    }
+  ]
+}

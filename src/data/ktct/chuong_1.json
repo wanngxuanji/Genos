@@ -1,0 +1,742 @@
+{
+  "chapter": 1,
+  "title": "Chương 1: Đối tượng, phương pháp nghiên cứu và chức năng của Kinh tế chính trị Mác - Lênin",
+  "total_questions": 21,
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 1,
+      "question": "Tiền đề lý luận cho sự ra đời của chủ nghĩa Mác là:",
+      "options": {
+        "A": "Triết học cổ điển Đức, Kinh tế chính trị Anh, Chủ nghĩa xã hội không tưởng Pháp",
+        "B": "Phong trào khai sáng Pháp, Cơ học cổ điển I.Niu – tơn; lý luận về chủ nghĩa vô chính phủ của Pru-đông",
+        "C": "Thuyết tương đối (Anhxtanh); Phân tâm học (S.Phơ – rớt); Logic học của Hêghen",
+        "D": "Thuyết tiến hóa (Đác – uyn); Học thuyết bảo toàn và chuyển hóa năng lượng (R.Maye); Học thuyết tế bào (Slayden và Savanno)"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Triết học cổ điển Đức, Kinh tế chính trị Anh, Chủ nghĩa xã hội không tưởng Pháp",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phong trào khai sáng Pháp, Cơ học cổ điển I.Niu – tơn; lý luận về chủ nghĩa vô chính phủ của Pru-đông",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thuyết tương đối (Anhxtanh); Phân tâm học (S.Phơ – rớt); Logic học của Hêghen",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thuyết tiến hóa (Đác – uyn); Học thuyết bảo toàn và chuyển hóa năng lượng (R.Maye); Học thuyết tế bào (Slayden và Savanno)",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Triết học cổ điển Đức, Kinh tế chính trị Anh, Chủ nghĩa xã hội không tưởng Pháp"
+    },
+    {
+      "id": 2,
+      "chapter": 1,
+      "question": "Để nghiên cứu kinh tế chính trị Mác - Lênin có thể sử dụng nhiều phương pháp, phương pháp nào quan trọng nhất?",
+      "options": {
+        "A": "Trừu tượng hóa khoa học",
+        "B": "Phân tích và tổng hợp",
+        "C": "Mô hình hóa",
+        "D": "Điều tra thồng kê"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trừu tượng hóa khoa học",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phân tích và tổng hợp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mô hình hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Điều tra thồng kê",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Trừu tượng hóa khoa học"
+    },
+    {
+      "id": 3,
+      "chapter": 1,
+      "question": "Đối tượng nghiên cứu của kinh tế- chính trị Mác-Lênin là:",
+      "options": {
+        "A": "Sản xuất của cải vật chất",
+        "B": "Quan hệ xã hội giữa người với người",
+        "C": "Quan hệ xã hội của sản xuất và trao đổi được đặt trong mối quan hệ biện chứng với lực lượng sản xuất và kiến trúc thượng tầng tương ứng",
+        "D": "Quá trình sản xuất, phân phối, trao đổi, tiêu dùng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất của cải vật chất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ xã hội giữa người với người",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ xã hội của sản xuất và trao đổi được đặt trong mối quan hệ biện chứng với lực lượng sản xuất và kiến trúc thượng tầng tương ứng",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quá trình sản xuất, phân phối, trao đổi, tiêu dùng",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quan hệ xã hội của sản xuất và trao đổi được đặt trong mối quan hệ biện chứng với lực lượng sản xuất và kiến trúc thượng tầng tương ứng"
+    },
+    {
+      "id": 4,
+      "chapter": 1,
+      "question": "Ai là người đặt nền móng đầu tiên cho trường phái Kinh tế chính trị cổ điển Anh?",
+      "options": {
+        "A": "D.Ricardo",
+        "B": "A.Montchretien",
+        "C": "A.Smith",
+        "D": "W.Petty"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "D.Ricardo",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "A.Montchretien",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "A.Smith",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "W.Petty",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "W.Petty"
+    },
+    {
+      "id": 5,
+      "chapter": 1,
+      "question": "Kinh tế chính trị Mác - Lênin được hình thành, xây dựng bởi? Chọn câu trả lời đúng nhất",
+      "options": {
+        "A": "C.Mác, Ph.Ăngghen",
+        "B": "C.Mác, V.I.Lênin",
+        "C": "C.Mác, Ph.Ăngghen và V.I.Lênin",
+        "D": "Ph.Ăngghen, V.I.Lênin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "C.Mác, Ph.Ăngghen",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "C.Mác, V.I.Lênin",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "C.Mác, Ph.Ăngghen và V.I.Lênin",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Ph.Ăngghen, V.I.Lênin",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "C.Mác, Ph.Ăngghen và V.I.Lênin"
+    },
+    {
+      "id": 6,
+      "chapter": 1,
+      "question": "C.Mác và Ph. Ăngghen xác định đối tượng nghiên cứu của kinh tế chính trị là?",
+      "options": {
+        "A": "Các quan hệ của sản xuất và trao đổi",
+        "B": "Các quan hệ lợi ích kinh tế",
+        "C": "Các quan hệ kinh tế chính trị nhà nước",
+        "D": "Các quan hệ của sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các quan hệ của sản xuất và trao đổi",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Các quan hệ lợi ích kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các quan hệ kinh tế chính trị nhà nước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Các quan hệ của sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Các quan hệ của sản xuất và trao đổi"
+    },
+    {
+      "id": 7,
+      "chapter": 1,
+      "question": "Kinh tế chính trị Mác - Lênin có mấy chức năng?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "4"
+    },
+    {
+      "id": 8,
+      "chapter": 1,
+      "question": "Các chức năng cơ bản của Kinh tế chính trị Mác – Lênin đó là:",
+      "options": {
+        "A": "Nhận thức, tư duy, sáng tạo, logic",
+        "B": "Nhận thức, thực tiễn, tư duy, logic",
+        "C": "Tất cả các đáp án đều sai",
+        "D": "Thực tiễn, tư tưởng, phương pháp luận, nhận thức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhận thức, tư duy, sáng tạo, logic",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhận thức, thực tiễn, tư duy, logic",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tất cả các đáp án đều sai",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thực tiễn, tư tưởng, phương pháp luận, nhận thức",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thực tiễn, tư tưởng, phương pháp luận, nhận thức"
+    },
+    {
+      "id": 9,
+      "chapter": 1,
+      "question": "Chọn nhận định đúng nhất?",
+      "options": {
+        "A": "Kinh tế chính trị Mác - Lênin do C.Mác - Ph.Ăngghen sáng lập, được Lênin bổ sung và phát triển",
+        "B": "Kinh tế chính trị Mác - Lênin do Ph.Ăngghen sáng lập, được Lênin và C.Mác bổ sung và phát triển",
+        "C": "Kinh tế chính trị Mác - Lênin do C.Mác sáng lập, được Lênin và Ph.Ăngghen bổ sung và phát triển",
+        "D": "Kinh tế chính trị Mác - Lênin do C.Mác - Lênin sáng lập, được Ph.Ăngghen bổ sung và phát triển"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kinh tế chính trị Mác - Lênin do C.Mác - Ph.Ăngghen sáng lập, được Lênin bổ sung và phát triển",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế chính trị Mác - Lênin do Ph.Ăngghen sáng lập, được Lênin và C.Mác bổ sung và phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế chính trị Mác - Lênin do C.Mác sáng lập, được Lênin và Ph.Ăngghen bổ sung và phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế chính trị Mác - Lênin do C.Mác - Lênin sáng lập, được Ph.Ăngghen bổ sung và phát triển",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Kinh tế chính trị Mác - Lênin do C.Mác - Ph.Ăngghen sáng lập, được Lênin bổ sung và phát triển"
+    },
+    {
+      "id": 10,
+      "chapter": 1,
+      "question": "Quá trình phát triển của khoa học kinh tế chính trị được khái quát qua 2 giai đoạn lịch sử nào?",
+      "options": {
+        "A": "Từ thời cổ đại đến thế kỷ XVIII và từ sau thế kỷ thứ XVIII đến nay.",
+        "B": "Từ thời cổ đại đến thế kỷ XVII và từ sau thế kỷ thứ XVII đến nay.",
+        "C": "Từ thời cổ đại đến thế kỷ XVI và từ sau thế kỷ thứ XVI đến nay.",
+        "D": "Từ thời cổ đại đến thế kỷ XV và từ sau thế kỷ thứ XV đến nay."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Từ thời cổ đại đến thế kỷ XVIII và từ sau thế kỷ thứ XVIII đến nay.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Từ thời cổ đại đến thế kỷ XVII và từ sau thế kỷ thứ XVII đến nay.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Từ thời cổ đại đến thế kỷ XVI và từ sau thế kỷ thứ XVI đến nay.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Từ thời cổ đại đến thế kỷ XV và từ sau thế kỷ thứ XV đến nay.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Từ thời cổ đại đến thế kỷ XVIII và từ sau thế kỷ thứ XVIII đến nay."
+    },
+    {
+      "id": 11,
+      "chapter": 1,
+      "question": "Trường phái nào được ghi nhận là hệ thống lý luận kinh tế chính trị đầu tiên nghiên cứu về nền sản xuất tư bản chủ nghĩa?",
+      "options": {
+        "A": "Chủ nghĩa trọng thương",
+        "B": "Kinh tế chính trị tư sản cổ điển Anh",
+        "C": "Chủ nghĩa trọng nông",
+        "D": "Kinh tế chính trị Mác – Lênin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chủ nghĩa trọng thương",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế chính trị tư sản cổ điển Anh",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chủ nghĩa trọng nông",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế chính trị Mác – Lênin",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Chủ nghĩa trọng thương"
+    },
+    {
+      "id": 12,
+      "chapter": 1,
+      "question": "Trường phái nào được ghi nhận là hệ thống lý luận kinh tế chính trị đầu tiên nghiên cứu về tái sản xuất ?",
+      "options": {
+        "A": "Chủ nghĩa trọng thương",
+        "B": "Kinh tế chính trị tư sản cổ điển Anh",
+        "C": "Chủ nghĩa trọng nông",
+        "D": "Kinh tế chính trị Mác – Lênin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chủ nghĩa trọng thương",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế chính trị tư sản cổ điển Anh",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chủ nghĩa trọng nông",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế chính trị Mác – Lênin",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Chủ nghĩa trọng nông"
+    },
+    {
+      "id": 13,
+      "chapter": 1,
+      "question": "C. Mác đã kế thừa một cách có phê phán lý luận kinh tế chính trị cổ điển Anh, trong đó trực tiếp là của ai?",
+      "options": {
+        "A": "D.Ricardo",
+        "B": "A.Smith",
+        "C": "V.I. Lê nin",
+        "D": "Ph. Ăngghen"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "D.Ricardo",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "A.Smith",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "V.I. Lê nin",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ph. Ăngghen",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "D.Ricardo"
+    },
+    {
+      "id": 14,
+      "chapter": 1,
+      "question": "Chọn cụm từ còn thiếu điền vào khoảng trống dưới đây? Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là ……. mà các quan hệ này được đặt trong sự liên hệ biện chứng với trình độ phát triển của lực lượng sản xuất và kiến trúc thượng tầng tương ứng của phương thức sản xuất nhất định.",
+      "options": {
+        "A": "Các quan hệ của sản xuất",
+        "B": "Các quan hệ trao đổi",
+        "C": "Nghiên cứu các quan hệ sản xuất",
+        "D": "Các quan hệ của sản xuất và trao đổi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các quan hệ của sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các quan hệ trao đổi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nghiên cứu các quan hệ sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Các quan hệ của sản xuất và trao đổi",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Các quan hệ của sản xuất và trao đổi"
+    },
+    {
+      "id": 15,
+      "chapter": 1,
+      "question": "Mục đích nghiên cứu của kinh tế chính trị Mác – Lênin là gì?",
+      "options": {
+        "A": "Phát hiện ra các quy luật kinh tế chi phối các quan hệ giữa người với người trong sản xuất và trao đổi",
+        "B": "Phát hiện ra các quy luật kinh tế chi phối các quan hệ giữa người với người trong quá trình sản xuất",
+        "C": "Phát hiện ra các công cụ lao động",
+        "D": "Phát hiện ra các phương thức sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phát hiện ra các quy luật kinh tế chi phối các quan hệ giữa người với người trong sản xuất và trao đổi",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phát hiện ra các quy luật kinh tế chi phối các quan hệ giữa người với người trong quá trình sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phát hiện ra các công cụ lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phát hiện ra các phương thức sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Phát hiện ra các quy luật kinh tế chi phối các quan hệ giữa người với người trong sản xuất và trao đổi"
+    },
+    {
+      "id": 16,
+      "chapter": 1,
+      "question": "C. Mác có những đóng góp nổi bật nào trong việc nghiên cứu phương thức sản xuất tư bản chủ nghĩa?",
+      "options": {
+        "A": "Học thuyết giá trị; Học thuyết giá trị thặng dư; Học thuyết tích luỹ; Học thuyết về địa tô; Học thuyết về lợi nhuận",
+        "B": "Học thuyết tiền tệ; Học thuyết tích luỹ; Học thuyết về lợi nhuận; Học thuyết về địa tô",
+        "C": "Học thuyết giá trị thặng dư; Học thuyết về lợi nhuận; Học thuyết về tiền tệ; Học thuyết về địa tô",
+        "D": "Học thuyết giá trị; Học thuyết về lợi nhuận; Học thuyết về địa tô; Học thuyết tích luỹ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Học thuyết giá trị; Học thuyết giá trị thặng dư; Học thuyết tích luỹ; Học thuyết về địa tô; Học thuyết về lợi nhuận",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Học thuyết tiền tệ; Học thuyết tích luỹ; Học thuyết về lợi nhuận; Học thuyết về địa tô",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Học thuyết giá trị thặng dư; Học thuyết về lợi nhuận; Học thuyết về tiền tệ; Học thuyết về địa tô",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Học thuyết giá trị; Học thuyết về lợi nhuận; Học thuyết về địa tô; Học thuyết tích luỹ",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Học thuyết giá trị; Học thuyết giá trị thặng dư; Học thuyết tích luỹ; Học thuyết về địa tô; Học thuyết về lợi nhuận"
+    },
+    {
+      "id": 17,
+      "chapter": 1,
+      "question": "Thuật ngữ khoa học “Kinh tế chính trị” xuất hiện lần đầu tiên vào năm:",
+      "options": {
+        "A": "1610",
+        "B": "1615",
+        "C": "1618",
+        "D": "1612"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "1610",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "1615",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "1618",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "1612",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "1615"
+    },
+    {
+      "id": 18,
+      "chapter": 1,
+      "question": "Chủ nghĩa trọng thương đặc biệt coi trọng vai trò hoạt động trong:",
+      "options": {
+        "A": "Nông nghiệp",
+        "B": "Công nghiệp",
+        "C": "Lưu thông",
+        "D": "nông nghiệp"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nông nghiệp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Công nghiệp",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "nông nghiệp",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Công nghiệp"
+    },
+    {
+      "id": 19,
+      "chapter": 1,
+      "question": "Trừu tượng hoá khoa học là:",
+      "options": {
+        "A": "Gạt bỏ những bộ phận phức tạp của đối tượng nghiên cứu.",
+        "B": "Quá trình đi từ cụ thể đến trừu tượng và ngược lại. Gạt bỏ các hiện tượng ngẫu nhiên, bề ngoài, chỉ giữ lại những mối liên hệ phổ biến mang tính bản chất.",
+        "C": "Quá trình đi từ trừu tượng đến cụ thể và ngược lại. Gạt bỏ các hiện tượng tất nhiên, bên trong, chỉ giữ lại những mối liên hệ phổ biến mang tính ngẫu nhiên",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Gạt bỏ những bộ phận phức tạp của đối tượng nghiên cứu.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quá trình đi từ cụ thể đến trừu tượng và ngược lại. Gạt bỏ các hiện tượng ngẫu nhiên, bề ngoài, chỉ giữ lại những mối liên hệ phổ biến mang tính bản chất.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Quá trình đi từ trừu tượng đến cụ thể và ngược lại. Gạt bỏ các hiện tượng tất nhiên, bên trong, chỉ giữ lại những mối liên hệ phổ biến mang tính ngẫu nhiên",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quá trình đi từ cụ thể đến trừu tượng và ngược lại. Gạt bỏ các hiện tượng ngẫu nhiên, bề ngoài, chỉ giữ lại những mối liên hệ phổ biến mang tính bản chất."
+    },
+    {
+      "id": 20,
+      "chapter": 1,
+      "question": "Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được thể hiện tập trung và cô đọng nhất trong tác phẩm nào sau đây?",
+      "options": {
+        "A": "Bộ “Tư bản”",
+        "B": "“Tuyên ngôn Đảng Cộng sản”",
+        "C": "“Phê phán cương lĩnh Gôta”",
+        "D": "“Bàn về thuế lương thực”"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bộ “Tư bản”",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "“Tuyên ngôn Đảng Cộng sản”",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "“Phê phán cương lĩnh Gôta”",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "“Bàn về thuế lương thực”",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Bộ “Tư bản”"
+    },
+    {
+      "id": 21,
+      "chapter": 1,
+      "question": "Nhận định nào sau đây là đúng?",
+      "options": {
+        "A": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là quan hệ thuộc một lĩnh vực, một khía cạnh của nền sản xuất xã hội",
+        "B": "Kinh tế chính trị Mác - Lênin nghiên cứu biểu hiện kỹ thuật của sự sản xuất và trao đổi",
+        "C": "Kinh tế chính trị Mác - Lênin nghiên cứu yếu tố vật chất của lực lượng sản xuất, nghiên cứu biểu hiện cụ thể của kiến trúc thượng tầng",
+        "D": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là các quan hệ xã hội của sản xuất và trao đổi, được đặt trong sự liên hệ biện chứng với trình độ phát triển của lực lượng sản xuất và kiế trúc thượng tầng tương ứng của PTSX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là quan hệ thuộc một lĩnh vực, một khía cạnh của nền sản xuất xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế chính trị Mác - Lênin nghiên cứu biểu hiện kỹ thuật của sự sản xuất và trao đổi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế chính trị Mác - Lênin nghiên cứu yếu tố vật chất của lực lượng sản xuất, nghiên cứu biểu hiện cụ thể của kiến trúc thượng tầng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là các quan hệ xã hội của sản xuất và trao đổi, được đặt trong sự liên hệ biện chứng với trình độ phát triển của lực lượng sản xuất và kiế trúc thượng tầng tương ứng của PTSX",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là các quan hệ xã hội của sản xuất và trao đổi, được đặt trong sự liên hệ biện chứng với trình độ phát triển của lực lượng sản xuất và kiế trúc thượng tầng tương ứng của PTSX"
+    }
+  ]
+}

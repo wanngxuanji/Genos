@@ -1,0 +1,2632 @@
+{
+  "chapter": 2,
+  "title": "Chương 2: Hàng hóa, thị trường và vai trò của các chủ thể tham gia thị trường",
+  "total_questions": 75,
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 2,
+      "question": "Giá cả hàng hóa là gì?",
+      "options": {
+        "A": "Giá trị của hàng hóa",
+        "B": "Biểu hiện bằng tiền của giá trị hàng hóa",
+        "C": "Quan hệ về lượng giữa hàng và tiền",
+        "D": "Tổng của chi phí sản xuất và lợi nhuận"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Biểu hiện bằng tiền của giá trị hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ về lượng giữa hàng và tiền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tổng của chi phí sản xuất và lợi nhuận",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Biểu hiện bằng tiền của giá trị hàng hóa"
+    },
+    {
+      "id": 2,
+      "chapter": 2,
+      "question": "Việc sản xuất và trao đổi hàng hóa phải được tiến hành dựa trên cơ sở:",
+      "options": {
+        "A": "Hao phí thời gian lao động cần thiết",
+        "B": "Hao phí thời gian lao động của người sản xuất hàng hóa",
+        "C": "Hao phí thời gian lao động xã hội cần thiết",
+        "D": "Hao phí lao động quá khứ và lao động sống của người sản xuất."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hao phí thời gian lao động cần thiết",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hao phí thời gian lao động của người sản xuất hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hao phí thời gian lao động xã hội cần thiết",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Hao phí lao động quá khứ và lao động sống của người sản xuất.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Hao phí thời gian lao động xã hội cần thiết"
+    },
+    {
+      "id": 3,
+      "chapter": 2,
+      "question": "Điều kiện ra đời và tồn tại của sản xuất hàng hóa là gì?",
+      "options": {
+        "A": "Phân công lao động xã hội và sự tách biệt tương đối về kinh tế của những người sản xuất hàng hóa",
+        "B": "Phân công lao động xã hội và kinh tế xã hội phát triển",
+        "C": "Sự tách biệt tương đối về kinh tế của những người sản xuất hàng hó",
+        "D": "Kinh tế xã hội phát triển"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phân công lao động xã hội và sự tách biệt tương đối về kinh tế của những người sản xuất hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phân công lao động xã hội và kinh tế xã hội phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sự tách biệt tương đối về kinh tế của những người sản xuất hàng hó",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế xã hội phát triển",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Phân công lao động xã hội và sự tách biệt tương đối về kinh tế của những người sản xuất hàng hóa"
+    },
+    {
+      "id": 4,
+      "chapter": 2,
+      "question": "Hàng hóa là gì?",
+      "options": {
+        "A": "Sản phẩm của lao động",
+        "B": "Tất cả những gì có ích",
+        "C": "Những gì có thể mua bán",
+        "D": "Sản phẩm của lao động, có thể thỏa mãn nhu cầu nào đó của con người thông qua trao đổi mua bán"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản phẩm của lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tất cả những gì có ích",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Những gì có thể mua bán",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sản phẩm của lao động, có thể thỏa mãn nhu cầu nào đó của con người thông qua trao đổi mua bán",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Sản phẩm của lao động, có thể thỏa mãn nhu cầu nào đó của con người thông qua trao đổi mua bán"
+    },
+    {
+      "id": 5,
+      "chapter": 2,
+      "question": "Giá trị sử dụng của hàng hóa là gì?",
+      "options": {
+        "A": "Có thể mua bán",
+        "B": "Là công dụng của hàng hóa",
+        "C": "Là ý nghĩa thực tế của hàng hóa",
+        "D": "Là giá cả của hàng hóa"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Có thể mua bán",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là công dụng của hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là ý nghĩa thực tế của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là giá cả của hàng hóa",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Là công dụng của hàng hóa"
+    },
+    {
+      "id": 6,
+      "chapter": 2,
+      "question": "Hai thuộc tính của hàng hóa gồm :",
+      "options": {
+        "A": "kết cấu vật chất và được trao đổi",
+        "B": "giá trị và giá trị sử dụng",
+        "C": "Là sản phẩm của lao động và có giá trị sử dụng",
+        "D": "thuộc tính tự nhiên và giá trị sử dụng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "kết cấu vật chất và được trao đổi",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "giá trị và giá trị sử dụng",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là sản phẩm của lao động và có giá trị sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "thuộc tính tự nhiên và giá trị sử dụng",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "giá trị và giá trị sử dụng"
+    },
+    {
+      "id": 7,
+      "chapter": 2,
+      "question": "Theo quy luật giá trị, lưu thông hàng hoá phải dựa trên nguyên tắc ngang giá nghĩa là gì?",
+      "options": {
+        "A": "Giá cả độc lập với giá trị nhưng luôn vận động xoay quanh giá trị",
+        "B": "Giá cả thị trường bằng với giá trị của hàng hoá",
+        "C": "Giá cả thị trường luôn cao hơn giá trị của hàng hoá",
+        "D": "Giá cả thị trường luôn thấp hơn giá trị của hàng hoá"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá cả độc lập với giá trị nhưng luôn vận động xoay quanh giá trị",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giá cả thị trường bằng với giá trị của hàng hoá",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá cả thị trường luôn cao hơn giá trị của hàng hoá",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giá cả thị trường luôn thấp hơn giá trị của hàng hoá",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giá cả độc lập với giá trị nhưng luôn vận động xoay quanh giá trị"
+    },
+    {
+      "id": 8,
+      "chapter": 2,
+      "question": "Giá trị của hàng hóa được quyết định bởi:",
+      "options": {
+        "A": "Sự khan hiếm của hàng hóa",
+        "B": "Công dụng của hàng hóa",
+        "C": "Sự hao phí sức lao động của con người.",
+        "D": "Lao động trừu tượng của người sản xuất hàng hóa kết tinh trong hàng hóa."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sự khan hiếm của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Công dụng của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sự hao phí sức lao động của con người.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lao động trừu tượng của người sản xuất hàng hóa kết tinh trong hàng hóa.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Lao động trừu tượng của người sản xuất hàng hóa kết tinh trong hàng hóa."
+    },
+    {
+      "id": 9,
+      "chapter": 2,
+      "question": "Lao động cụ thể là gì?",
+      "options": {
+        "A": "Lao động cá biệt tạo ra giá trị hàng hóa",
+        "B": "Là lao động thuộc các ngành nghề cụ thể, tạo ra giá trị sử dụng hàng hóa",
+        "C": "Lao động xã hội tạo ra giá trị xác định của hàng hóa",
+        "D": "Là lao động xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động cá biệt tạo ra giá trị hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là lao động thuộc các ngành nghề cụ thể, tạo ra giá trị sử dụng hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lao động xã hội tạo ra giá trị xác định của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là lao động xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Là lao động thuộc các ngành nghề cụ thể, tạo ra giá trị sử dụng hàng hóa"
+    },
+    {
+      "id": 10,
+      "chapter": 2,
+      "question": "Lao động trừu tượng là gì?",
+      "options": {
+        "A": "Lao động ở những ngành nghề khó đo lường được",
+        "B": "Là lao động trí óc",
+        "C": "Lao động hao phí đồng chất của con người mà nó tạo ra giá trị hàng hóa",
+        "D": "Lao động của cả cộng đồng xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động ở những ngành nghề khó đo lường được",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là lao động trí óc",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lao động hao phí đồng chất của con người mà nó tạo ra giá trị hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lao động của cả cộng đồng xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lao động hao phí đồng chất của con người mà nó tạo ra giá trị hàng hóa"
+    },
+    {
+      "id": 11,
+      "chapter": 2,
+      "question": "Giá trị sử dụng của hàng hóa do cái gì tạo ra?",
+      "options": {
+        "A": "Lao động trừu tượng",
+        "B": "Do trao đổi",
+        "C": "Do sự thừa nận của xã hội",
+        "D": "Lao động cụ thể của người sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động trừu tượng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do trao đổi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do sự thừa nận của xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lao động cụ thể của người sản xuất",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Lao động cụ thể của người sản xuất"
+    },
+    {
+      "id": 12,
+      "chapter": 2,
+      "question": "Quy luật cung – cầu có tác dụng gì?",
+      "options": {
+        "A": "Điều tiết giá cả thị trường trong dài hạn",
+        "B": "Xác định giá cả thị trường trong ngắn hạn",
+        "C": "Xác định giá trị thị trường trong dài hạn",
+        "D": "Xác định giá trị thị trường trong ngắn hạn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Điều tiết giá cả thị trường trong dài hạn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Xác định giá cả thị trường trong ngắn hạn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Xác định giá trị thị trường trong dài hạn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Xác định giá trị thị trường trong ngắn hạn",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Xác định giá cả thị trường trong ngắn hạn"
+    },
+    {
+      "id": 13,
+      "chapter": 2,
+      "question": "Lượng giá trị hàng hóa là gì?",
+      "options": {
+        "A": "Hao phí vật tư kỹ thuật và tiền lương",
+        "B": "Hao phí vật chất của người sản xuất",
+        "C": "Giá cả hàng hóa đó",
+        "D": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa đó"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hao phí vật tư kỹ thuật và tiền lương",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hao phí vật chất của người sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá cả hàng hóa đó",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa đó",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa đó"
+    },
+    {
+      "id": 14,
+      "chapter": 2,
+      "question": "Lượng giá trị hàng hóa được tính bằng gì?",
+      "options": {
+        "A": "Tiền",
+        "B": "Năng lượng",
+        "C": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa đó",
+        "D": "Thời gian lao động của người sản xuất tạo ra hàng hóa đó"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiền",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Năng lượng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa đó",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Thời gian lao động của người sản xuất tạo ra hàng hóa đó",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa đó"
+    },
+    {
+      "id": 15,
+      "chapter": 2,
+      "question": "Thời gian lao động xã hội cần thiết là gì?",
+      "options": {
+        "A": "Thời gian cần thiết để người sản xuất tạo ra một hàng hóa",
+        "B": "Thời gian cần thiết mà người lao động phải làm để nuôi sống bản thân",
+        "C": "Là thời gian cần thiết để sản xuất ra một hàng hóa ở cường độ lao động cao",
+        "D": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa trong điều kiện bình thường của xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thời gian cần thiết để người sản xuất tạo ra một hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thời gian cần thiết mà người lao động phải làm để nuôi sống bản thân",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là thời gian cần thiết để sản xuất ra một hàng hóa ở cường độ lao động cao",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa trong điều kiện bình thường của xã hội",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thời gian lao động xã hội cần thiết để sản xuất ra hàng hóa trong điều kiện bình thường của xã hội"
+    },
+    {
+      "id": 16,
+      "chapter": 2,
+      "question": "Thời gian lao động xã hội cần thiết được tính trong điều kiện nào?",
+      "options": {
+        "A": "Điều kiện thấp nhất về kỹ thuật, tay nghề và cường độ lao động",
+        "B": "Mức độ trung bình của xã hội về trình độ kỹ thuật, tay nghề và cường độ lao động",
+        "C": "Trình độ phát triển cao về khoa học công nghệ",
+        "D": "Trình độ tay nghề cao của người sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Điều kiện thấp nhất về kỹ thuật, tay nghề và cường độ lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mức độ trung bình của xã hội về trình độ kỹ thuật, tay nghề và cường độ lao động",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Trình độ phát triển cao về khoa học công nghệ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trình độ tay nghề cao của người sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Mức độ trung bình của xã hội về trình độ kỹ thuật, tay nghề và cường độ lao động"
+    },
+    {
+      "id": 17,
+      "chapter": 2,
+      "question": "Những nhân tố nào ảnh hưởng đến lượng giá trị hàng hóa?",
+      "options": {
+        "A": "Năng suất lao động và mức độ phức tạp của lao động",
+        "B": "Mức độ hao phí lao động của công nhân khi tạo ra một sản phẩm",
+        "C": "Năng xuất lao động",
+        "D": "Trình độ phát triển của khoa học công nghệ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Năng suất lao động và mức độ phức tạp của lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mức độ hao phí lao động của công nhân khi tạo ra một sản phẩm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Năng xuất lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trình độ phát triển của khoa học công nghệ",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Năng suất lao động và mức độ phức tạp của lao động"
+    },
+    {
+      "id": 18,
+      "chapter": 2,
+      "question": "Quan hệ giữa lượng giá trị và năng suất lao động xã hội như thế nào?",
+      "options": {
+        "A": "Lượng giá trị tỉ lệ nghịch với năng suất lao động xã hội",
+        "B": "Lượng giá trị tỉ lệ thuận với năng suất lao động xã hội",
+        "C": "Lương giá trị không lệ thuộc vào năng suất lao động xã hội",
+        "D": "Lượng giá trị chỉ lệ thuộc vào năng suất lao động cá biệt"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lượng giá trị tỉ lệ nghịch với năng suất lao động xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lượng giá trị tỉ lệ thuận với năng suất lao động xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lương giá trị không lệ thuộc vào năng suất lao động xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lượng giá trị chỉ lệ thuộc vào năng suất lao động cá biệt",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lượng giá trị tỉ lệ nghịch với năng suất lao động xã hội"
+    },
+    {
+      "id": 19,
+      "chapter": 2,
+      "question": "Quan hệ giữa lượng giá trị hàng hóa và mức độ phức tạp của lao động?",
+      "options": {
+        "A": "Lượng giá trị hàng hóa không lệ thuộc vào mức độ phức tạp của lao động",
+        "B": "Lương giá trị hàng hóa tỉ lệ thuận vơi mức độ phức tạp của lao động",
+        "C": "Lương giá trị hàng hóa tỉ lệ nghịch vơi mức độ phức tạp của lao động",
+        "D": "Lương giá trị được đo bằng thời gian lao động phức tạp cần thiết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lượng giá trị hàng hóa không lệ thuộc vào mức độ phức tạp của lao động",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lương giá trị hàng hóa tỉ lệ thuận vơi mức độ phức tạp của lao động",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lương giá trị hàng hóa tỉ lệ nghịch vơi mức độ phức tạp của lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lương giá trị được đo bằng thời gian lao động phức tạp cần thiết",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lương giá trị hàng hóa tỉ lệ thuận vơi mức độ phức tạp của lao động"
+    },
+    {
+      "id": 20,
+      "chapter": 2,
+      "question": "Lượng giá trị hàng hóa cấu thành từ cái gì?",
+      "options": {
+        "A": "Từ chi phí nghuyên vật liệu và tiền lương",
+        "B": "Từ các loại chi phí lưu thông",
+        "C": "Từ giá trị cũ tái hiện và giá trị mới",
+        "D": "Giá cả hàng hóa đó trên thị trường"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Từ chi phí nghuyên vật liệu và tiền lương",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Từ các loại chi phí lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Từ giá trị cũ tái hiện và giá trị mới",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Giá cả hàng hóa đó trên thị trường",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Từ giá trị cũ tái hiện và giá trị mới"
+    },
+    {
+      "id": 21,
+      "chapter": 2,
+      "question": "Lao động nào tạo ra giá trị của hàng hóa?",
+      "options": {
+        "A": "Lao động cụ thể",
+        "B": "Lao động trừu tương",
+        "C": "Lao động trí óc",
+        "D": "Lao động tập thể"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động cụ thể",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lao động trừu tương",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lao động trí óc",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lao động tập thể",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lao động trừu tương"
+    },
+    {
+      "id": 22,
+      "chapter": 2,
+      "question": "Lao động nào bảo tồn và di chuyển giá trị cũ vào sản phẩm?",
+      "options": {
+        "A": "Lao động cụ thể",
+        "B": "Lao động trừu tương",
+        "C": "Lao động phức tạp",
+        "D": "Lao động tập thể"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động cụ thể",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lao động trừu tương",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lao động phức tạp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lao động tập thể",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Lao động cụ thể"
+    },
+    {
+      "id": 23,
+      "chapter": 2,
+      "question": "Giá trị hàng hóa có các hình thái nào?",
+      "options": {
+        "A": "Hình thái giàn đơn và hình thái mở rộng",
+        "B": "Hình thái mở rộng và hình thái chung",
+        "C": "Hình thái giản đơn và hình thái tiền tệ",
+        "D": "Hình thái giản đơn, mở rộng, chung và hình thái tiền tệ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hình thái giàn đơn và hình thái mở rộng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hình thái mở rộng và hình thái chung",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hình thái giản đơn và hình thái tiền tệ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hình thái giản đơn, mở rộng, chung và hình thái tiền tệ",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Hình thái giản đơn, mở rộng, chung và hình thái tiền tệ"
+    },
+    {
+      "id": 24,
+      "chapter": 2,
+      "question": "Tiền tệ có những chức năng gì?",
+      "options": {
+        "A": "Thước đo giá trị và phương tiện thanh toán",
+        "B": "Thước đo giá trị và tiền tệ thế giới",
+        "C": "Thước đo giá trị và phương tiện cất trữ",
+        "D": "Thước đo giá trị, phương tiện lưu thông, phương tiện cất trữ, phương tiện thanh toán và tiển tệ thế giới"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thước đo giá trị và phương tiện thanh toán",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thước đo giá trị và tiền tệ thế giới",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thước đo giá trị và phương tiện cất trữ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thước đo giá trị, phương tiện lưu thông, phương tiện cất trữ, phương tiện thanh toán và tiển tệ thế giới",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thước đo giá trị, phương tiện lưu thông, phương tiện cất trữ, phương tiện thanh toán và tiển tệ thế giới"
+    },
+    {
+      "id": 25,
+      "chapter": 2,
+      "question": "Yêu cầu của quy luật giá trị là gì?",
+      "options": {
+        "A": "Sản xuất và trao đổi phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+        "B": "Sản xuất và trao đổi phải dựa trên giá trị sử dụng",
+        "C": "Sản xuất và trao đổi phải dựa trên sự thỏa thuận",
+        "D": "Sản xuất và trao đổi phải dựa trên nguyên tắc có lãi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất và trao đổi phải dựa trên cơ sở hao phí lao động xã hội cần thiết",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất và trao đổi phải dựa trên giá trị sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sản xuất và trao đổi phải dựa trên sự thỏa thuận",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sản xuất và trao đổi phải dựa trên nguyên tắc có lãi",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Sản xuất và trao đổi phải dựa trên cơ sở hao phí lao động xã hội cần thiết"
+    },
+    {
+      "id": 26,
+      "chapter": 2,
+      "question": "Mục đích của lưu thông hàng hóa giản đơn  là gì?",
+      "options": {
+        "A": "Tạo ra giá trị thặng dư",
+        "B": "Trao đổi giá sử dụng để thỏa mãn nhu cầu",
+        "C": "Trao dổi giá trị",
+        "D": "Phát triển thị trường"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tạo ra giá trị thặng dư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trao đổi giá sử dụng để thỏa mãn nhu cầu",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Trao dổi giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phát triển thị trường",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Trao đổi giá sử dụng để thỏa mãn nhu cầu"
+    },
+    {
+      "id": 27,
+      "chapter": 2,
+      "question": "Giá cả hàng hóa chịu ảnh hưởng của các nhận tố nào?",
+      "options": {
+        "A": "Giá trị hàng hóa và quan hệ cung cầu",
+        "B": "Quan hệ cung cầu",
+        "C": "Giá trị tiền tệ",
+        "D": "Cả ba phương án trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị hàng hóa và quan hệ cung cầu",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ cung cầu",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá trị tiền tệ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cả ba phương án trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Cả ba phương án trên"
+    },
+    {
+      "id": 28,
+      "chapter": 2,
+      "question": "Nội dung của quy luật giá trị là gì?",
+      "options": {
+        "A": "Mọi hàng đều có giá trị",
+        "B": "Giá cả hàng hóa phải bằng giá trị",
+        "C": "Giá cả phải bằng giá trị độc quyền",
+        "D": "Giá cả xoay quanh giá trị nhưng tổng giá cả bằng tổng giá trị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mọi hàng đều có giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá cả hàng hóa phải bằng giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá cả phải bằng giá trị độc quyền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giá cả xoay quanh giá trị nhưng tổng giá cả bằng tổng giá trị",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Giá cả xoay quanh giá trị nhưng tổng giá cả bằng tổng giá trị"
+    },
+    {
+      "id": 29,
+      "chapter": 2,
+      "question": "Cơ chế hoạt động của quy luật giá trị là gì?",
+      "options": {
+        "A": "Giá cả phải nhất trí với giá trị",
+        "B": "Giá cả không lệ thuộc vào giá trị",
+        "C": "Giá cả phải xoay quanh giá trị",
+        "D": "Giá cả là cơ sở để tính giá trị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá cả phải nhất trí với giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá cả không lệ thuộc vào giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giá cả phải xoay quanh giá trị",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Giá cả là cơ sở để tính giá trị",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Giá cả phải xoay quanh giá trị"
+    },
+    {
+      "id": 30,
+      "chapter": 2,
+      "question": "Quy luật giá trị có những tác động nào trong nền sản xuất xã hội ?",
+      "options": {
+        "A": "Điều tiết sản xuất và lưu thông hàng hóa",
+        "B": "Kích thích sự phát triển của sản xuất xã hội",
+        "C": "Lựa chọn và phân hóa người sản xuất thành người giầu và người nghèo",
+        "D": "Cả ba phương án trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Điều tiết sản xuất và lưu thông hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kích thích sự phát triển của sản xuất xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lựa chọn và phân hóa người sản xuất thành người giầu và người nghèo",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cả ba phương án trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Cả ba phương án trên"
+    },
+    {
+      "id": 31,
+      "chapter": 2,
+      "question": "Yếu tố nào làm giảm giá trị của hàng hoá:",
+      "options": {
+        "A": "Tăng cường độ lao động.",
+        "B": "Tăng thời gian lao động.",
+        "C": "Tăng điều kiện vật chất của lao động.",
+        "D": "Tăng năng suất lao động."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng cường độ lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tăng thời gian lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tăng điều kiện vật chất của lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tăng năng suất lao động.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tăng năng suất lao động."
+    },
+    {
+      "id": 32,
+      "chapter": 2,
+      "question": "Lao động trừu tượng:",
+      "options": {
+        "A": "Tạo ra giá trị sử dụng của hàng hoá.",
+        "B": "Tạo ra giá trị của hàng hoá.",
+        "C": "Là phạm trù vĩnh viễn.",
+        "D": "Biểu hiện tính chất tư nhân của giá trị hàng hoá."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tạo ra giá trị sử dụng của hàng hoá.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tạo ra giá trị của hàng hoá.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Là phạm trù vĩnh viễn.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biểu hiện tính chất tư nhân của giá trị hàng hoá.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Tạo ra giá trị của hàng hoá."
+    },
+    {
+      "id": 33,
+      "chapter": 2,
+      "question": "Tiền là hàng hoá đặc biệt:",
+      "options": {
+        "A": "Giữ vai trò là vật ngang giá chung, là thước đo giá trị của tất cả các loại hàng hoá khác.",
+        "B": "Có giá trị và giá trị sử dụng.",
+        "C": "Có thể để mua bán các hàng hoá.",
+        "D": "Có thể dùng làm phương tiện để bóc lột."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giữ vai trò là vật ngang giá chung, là thước đo giá trị của tất cả các loại hàng hoá khác.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Có giá trị và giá trị sử dụng.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có thể để mua bán các hàng hoá.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Có thể dùng làm phương tiện để bóc lột.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giữ vai trò là vật ngang giá chung, là thước đo giá trị của tất cả các loại hàng hoá khác."
+    },
+    {
+      "id": 34,
+      "chapter": 2,
+      "question": "Giá trị của hàng hoá là:",
+      "options": {
+        "A": "Biểu hiện của giá trị trao đổi.",
+        "B": "Lao động xã hội kết tinh trong hàng hóa.",
+        "C": "Mối quan hệ về lượng của những giá trị sử dụng khác nhau.",
+        "D": "Biểu hiện của giá trị sử dụng."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Biểu hiện của giá trị trao đổi.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lao động xã hội kết tinh trong hàng hóa.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Mối quan hệ về lượng của những giá trị sử dụng khác nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biểu hiện của giá trị sử dụng.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lao động xã hội kết tinh trong hàng hóa."
+    },
+    {
+      "id": 35,
+      "chapter": 2,
+      "question": "Chức năng cơ bản của tiền:",
+      "options": {
+        "A": "Phương tiện cất giữ.",
+        "B": "Phương tiện lưu thông",
+        "C": "Phương tiện thanh toán.",
+        "D": "Thước đo giá trị."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phương tiện cất giữ.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Phương tiện lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phương tiện thanh toán.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thước đo giá trị.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Thước đo giá trị."
+    },
+    {
+      "id": 36,
+      "chapter": 2,
+      "question": "Sản xuất hàng hoá giản đơn ra đời do:",
+      "options": {
+        "A": "Mong muốn của con người tồn tại và phát triển.",
+        "B": "Sự tiến bộ của khoa học kỹ thuật.",
+        "C": "Có sự phân công lao động xã hội và chế độ tư hữu về tư liệu sản xuất.",
+        "D": "Lực lượng sản xuất phát triển."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mong muốn của con người tồn tại và phát triển.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sự tiến bộ của khoa học kỹ thuật.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có sự phân công lao động xã hội và chế độ tư hữu về tư liệu sản xuất.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lực lượng sản xuất phát triển.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Có sự phân công lao động xã hội và chế độ tư hữu về tư liệu sản xuất."
+    },
+    {
+      "id": 37,
+      "chapter": 2,
+      "question": "Giá trị của hàng hoá:",
+      "options": {
+        "A": "Do lao động cụ thể tạo ra.",
+        "B": "Do lao động trừu tượng tạo ra.",
+        "C": "Phạm trù vĩnh viễn.",
+        "D": "Do lao động phức tạp."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do lao động cụ thể tạo ra.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do lao động trừu tượng tạo ra.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Phạm trù vĩnh viễn.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Do lao động phức tạp.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Do lao động trừu tượng tạo ra."
+    },
+    {
+      "id": 38,
+      "chapter": 2,
+      "question": "Hai hàng hoá trao đổi ngang giá với nhau được vì:",
+      "options": {
+        "A": "Cùng là sản phẩm của lao động.",
+        "B": "Có giá trị sử dụng giống nhau.",
+        "C": "Có hao phí vật tư kỹ thuật bằng nhau.",
+        "D": "Có lượng thời gian lao động xã hội cần thiết để sản xuất ra chúng bằng nhau."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cùng là sản phẩm của lao động.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Có giá trị sử dụng giống nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có hao phí vật tư kỹ thuật bằng nhau.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Có lượng thời gian lao động xã hội cần thiết để sản xuất ra chúng bằng nhau.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Có lượng thời gian lao động xã hội cần thiết để sản xuất ra chúng bằng nhau."
+    },
+    {
+      "id": 39,
+      "chapter": 2,
+      "question": "Một người lao động trong một ngày sản xuất được 30 sản phẩm, có tổng giá trị là 60USD. Hỏi: tổng sản lượng làm ra trong ngày và giá trị của một sản phẩm là bao nhiêu nếu năng suất lao động tăng lên 2 lần?",
+      "options": {
+        "A": "45 sản phẩm – 2USD",
+        "B": "30 sản phẩm – 2 USD",
+        "C": "60 sản phẩm – 2USD",
+        "D": "60 sản phẩm – 1 USD"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "45 sản phẩm – 2USD",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "30 sản phẩm – 2 USD",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "60 sản phẩm – 2USD",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "60 sản phẩm – 1 USD",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "60 sản phẩm – 1 USD"
+    },
+    {
+      "id": 40,
+      "chapter": 2,
+      "question": "Kinh tế hàng hóa phát triển qua các giai đoạn:",
+      "options": {
+        "A": "Kinh tế hàng hóa giản đơn, kinh tế thị trường hiện đại",
+        "B": "Kinh tế thị trường hỗn hợp, kinh tế thị trường tự do",
+        "C": "Kinh tế hàng hóa giản đơn, kinh tế thị trường tự do",
+        "D": "Kinh tế hàng hóa giản đơn, kinh tế thị trường"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kinh tế hàng hóa giản đơn, kinh tế thị trường hiện đại",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kinh tế thị trường hỗn hợp, kinh tế thị trường tự do",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kinh tế hàng hóa giản đơn, kinh tế thị trường tự do",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế hàng hóa giản đơn, kinh tế thị trường",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Kinh tế hàng hóa giản đơn, kinh tế thị trường"
+    },
+    {
+      "id": 41,
+      "chapter": 2,
+      "question": "Lao động sản xuất hàng hóa có tính 2 mặt, đó là:",
+      "options": {
+        "A": "Lao động giản đơn và lao động phức tạp",
+        "B": "Lao động tư nhân và lao động xã hội",
+        "C": "Lao động quá khứ và lao động sống",
+        "D": "Lao động cụ thể và lao động trừu tượng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động giản đơn và lao động phức tạp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lao động tư nhân và lao động xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lao động quá khứ và lao động sống",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lao động cụ thể và lao động trừu tượng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Lao động cụ thể và lao động trừu tượng"
+    },
+    {
+      "id": 42,
+      "chapter": 2,
+      "question": "Chọn đáp án sai:",
+      "options": {
+        "A": "Giá trị mới của sản phẩm: v + m",
+        "B": "Giá trị của sản phẩm mới: v + m",
+        "C": "Giá trị của sức lao động: v",
+        "D": "Giá trị của tư liệu sản xuất: c"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị mới của sản phẩm: v + m",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá trị của sản phẩm mới: v + m",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giá trị của sức lao động: v",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giá trị của tư liệu sản xuất: c",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giá trị của sản phẩm mới: v + m"
+    },
+    {
+      "id": 43,
+      "chapter": 2,
+      "question": "Tăng năng suất lao động là do:",
+      "options": {
+        "A": "Thay đổi cách thức lao động",
+        "B": "Tăng thời gian lao động",
+        "C": "Bỏ sức lao động nhiều hơn trong một thời gian",
+        "D": "Không phương án nào đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thay đổi cách thức lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tăng thời gian lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bỏ sức lao động nhiều hơn trong một thời gian",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không phương án nào đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Thay đổi cách thức lao động"
+    },
+    {
+      "id": 44,
+      "chapter": 2,
+      "question": "Khi năng suất lao động tăng, số lượng sản phẩm sản xuất trong một đơn vị thời gian sẽ:",
+      "options": {
+        "A": "Tăng",
+        "B": "Giảm",
+        "C": "Không đổi",
+        "D": "Tăng về số lượng, giảm về chất lượng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giảm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không đổi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tăng về số lượng, giảm về chất lượng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tăng"
+    },
+    {
+      "id": 45,
+      "chapter": 2,
+      "question": "Cường độ lao động là:",
+      "options": {
+        "A": "Mức độ khẩn trương, nặng nhọc trong lao động",
+        "B": "Hiệu quả của lao động",
+        "C": "Hiệu suất của lao động",
+        "D": "Tất cả đều sai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mức độ khẩn trương, nặng nhọc trong lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hiệu quả của lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hiệu suất của lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều sai",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Mức độ khẩn trương, nặng nhọc trong lao động"
+    },
+    {
+      "id": 46,
+      "chapter": 2,
+      "question": "Xác định đúng các khâu của quá trình tái sản xuất:",
+      "options": {
+        "A": "Sản xuất – trao đổi – phân phối – tiêu dùng",
+        "B": "Sản xuất – phân phối – trao đổi – tiêu dùng",
+        "C": "Phân phối – trao đôi – sản xuất – tiêu dùng",
+        "D": "Trao đổi – tiêu dùng – phân phối – sản xuất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sản xuất – trao đổi – phân phối – tiêu dùng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sản xuất – phân phối – trao đổi – tiêu dùng",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Phân phối – trao đôi – sản xuất – tiêu dùng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trao đổi – tiêu dùng – phân phối – sản xuất",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sản xuất – phân phối – trao đổi – tiêu dùng"
+    },
+    {
+      "id": 47,
+      "chapter": 2,
+      "question": "Giá cả thị trường của hàng hóa được xác dịnh bởi:",
+      "options": {
+        "A": "Giá trị của hàng hóa",
+        "B": "Số lượng tiền tệ trong lưu thông",
+        "C": "Cung và cầu về hàng hóa",
+        "D": "Tất cả đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Số lượng tiền tệ trong lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cung và cầu về hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả đều đúng"
+    },
+    {
+      "id": 48,
+      "chapter": 2,
+      "question": "Yêu cầu của quy luật giá trị trong sản xuất và trao đổi hàng hóa?",
+      "options": {
+        "A": "Phải dựa trên hao phí lao động xã hội cần thiết",
+        "B": "Phải dựa trên số lượng hàng hóa sản xuất ra",
+        "C": "Phải dựa trên thu nhập trung bình của xã hội",
+        "D": "Phải dựa trên thị hiếu của người tiêu dùng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phải dựa trên hao phí lao động xã hội cần thiết",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phải dựa trên số lượng hàng hóa sản xuất ra",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phải dựa trên thu nhập trung bình của xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phải dựa trên thị hiếu của người tiêu dùng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Phải dựa trên hao phí lao động xã hội cần thiết"
+    },
+    {
+      "id": 49,
+      "chapter": 2,
+      "question": "Yêu cầu của quy luật giá trị trong quá trình trao đổi hàng hóa?",
+      "options": {
+        "A": "Phải dựa trên nguyên tắc ngang giá",
+        "B": "Phải bán cao hơn giá trị để có lời",
+        "C": "Phải dựa vào số lượng hàng hóa trên thị trường",
+        "D": "Phải dựa vào thu nhập của người mua"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phải dựa trên nguyên tắc ngang giá",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phải bán cao hơn giá trị để có lời",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phải dựa vào số lượng hàng hóa trên thị trường",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phải dựa vào thu nhập của người mua",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Phải dựa trên nguyên tắc ngang giá"
+    },
+    {
+      "id": 50,
+      "chapter": 2,
+      "question": "Lạm phát là hiện tượng xảy ra khi nào?",
+      "options": {
+        "A": "Giá cả của thị trường tăng đột biến trong một thời gian nhất định",
+        "B": "Giá cả thị trường giảm mạnh trong một thời gian nhất định",
+        "C": "Thu nhập của người lao động tăng nhanh trong một thời gian nhất định",
+        "D": "Thu nhập của người lao động giảm nhanh trong một thời gian nhất định"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá cả của thị trường tăng đột biến trong một thời gian nhất định",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giá cả thị trường giảm mạnh trong một thời gian nhất định",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thu nhập của người lao động tăng nhanh trong một thời gian nhất định",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thu nhập của người lao động giảm nhanh trong một thời gian nhất định",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Giá cả của thị trường tăng đột biến trong một thời gian nhất định"
+    },
+    {
+      "id": 51,
+      "chapter": 2,
+      "question": "Trong những sản phẩm dưới đây sản phẩm nào không phải là hàng hóa?",
+      "options": {
+        "A": "Vắc xin Astrazeneca nhập khẩu",
+        "B": "Bình oxi trong bệnh viện",
+        "C": "Dịch vụ khám chữa bệnh",
+        "D": "Gà nuôi để giết thịt phục vụ gia đình"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vắc xin Astrazeneca nhập khẩu",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bình oxi trong bệnh viện",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Dịch vụ khám chữa bệnh",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Gà nuôi để giết thịt phục vụ gia đình",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Gà nuôi để giết thịt phục vụ gia đình"
+    },
+    {
+      "id": 52,
+      "chapter": 2,
+      "question": "Yếu tố quyết định giá cả hàng hóa là:",
+      "options": {
+        "A": "Giá trị sử dụng của hàng hóa",
+        "B": "Giá trị của hàng hóa",
+        "C": "Xu hướng thời trang của hàng hóa",
+        "D": "Tất cả phương án đều sai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá trị sử dụng của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá trị của hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Xu hướng thời trang của hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả phương án đều sai",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giá trị của hàng hóa"
+    },
+    {
+      "id": 53,
+      "chapter": 2,
+      "question": "“Sự tách biệt tương đối về mặt kinh tế giữa các nhà sản xuất” nghĩa là:",
+      "options": {
+        "A": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu tư liệu sản xuất",
+        "B": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu tư liệu tiêu dùng",
+        "C": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về chuyên môn, nghiệp vụ",
+        "D": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu sức lao động"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu tư liệu sản xuất",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu tư liệu tiêu dùng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về chuyên môn, nghiệp vụ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu sức lao động",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Làm cho những người sản xuất độc lập với nhau và có sự tách biệt về sở hữu tư liệu sản xuất"
+    },
+    {
+      "id": 54,
+      "chapter": 2,
+      "question": "Trong lịch sử, sự tách biệt tương đối về mặt kinh tế giữa các chủ thể sản xuất, xuất hiện khách quan khi nào?",
+      "options": {
+        "A": "Khi có sự tách biệt về sở hữu tư liệu sản xuất",
+        "B": "Khi có sự tách biệt về sở hữu tư liệu lao động",
+        "C": "Khi có sự tách biệt về sở hữu sức lao động",
+        "D": "Khi có sự tách biệt về công cụ lao động"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khi có sự tách biệt về sở hữu tư liệu sản xuất",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Khi có sự tách biệt về sở hữu tư liệu lao động",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Khi có sự tách biệt về sở hữu sức lao động",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Khi có sự tách biệt về công cụ lao động",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Khi có sự tách biệt về sở hữu tư liệu sản xuất"
+    },
+    {
+      "id": 55,
+      "chapter": 2,
+      "question": "Nội dung nào dưới đây không thể hiện mặt trái của sản xuất hàng hóa?",
+      "options": {
+        "A": "Các chủ thể sản xuất cạnh tranh với nhau",
+        "B": "Cạn kiệt tài nguyên, ô nhiễm môi trường",
+        "C": "Phân hóa giàu nghèo",
+        "D": "Tiềm ẩn nguy cơ khủng hoảng kinh tế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các chủ thể sản xuất cạnh tranh với nhau",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Cạn kiệt tài nguyên, ô nhiễm môi trường",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phân hóa giàu nghèo",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tiềm ẩn nguy cơ khủng hoảng kinh tế",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Các chủ thể sản xuất cạnh tranh với nhau"
+    },
+    {
+      "id": 56,
+      "chapter": 2,
+      "question": "Hình thái đo lường giá trị dựa trên việc cộng đồng đã chọn một hàng hóa làm vật ngang giá chung cho mọi hàng hóa khác là:",
+      "options": {
+        "A": "Hình thái chung của giá trị",
+        "B": "Hình thái giản đơn (ngẫu nhiên) của giá trị",
+        "C": "Hình thái đầy đủ ( hay mở rộng) của giá trị",
+        "D": "Tất cả các hình thái đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hình thái chung của giá trị",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hình thái giản đơn (ngẫu nhiên) của giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hình thái đầy đủ ( hay mở rộng) của giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các hình thái đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Hình thái chung của giá trị"
+    },
+    {
+      "id": 57,
+      "chapter": 2,
+      "question": "Ví dụ nào dưới đây thể hiện hình thái đầy đủ (hay mở rộng) của giá trị:",
+      "options": {
+        "A": "1 con gà = 10 kg thóc; hoặc 1 con gà = 2 cái rìu; hoặc 1 con gà = 5 mét vải,...",
+        "B": "2 cái rìu hoặc 3 met vải hoặc 5kg thóc = 0,1 gram vàng",
+        "C": "2 cái rìu; 3 met vải; 5 kg thóc = 0,2 gr vàng",
+        "D": "Tất cả ví dụ đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "1 con gà = 10 kg thóc; hoặc 1 con gà = 2 cái rìu; hoặc 1 con gà = 5 mét vải,...",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "2 cái rìu hoặc 3 met vải hoặc 5kg thóc = 0,1 gram vàng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "2 cái rìu; 3 met vải; 5 kg thóc = 0,2 gr vàng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả ví dụ đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "1 con gà = 10 kg thóc; hoặc 1 con gà = 2 cái rìu; hoặc 1 con gà = 5 mét vải,..."
+    },
+    {
+      "id": 58,
+      "chapter": 2,
+      "question": "Chọn ý sai khi nói về sản phẩm và hàng hóa:",
+      "options": {
+        "A": "Mọi sản phẩm đều là hàng hóa",
+        "B": "Mọi hàng hóa đều là sản phẩm",
+        "C": "Mọi hàng hóa đều là kết quả của lao động sản xuất",
+        "D": "Không phải mọi sản phẩm đều là hàng hóa"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mọi sản phẩm đều là hàng hóa",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mọi hàng hóa đều là sản phẩm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mọi hàng hóa đều là kết quả của lao động sản xuất",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không phải mọi sản phẩm đều là hàng hóa",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Mọi sản phẩm đều là hàng hóa"
+    },
+    {
+      "id": 59,
+      "chapter": 2,
+      "question": "Tiền nhất thiết phải có đủ giá trị khi thực hiện chức năng:",
+      "options": {
+        "A": "Chức năng phương tiện cất trữ",
+        "B": "Chức năng phương tiện lưu thông",
+        "C": "Chức năng phương tiện thanh toán",
+        "D": "Tất cả các chức năng của tiền"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chức năng phương tiện cất trữ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chức năng phương tiện lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chức năng phương tiện thanh toán",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các chức năng của tiền",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các chức năng của tiền"
+    },
+    {
+      "id": 60,
+      "chapter": 2,
+      "question": "Tiền dùng để đo lường và biểu hiện giá trị của hàng hóa khác là tiền thực hiện chức năng:",
+      "options": {
+        "A": "Phương tiện lưu thông",
+        "B": "Thước đo giá trị",
+        "C": "Phương tiện cất trữ",
+        "D": "Phương tiện thanh toán"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phương tiện lưu thông",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thước đo giá trị",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Phương tiện cất trữ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phương tiện thanh toán",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Thước đo giá trị"
+    },
+    {
+      "id": 61,
+      "chapter": 2,
+      "question": "Khối lượng tiền cần thiết cho lưu thông như thế nào so với tốc độ lưu thông của tiền tệ?",
+      "options": {
+        "A": "Tỷ lệ nghịch",
+        "B": "Tỷ lệ thuận",
+        "C": "Bằng nhau",
+        "D": "Lớn hơn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tỷ lệ nghịch",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tỷ lệ thuận",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bằng nhau",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lớn hơn",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tỷ lệ nghịch"
+    },
+    {
+      "id": 62,
+      "chapter": 2,
+      "question": "Vì sao hàng hóa có hai thuộc tính là giá trị và giá trị sử dụng?",
+      "options": {
+        "A": "Vì lao động sản xuất hàng hóa có tính chất hai mặt",
+        "B": "Ví có hai loại lao động là lao động trừu tượng và lao động cụ thể",
+        "C": "Vì hàng hóa được trao đổi trên thị trường.",
+        "D": "Vì hàng hóa là sản phẩm lao động của con người"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vì lao động sản xuất hàng hóa có tính chất hai mặt",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Ví có hai loại lao động là lao động trừu tượng và lao động cụ thể",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Vì hàng hóa được trao đổi trên thị trường.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vì hàng hóa là sản phẩm lao động của con người",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Ví có hai loại lao động là lao động trừu tượng và lao động cụ thể"
+    },
+    {
+      "id": 63,
+      "chapter": 2,
+      "question": "Lưu thông hàng hóa dựa trên nguyên tắc ngang giá. Điều này được hiểu như thế nào là đúng?",
+      "options": {
+        "A": "Giá cả của từng hàng hóa luôn bằng giá trị của nó",
+        "B": "Giá cả có thể tách rời giá trị và xoay quanh giá trị của nó",
+        "C": "Giá trị luôn cao hơn giá cả",
+        "D": "Giá trị luôn thấp hơn giá cả"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Giá cả của từng hàng hóa luôn bằng giá trị của nó",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá cả có thể tách rời giá trị và xoay quanh giá trị của nó",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Giá trị luôn cao hơn giá cả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Giá trị luôn thấp hơn giá cả",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giá cả có thể tách rời giá trị và xoay quanh giá trị của nó"
+    },
+    {
+      "id": 64,
+      "chapter": 2,
+      "question": "ý nào sau đây là ý không đúng về lao động phức tạp:",
+      "options": {
+        "A": "Trong cùng một thời gian lao động, lao động phức tạp tạo ra nhiều giá trị hơn lao động giản đơn",
+        "B": "Lao động phức tạp là lao động giản đơn nhân bội lên",
+        "C": "Lao động phức tạp là lao động trí tuệ của người lao động có trình độ cao",
+        "D": "Lao động phức tạp là lao động trải qua đào tạo, huấn luyện"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trong cùng một thời gian lao động, lao động phức tạp tạo ra nhiều giá trị hơn lao động giản đơn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lao động phức tạp là lao động giản đơn nhân bội lên",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lao động phức tạp là lao động trí tuệ của người lao động có trình độ cao",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Lao động phức tạp là lao động trải qua đào tạo, huấn luyện",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lao động phức tạp là lao động trí tuệ của người lao động có trình độ cao"
+    },
+    {
+      "id": 65,
+      "chapter": 2,
+      "question": "Chọn các ý đúng trong các ý sau đây:",
+      "options": {
+        "A": "Lao động của người kỹ sư có trình độ cao thuần tuý là lao động trừu tượng",
+        "B": "Lao động của người không qua đào tạo chỉ là lao động cụ thể",
+        "C": "Lao động của người sản xuất hàng hoá đều có lao động cụ thể và lao động trừu tượng",
+        "D": "Cả a, b, c đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động của người kỹ sư có trình độ cao thuần tuý là lao động trừu tượng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lao động của người không qua đào tạo chỉ là lao động cụ thể",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lao động của người sản xuất hàng hoá đều có lao động cụ thể và lao động trừu tượng",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cả a, b, c đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Lao động của người sản xuất hàng hoá đều có lao động cụ thể và lao động trừu tượng"
+    },
+    {
+      "id": 66,
+      "chapter": 2,
+      "question": "Tiền có 5 chức năng. Chức năng nào không đòi hỏi có tiền vàng?",
+      "options": {
+        "A": "Chức năng thước đo giá trị",
+        "B": "Chức năng phương tiện lưu thông và phương tiện thanh toán",
+        "C": "Chức năng phương tiện cất trữ",
+        "D": "Chức năng phương tiện cất trữ và chức năng thước đo giá trị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chức năng thước đo giá trị",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chức năng phương tiện lưu thông và phương tiện thanh toán",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chức năng phương tiện cất trữ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chức năng phương tiện cất trữ và chức năng thước đo giá trị",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Chức năng phương tiện lưu thông và phương tiện thanh toán"
+    },
+    {
+      "id": 67,
+      "chapter": 2,
+      "question": "Thị trường có vai trò gì",
+      "options": {
+        "A": "Thị trường thực hiện giá trị hàng hóa, là điều kiện, môi trường cho sản phát triển",
+        "B": "Thị trường gắn nên kinh tế thành một chỉnh thể, gắn kết nền kinh tế quốc gia với nền kinh tế thế giới",
+        "C": "Thị trường kích thích sự sáng tạo của mọi thành viên trong xã hội, tạo ra cách thức phân bổ nguồn lực hiệu quả trong nền kinh tế",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thị trường thực hiện giá trị hàng hóa, là điều kiện, môi trường cho sản phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thị trường gắn nên kinh tế thành một chỉnh thể, gắn kết nền kinh tế quốc gia với nền kinh tế thế giới",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thị trường kích thích sự sáng tạo của mọi thành viên trong xã hội, tạo ra cách thức phân bổ nguồn lực hiệu quả trong nền kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 68,
+      "chapter": 2,
+      "question": "Có bao nhiêu căn cứ để phân loại thị trường",
+      "options": {
+        "A": "1",
+        "B": "2.",
+        "C": "3",
+        "D": "4"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "1",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "2.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "4",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "2."
+    },
+    {
+      "id": 69,
+      "chapter": 2,
+      "question": "Ai là người phát hiện ra tính chất hai mặt của lao động sản xuất hàng hoá?",
+      "options": {
+        "A": "A.Smith",
+        "B": "D.Ricardo",
+        "C": "C.Mác",
+        "D": "Ph. Ăng ghen"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "A.Smith",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "D.Ricardo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "C.Mác",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Ph. Ăng ghen",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "C.Mác"
+    },
+    {
+      "id": 70,
+      "chapter": 2,
+      "question": "Quy luật giá trị tồn tại ở riêng:",
+      "options": {
+        "A": "Nền sản xuất hàng hoá giản đơn",
+        "B": "Nền sản xuất TBCN",
+        "C": "Trong nền sản xuất vật chất nói chung",
+        "D": "Trong nền kinh tế hàng hoá"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nền sản xuất hàng hoá giản đơn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nền sản xuất TBCN",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trong nền sản xuất vật chất nói chung",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trong nền kinh tế hàng hoá",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Trong nền kinh tế hàng hoá"
+    },
+    {
+      "id": 71,
+      "chapter": 2,
+      "question": "Xét về lôgíc và lịch sử thì sản xuất hàng hoá xuất hiện từ khi nào?",
+      "options": {
+        "A": "Xã hội chiếm hữu nô lệ",
+        "B": "Cuối xã hội nguyên thuỷ, đầu xã hội nô lệ",
+        "C": "Cuối xã hội nô lệ, đầu xã hội phong kiến",
+        "D": "Trong xã hội phong kiến."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xã hội chiếm hữu nô lệ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cuối xã hội nguyên thuỷ, đầu xã hội nô lệ",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cuối xã hội nô lệ, đầu xã hội phong kiến",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trong xã hội phong kiến.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cuối xã hội nguyên thuỷ, đầu xã hội nô lệ"
+    },
+    {
+      "id": 72,
+      "chapter": 2,
+      "question": "Thế nào là cung hàng hoá?",
+      "options": {
+        "A": "Là số lượng hàng hoá xã hội sản xuất ra.",
+        "B": "Là toàn bộ số hàng hoá đem bán trên thị trường.",
+        "C": "Toàn bộ hàng hoá đem bán trên thị trường và có thể đưa nhanh đến thị trường ở một mức giá nhất định.",
+        "D": "Là toàn bộ khả năng cung cấp hàng hoá cho thị trường."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là số lượng hàng hoá xã hội sản xuất ra.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là toàn bộ số hàng hoá đem bán trên thị trường.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Toàn bộ hàng hoá đem bán trên thị trường và có thể đưa nhanh đến thị trường ở một mức giá nhất định.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Là toàn bộ khả năng cung cấp hàng hoá cho thị trường.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Toàn bộ hàng hoá đem bán trên thị trường và có thể đưa nhanh đến thị trường ở một mức giá nhất định."
+    },
+    {
+      "id": 73,
+      "chapter": 2,
+      "question": "Thế nào là cầu hàng hóa?",
+      "options": {
+        "A": "Là nhu cầu của thị trường về hàng hoá.",
+        "B": "Là nhu cầu của người mua hàng hoá",
+        "C": "Là sự mong muốn, sở thích của người tiêu dùng.",
+        "D": "Là nhu cầu của xã hội về hàng hoá được biểu hiện trên thị trường ở một mức giá nhất định."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là nhu cầu của thị trường về hàng hoá.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Là nhu cầu của người mua hàng hoá",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Là sự mong muốn, sở thích của người tiêu dùng.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là nhu cầu của xã hội về hàng hoá được biểu hiện trên thị trường ở một mức giá nhất định.",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Là nhu cầu của xã hội về hàng hoá được biểu hiện trên thị trường ở một mức giá nhất định."
+    },
+    {
+      "id": 74,
+      "chapter": 2,
+      "question": "Trong các phạm trù kinh tế dưới đây, phạm trù nào được coi là tín hiệu của cơ chế thị trường?",
+      "options": {
+        "A": "Cung - cầu hàng hoá",
+        "B": "Giá cả thị trường",
+        "C": "Sức mua của tiền",
+        "D": "Thông tin thị trường"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cung - cầu hàng hoá",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Giá cả thị trường",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sức mua của tiền",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thông tin thị trường",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Giá cả thị trường"
+    },
+    {
+      "id": 75,
+      "chapter": 2,
+      "question": "Trong các mệnh đề dưới đây, mệnh đề nào không đúng?",
+      "options": {
+        "A": "Quy luật kinh tế là quy luật khách quan",
+        "B": "Quy luật kinh tế hoạt động giống các quy luật tự nhiên",
+        "C": "Quy luật kinh tế phát huy tác dụng thông qua hoạt động kinh tế của con người.",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quy luật kinh tế là quy luật khách quan",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quy luật kinh tế hoạt động giống các quy luật tự nhiên",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Quy luật kinh tế phát huy tác dụng thông qua hoạt động kinh tế của con người.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Quy luật kinh tế hoạt động giống các quy luật tự nhiên"
+    }
+  ]
+}

@@ -1,0 +1,1673 @@
+{
+  "chapter": 6,
+  "title": "Chương 6: Thực hiện pháp luật, Vi phạm pháp luật và Trách nhiệm pháp lý",
+  "total_questions": 49,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Luật đất đai năm 2013 quy định nội dung nào sau đây?",
+      "options": {
+        "A": "Đất đai là tài sản thuộc sở hữu của toàn dân, do nhà nước thống nhất quản lý",
+        "B": "Đất đai là tài sản thuộc sở hữu của công dân và các doanh nghiệp được nhà nước bán lại",
+        "C": "Đất đai là tài sản thuộc sở hữu toàn dân, được nhà nước chia cho người có nhu cầu sử dụng",
+        "D": "Đất đai là tài sản thuộc sở hữu của công dân và nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đất đai là tài sản thuộc sở hữu của toàn dân, do nhà nước thống nhất quản lý",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Đất đai là tài sản thuộc sở hữu của công dân và các doanh nghiệp được nhà nước bán lại",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Đất đai là tài sản thuộc sở hữu toàn dân, được nhà nước chia cho người có nhu cầu sử dụng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đất đai là tài sản thuộc sở hữu của công dân và nhà nước",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Đất đai là tài sản thuộc sở hữu của toàn dân, do nhà nước thống nhất quản lý"
+    },
+    {
+      "id": 2,
+      "question": "Cục thuế tỉnh H ra quyết định xử phạt Doanh nghiệp A trốn thuế với số tiền phạt 3.000.000 đồng. Việc làm của cơ quan thuế tỉnh H gọi là:",
+      "options": {
+        "A": "Tuân thủ pháp luật",
+        "B": "Áp dụng pháp luật",
+        "C": "Thi hành pháp luật",
+        "D": "Sử dụng pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Áp dụng pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Thi hành pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sử dụng pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Áp dụng pháp luật"
+    },
+    {
+      "id": 3,
+      "question": "Tòa án ra bản án buộc Doanh nghiệp A phải bồi thường cho Doanh nghiệp B số tiền 10.000.000 đồng do vi phạm hợp đồng. Trách nhiệm pháp lý mà Doanh nghiệp A phải chịu là:",
+      "options": {
+        "A": "Trách nhiệm hành chính",
+        "B": "Trách nhiệm kỷ luật",
+        "C": "Trách nhiệm dân sự",
+        "D": "Trách nhiệm bồi thường"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trách nhiệm hành chính",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trách nhiệm kỷ luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trách nhiệm dân sự",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Trách nhiệm bồi thường",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Trách nhiệm dân sự"
+    },
+    {
+      "id": 4,
+      "question": "Buộc người khác kết hôn trái với nguyện vọng của họ, gọi là:",
+      "options": {
+        "A": "Tảo hôn",
+        "B": "Cưỡng ép kết hôn",
+        "C": "Đính hôn",
+        "D": "Kết hôn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tảo hôn",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cưỡng ép kết hôn",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Đính hôn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kết hôn",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cưỡng ép kết hôn"
+    },
+    {
+      "id": 5,
+      "question": "Một chủ doanh nghiệp trong quá trình kinh doanh, không thực hiện những hành vi pháp luật cấm. Việc làm ấy gọi là:",
+      "options": {
+        "A": "Tuân thủ pháp luật",
+        "B": "Áp dụng pháp luật",
+        "C": "Thi hành pháp luật",
+        "D": "Sử dụng pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Áp dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thi hành pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sử dụng pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tuân thủ pháp luật"
+    },
+    {
+      "id": 6,
+      "question": "Người bị xử phạt tù oan làm đơn kiện đòi bồi thường thiệt hại, gọi là:",
+      "options": {
+        "A": "Áp dụng pháp luật",
+        "B": "Sử dụng pháp luật",
+        "C": "Chấp hành pháp luật",
+        "D": "Tuân thủ pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Áp dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chấp hành pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sử dụng pháp luật"
+    },
+    {
+      "id": 7,
+      "question": "Theo quy định của luật nuôi con nuôi năm 2010 thì điều kiện về chênh lệch độ tuổi giữa người nhận nuôi con nuôi và con nuôi (trừ một số trường hợp pháp luật quy định khác) phải là:",
+      "options": {
+        "A": "15 tuổi",
+        "B": "18 tuổi",
+        "C": "20 tuổi",
+        "D": "22 tuổi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "15 tuổi",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "18 tuổi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "20 tuổi",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "22 tuổi",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "20 tuổi"
+    },
+    {
+      "id": 8,
+      "question": "Luật hôn nhân gia đình Việt Nam năm 2014 cấm kết hôn giữa những người có quan hệ nào sau đây:",
+      "options": {
+        "A": "Cùng dòng máu trực hệ, có quan hệ họ hàng trong phạm vi 03 đời",
+        "B": "Có quan hệ họ hàng trong phạm vi 04 đời",
+        "C": "Có quan hệ họ hàng trong phạm vi 05 đời",
+        "D": "Có quan hệ họ hàng trong phạm vi 02 đời"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cùng dòng máu trực hệ, có quan hệ họ hàng trong phạm vi 03 đời",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Có quan hệ họ hàng trong phạm vi 04 đời",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có quan hệ họ hàng trong phạm vi 05 đời",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Có quan hệ họ hàng trong phạm vi 02 đời",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cùng dòng máu trực hệ, có quan hệ họ hàng trong phạm vi 03 đời"
+    },
+    {
+      "id": 9,
+      "question": "Sinh viên vi phạm quy chế thi cử, phải chịu loại trách nhiệm nào sau đây:",
+      "options": {
+        "A": "Trách nhiệm hành chính",
+        "B": "Trách nhiệm dân sự",
+        "C": "Trách nhiệm kỷ luật",
+        "D": "Trách nhiệm hình sự"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trách nhiệm hành chính",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trách nhiệm dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Trách nhiệm kỷ luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Trách nhiệm hình sự",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Trách nhiệm kỷ luật"
+    },
+    {
+      "id": 10,
+      "question": "Người vi phạm kỷ luật lao động, tuỳ theo mức độ phạm lỗi, bị xử lý theo một trong những hình thức sau đây:",
+      "options": {
+        "A": "Khiển trách/ Chuyển làm công việc khác có mức lương thấp hơn trong thời hạn tối đa là sáu tháng/ Sa thải.",
+        "B": "Khiển trách/ Cúp lương/ Sa thải",
+        "C": "Cảnh cáo/ Cúp lương/ Sa thải",
+        "D": "Khiển trách/ cảnh cáo/ đuổi việc"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khiển trách/ Chuyển làm công việc khác có mức lương thấp hơn trong thời hạn tối đa là sáu tháng/ Sa thải.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Khiển trách/ Cúp lương/ Sa thải",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cảnh cáo/ Cúp lương/ Sa thải",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Khiển trách/ cảnh cáo/ đuổi việc",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Khiển trách/ Chuyển làm công việc khác có mức lương thấp hơn trong thời hạn tối đa là sáu tháng/ Sa thải."
+    },
+    {
+      "id": 11,
+      "question": "Chấp hành pháp luật là một hình thức thực hiện pháp luật trong đó:",
+      "options": {
+        "A": "Các chủ thể pháp luật kiềm chế không tiến hành những hành vi mà pháp luật cấm",
+        "B": "Các chủ thể pháp luật tiến hành những hoạt động mà pháp luật không cấm",
+        "C": "Các chủ thể pháp luật thực hiện nghĩa vụ pháp lý của mình bằng những hành động tích cực",
+        "D": "Các chủ thể pháp luật thực hiện các quyền, tự do pháp lý của mình"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các chủ thể pháp luật kiềm chế không tiến hành những hành vi mà pháp luật cấm",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các chủ thể pháp luật tiến hành những hoạt động mà pháp luật không cấm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các chủ thể pháp luật thực hiện nghĩa vụ pháp lý của mình bằng những hành động tích cực",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các chủ thể pháp luật thực hiện các quyền, tự do pháp lý của mình",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Các chủ thể pháp luật thực hiện nghĩa vụ pháp lý của mình bằng những hành động tích cực"
+    },
+    {
+      "id": 12,
+      "question": "Áp dụng pháp luật là một hình thức thực hiện pháp luật trong đó:",
+      "options": {
+        "A": "Nhà nước bắt buộc các chủ thể pháp luật phải thực hiện những quy định của pháp luật",
+        "B": "Các chủ thể pháp luật tự mình thực hiện những quy định của pháp luật",
+        "C": "Nhà nước thông qua các cơ quan Nhà nước có thẩm quyền tổ chức cho các chủ thể khác thực hiện những quy định của pháp luật hoặc tự mình căn cứ vào những quy định của pháp luật để ra các quyết định mang tính cá biệt nhằm điều chỉnh quan hệ xã hội theo những mục tiêu cụ thể",
+        "D": "Các chủ thể pháp luật kiềm chế không tiến hành những hành vi mà pháp luật cấm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước bắt buộc các chủ thể pháp luật phải thực hiện những quy định của pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các chủ thể pháp luật tự mình thực hiện những quy định của pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước thông qua các cơ quan Nhà nước có thẩm quyền tổ chức cho các chủ thể khác thực hiện những quy định của pháp luật hoặc tự mình căn cứ vào những quy định của pháp luật để ra các quyết định mang tính cá biệt nhằm điều chỉnh quan hệ xã hội theo những mục tiêu cụ thể",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các chủ thể pháp luật kiềm chế không tiến hành những hành vi mà pháp luật cấm",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Nhà nước thông qua các cơ quan Nhà nước có thẩm quyền tổ chức cho các chủ thể khác thực hiện những quy định của pháp luật hoặc tự mình căn cứ vào những quy định của pháp luật để ra các quyết định mang tính cá biệt nhằm điều chỉnh quan hệ xã hội theo những mục tiêu cụ thể"
+    },
+    {
+      "id": 13,
+      "question": "Mặc dù rất vội để đến cơ quan dự một cuộc họp quan trọng, nhưng ông H đã dừng xe lại khi gặp tín hiệu đèn giao thông màu đỏ. Việc dừng xe của ông H gọi là:",
+      "options": {
+        "A": "Áp dụng pháp luật",
+        "B": "Sử dụng pháp luật",
+        "C": "Tuân thủ pháp luật",
+        "D": "Chấp hành pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Áp dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Chấp hành pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Tuân thủ pháp luật"
+    },
+    {
+      "id": 14,
+      "question": "Phát hiện bé T ở vào tình trạng rất nguy hiểm đến tính mạng khi bé bị rơi xuống ao, anh P đã nhảy xuống cứu bé T lên. Việc làm của anh P gọi là:",
+      "options": {
+        "A": "Áp dụng pháp luật.",
+        "B": "Sử dụng pháp luật",
+        "C": "Tuân thủ pháp luật",
+        "D": "Chấp hành pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Áp dụng pháp luật.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chấp hành pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Chấp hành pháp luật"
+    },
+    {
+      "id": 15,
+      "question": "Tòa án nhân dân tỉnh D ra quyết định tuyên bố một người mất tích. Việc ra quyết định như vậy gọi là:",
+      "options": {
+        "A": "Áp dụng pháp luật",
+        "B": "Sử dụng pháp luật",
+        "C": "Tuân thủ pháp luật",
+        "D": "Chấp hành pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Áp dụng pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chấp hành pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Áp dụng pháp luật"
+    },
+    {
+      "id": 16,
+      "question": "Phát hiện ông A có hành vi lừa đảo chiếm đoạt tài sản, bà K đã gửi đơn đến các cơ quan bảo vệ pháp luật để tố cáo ông A. Việc làm của bà K gọi là:",
+      "options": {
+        "A": "Áp dụng pháp luật",
+        "B": "Sử dụng pháp luật",
+        "C": "Tuân thủ pháp luật",
+        "D": "Chấp hành pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Áp dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Tuân thủ pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chấp hành pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sử dụng pháp luật"
+    },
+    {
+      "id": 17,
+      "question": "Khẳng định nào sau đây là đúng?",
+      "options": {
+        "A": "Mọi hành vi vi phạm pháp luật đều là hành vi trái pháp luật",
+        "B": "Mọi hành vi trái pháp luật đều là vi phạm pháp luật",
+        "C": "Mọi hành vi có lỗi của chủ thể đều là hành vi vi phạm pháp luật",
+        "D": "Chủ thể vi phạm pháp luật luôn phải chịu trách nhiệm pháp lý"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mọi hành vi vi phạm pháp luật đều là hành vi trái pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mọi hành vi trái pháp luật đều là vi phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Mọi hành vi có lỗi của chủ thể đều là hành vi vi phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chủ thể vi phạm pháp luật luôn phải chịu trách nhiệm pháp lý",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Mọi hành vi vi phạm pháp luật đều là hành vi trái pháp luật"
+    },
+    {
+      "id": 18,
+      "question": "Hành vi nào sau đây là vi phạm hình sự?",
+      "options": {
+        "A": "Cố ý gây thương tích cho người khác với tỷ lệ thương tật 30%",
+        "B": "Lấn chiếm lòng, lề đường để bán hàng hóa",
+        "C": "Lái xe đi vào đường cấm",
+        "D": "Hút thuốc lá nơi công cộng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cố ý gây thương tích cho người khác với tỷ lệ thương tật 30%",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Lấn chiếm lòng, lề đường để bán hàng hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Lái xe đi vào đường cấm",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hút thuốc lá nơi công cộng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cố ý gây thương tích cho người khác với tỷ lệ thương tật 30%"
+    },
+    {
+      "id": 19,
+      "question": "Các hình thức xử phạt chính đối với chủ thể vi phạm hành chính gồm có:",
+      "options": {
+        "A": "Cảnh cáo và phạt tiền",
+        "B": "Tịch thu tang vật, phương tiện sử dụng để vi phạm hành chính",
+        "C": "Phạt cải tạo",
+        "D": "Phạt tù"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cảnh cáo và phạt tiền",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tịch thu tang vật, phương tiện sử dụng để vi phạm hành chính",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phạt cải tạo",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Phạt tù",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cảnh cáo và phạt tiền"
+    },
+    {
+      "id": 20,
+      "question": "Bộ luật hình sự quy định: “Người phạm tội trong tình trạng say do dùng rượu hoặc chất kích thích mạnh khác, thì vẫn phải chịu ...\". Họ sẽ bị tội nào sau đây?",
+      "options": {
+        "A": "Trách nhiệm pháp lý",
+        "B": "Trách nhiệm hình sự",
+        "C": "Trách nhiệm dân sự",
+        "D": "Trách nhiệm hành chính"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trách nhiệm pháp lý",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trách nhiệm hình sự",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Trách nhiệm dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trách nhiệm hành chính",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Trách nhiệm hình sự"
+    },
+    {
+      "id": 21,
+      "question": "Một người chỉ bị coi là có tội khi:",
+      "options": {
+        "A": "Bị cơ quan Công an bắt theo lệnh bắt của Viện Kiểm Sát",
+        "B": "Bị toà án đưa ra xét xử công khai",
+        "C": "Bị cơ quan Công an khởi tố, điều tra về hành vi vi phạm pháp luật",
+        "D": "Bị toà án kết tội bằng bản án có hiệu lực pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Bị cơ quan Công an bắt theo lệnh bắt của Viện Kiểm Sát",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Bị toà án đưa ra xét xử công khai",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Bị cơ quan Công an khởi tố, điều tra về hành vi vi phạm pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bị toà án kết tội bằng bản án có hiệu lực pháp luật",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Bị toà án kết tội bằng bản án có hiệu lực pháp luật"
+    },
+    {
+      "id": 22,
+      "question": "Theo quy định tại bộ luật dân sự 2005, tài sản bao gồm:",
+      "options": {
+        "A": "Vật có thực",
+        "B": "Tiền và giấy tờ trị giá được bằng tiền",
+        "C": "Các quyền về tài sản",
+        "D": "Tất cả các ý trên"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vật có thực",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Tiền và giấy tờ trị giá được bằng tiền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các quyền về tài sản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các ý trên",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các ý trên"
+    },
+    {
+      "id": 23,
+      "question": "Theo quy định của luật Hôn nhân và gia đình Việt Nam năm 2014 thì trường hợp nào sau đây không thuộc trường hợp cấm kết hôn:",
+      "options": {
+        "A": "Kết hôn với người đang có vợ hoặc chồng",
+        "B": "Kết hôn với con nuôi",
+        "C": "Kết hôn với người mất năng lực hành vi dân sự",
+        "D": "Kết hôn với người bị nhiễm HIV"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kết hôn với người đang có vợ hoặc chồng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kết hôn với con nuôi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Kết hôn với người mất năng lực hành vi dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kết hôn với người bị nhiễm HIV",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Kết hôn với người bị nhiễm HIV"
+    },
+    {
+      "id": 24,
+      "question": "Phạt cảnh cáo là:",
+      "options": {
+        "A": "Phạt chính",
+        "B": "Phạt bổ sung",
+        "C": "Biện pháp khắc phục hậu quả",
+        "D": "Biện pháp xử lý hành chính khác"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Phạt chính",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phạt bổ sung",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Biện pháp khắc phục hậu quả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biện pháp xử lý hành chính khác",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Phạt chính"
+    },
+    {
+      "id": 25,
+      "question": "Trục xuất là hình thức:",
+      "options": {
+        "A": "Vừa phạt chính, vừa phạt bổ sung",
+        "B": "Phạt bổ sung",
+        "C": "Biện pháp khắc phục hậu quả",
+        "D": "Biện pháp xử lý hành chính khác"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vừa phạt chính, vừa phạt bổ sung",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Phạt bổ sung",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Biện pháp khắc phục hậu quả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Biện pháp xử lý hành chính khác",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Vừa phạt chính, vừa phạt bổ sung"
+    },
+    {
+      "id": 26,
+      "question": "Ông A có hành vi xây dựng nhà ở trái phép. Hành vi này được coi là:",
+      "options": {
+        "A": "Vi phạm hình sự",
+        "B": "Vi phạm hành chính",
+        "C": "Vi phạm kỷ luật",
+        "D": "Vi phạm dân sự"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Vi phạm hình sự",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Vi phạm hành chính",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Vi phạm kỷ luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vi phạm dân sự",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Vi phạm hành chính"
+    },
+    {
+      "id": 27,
+      "question": "Lỗi nào sau đây chủ thể vi phạm không nhận thức được hành vi của mình là nguy hiểm cho xã hội?",
+      "options": {
+        "A": "Cố ý trực tiếp",
+        "B": "Cố ý gián tiếp",
+        "C": "Vô ý do cẩu thả",
+        "D": "Vô ý do quá tự tin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cố ý trực tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cố ý gián tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vô ý do cẩu thả",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Vô ý do quá tự tin",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Vô ý do cẩu thả"
+    },
+    {
+      "id": 28,
+      "question": "Chị B không đội mũ bảo hiểm. Hành vi của chị B được coi là:",
+      "options": {
+        "A": "Không tuân thủ pháp luật",
+        "B": "Không chấp hành pháp luật",
+        "C": "Không sử dụng pháp luật",
+        "D": "Không áp dụng pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Không tuân thủ pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Không chấp hành pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Không sử dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Không áp dụng pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Không chấp hành pháp luật"
+    },
+    {
+      "id": 29,
+      "question": "Chị M làm đơn yêu cầu tòa án nhân dân thành phố Biên Hòa tuyên bố chồng mình bị mất tích. Sau khi xem xét, Tòa án nhân dân thành phố Biên Hòa đã ra quyết định tuyên bố chồng chị M mất tích. Hỏi việc làm của Tòa án nhân dân thành phố Biên Hòa và của chị M là những hình thức thực hiện pháp luật nào?",
+      "options": {
+        "A": "Tuân thủ pháp luật và chấp hành pháp luật",
+        "B": "Sử dụng pháp luật và áp dụng pháp luật",
+        "C": "Áp dụng pháp luật và sử dụng pháp luật",
+        "D": "Sử dụng pháp luật và tuân thủ pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tuân thủ pháp luật và chấp hành pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng pháp luật và áp dụng pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Áp dụng pháp luật và sử dụng pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Sử dụng pháp luật và tuân thủ pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Áp dụng pháp luật và sử dụng pháp luật"
+    },
+    {
+      "id": 30,
+      "question": "Vì ghen nên ông A gây thương tích cho ông B. Lỗi của ông A trong trường hợp này là:",
+      "options": {
+        "A": "Cố ý trực tiếp",
+        "B": "Cố ý gián tiếp",
+        "C": "Vô ý do cẩu thả",
+        "D": "Vô ý do quá tự tin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cố ý trực tiếp",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Cố ý gián tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vô ý do cẩu thả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vô ý do quá tự tin",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cố ý trực tiếp"
+    },
+    {
+      "id": 31,
+      "question": "Cấu thành của vi phạm pháp luật bao gồm 4 bộ phận:",
+      "options": {
+        "A": "Mặt khách quan; Mặt chủ quan; Mặt chủ thể; Mặt khách thể",
+        "B": "Mặt khách quan; Mặt chủ quan; chủ thể; khách thể",
+        "C": "Khách quan; Chủ quan; Mặt chủ thể; Mặt khách thể",
+        "D": "Mặt khách quan; Mặt chủ quan; Mặt chủ thể; khách thể"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mặt khách quan; Mặt chủ quan; Mặt chủ thể; Mặt khách thể",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mặt khách quan; Mặt chủ quan; chủ thể; khách thể",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Khách quan; Chủ quan; Mặt chủ thể; Mặt khách thể",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mặt khách quan; Mặt chủ quan; Mặt chủ thể; khách thể",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Mặt khách quan; Mặt chủ quan; chủ thể; khách thể"
+    },
+    {
+      "id": 32,
+      "question": "Lỗi nào sau đây chủ thể nhận thức được hành vi của mình là nguy hiểm cho xã hội nhưng lại thờ ơ, bỏ mặc chấp nhận hậu quả?",
+      "options": {
+        "A": "Cố ý trực tiếp",
+        "B": "Cố ý gián tiếp",
+        "C": "Vô ý do cẩu thả",
+        "D": "Vô ý do quá tự tin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cố ý trực tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cố ý gián tiếp",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Vô ý do cẩu thả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vô ý do quá tự tin",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cố ý gián tiếp"
+    },
+    {
+      "id": 33,
+      "question": "Lỗi cố ý gián tiếp sẽ chuyển thành lỗi nào nếu chủ thể biết rằng hậu quả sẽ chắc chắn xảy ra?",
+      "options": {
+        "A": "Cố ý trực tiếp",
+        "B": "Cố ý gián tiếp",
+        "C": "Vô ý do cẩu thả",
+        "D": "Vô ý do quá tự tin"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cố ý trực tiếp",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Cố ý gián tiếp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Vô ý do cẩu thả",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Vô ý do quá tự tin",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cố ý trực tiếp"
+    },
+    {
+      "id": 34,
+      "question": "Ông A tham nhũng tài sản nhà nước. Động cơ của ông A là:",
+      "options": {
+        "A": "Động cơ vụ lợi",
+        "B": "Động cơ che dấu",
+        "C": "Động cơ đê hèn",
+        "D": "Động cơ trả thù"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Động cơ vụ lợi",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Động cơ che dấu",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Động cơ đê hèn",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Động cơ trả thù",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Động cơ vụ lợi"
+    },
+    {
+      "id": 35,
+      "question": "Ông K gây thương tích cho ông H với tỷ lệ thương tật là 41%. Hành vi của ông K thuộc loại vi phạm pháp luật nào?",
+      "options": {
+        "A": "Hình sự",
+        "B": "Hành chính",
+        "C": "Dân sự",
+        "D": "Kỷ luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hình sự",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hành chính",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kỷ luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Hình sự"
+    },
+    {
+      "id": 36,
+      "question": "Công ty A vi phạm hợp đồng với công ty B. Hành vi của công ty A thuộc loại vi phạm pháp luật:",
+      "options": {
+        "A": "Hình sự",
+        "B": "Hành chính",
+        "C": "Dân sự",
+        "D": "Kỷ luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hình sự",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hành chính",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Dân sự",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Kỷ luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Dân sự"
+    },
+    {
+      "id": 37,
+      "question": "Thiệt hại nào sau đây không phải là thiệt hại về vật chất?",
+      "options": {
+        "A": "Tiền bạc",
+        "B": "Nhà cửa",
+        "C": "Danh dự",
+        "D": "Xe ô tô"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tiền bạc",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà cửa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Danh dự",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Xe ô tô",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Danh dự"
+    },
+    {
+      "id": 38,
+      "question": "Yếu tố nào sạu đây không thuộc mặt chủ quan của vi phạm pháp luật?",
+      "options": {
+        "A": "Lỗi",
+        "B": "Động cơ",
+        "C": "Hành vi",
+        "D": "Mục đích"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lỗi",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Động cơ",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hành vi",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Mục đích",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Hành vi"
+    },
+    {
+      "id": 39,
+      "question": "Trách nhiệm pháp lý nào sau đây được coi là trách nhiệm nặng nhất?",
+      "options": {
+        "A": "Trách nhiệm pháp lý",
+        "B": "Trách nhiệm hình sự",
+        "C": "Trách nhiệm dân sự",
+        "D": "Trách nhiệm hành chính"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Trách nhiệm pháp lý",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trách nhiệm hình sự",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Trách nhiệm dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trách nhiệm hành chính",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Trách nhiệm hình sự"
+    },
+    {
+      "id": 40,
+      "question": "Người bắt được gia súc của người khác thất lạc phải nuôi giữ gia súc và phải khai báo với chính quyền địa phương. Sau 6 tháng kể từ ngày nào thì người bắt được sẽ được xác lập quyền sở hữu của mình?",
+      "options": {
+        "A": "Kể từ ngày bắt được",
+        "B": "Kể từ ngày khai báo với chính quyền địa phương",
+        "C": "Sau 15 ngày Kể từ ngày bắt được",
+        "D": "Sau 15 ngày Kể từ ngày khai báo với chính quyền địa phương"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Kể từ ngày bắt được",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Kể từ ngày khai báo với chính quyền địa phương",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sau 15 ngày Kể từ ngày bắt được",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Sau 15 ngày Kể từ ngày khai báo với chính quyền địa phương",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Kể từ ngày khai báo với chính quyền địa phương"
+    },
+    {
+      "id": 41,
+      "question": "Anh X 21 tuổi phạm tôi: cướp tài sản, giết người bị tòa án có thẩm quyền tuyên phạt 28 năm tù giam. Giả sử anh Y 17 tuổi phạm có cùng hành vi phạm tội tương tự như anh X thì sẽ bị xử phạt bao nhiêu năm tù giam?",
+      "options": {
+        "A": "18 năm",
+        "B": "14 năm",
+        "C": "21 năm",
+        "D": "12 năm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "18 năm",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "14 năm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "21 năm",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "12 năm",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "18 năm"
+    },
+    {
+      "id": 42,
+      "question": "Anh K 19 tuổi phạm tôi: cướp giật, trộm cắp tài sản bị tòa án có thẩm quyền tuyên phạt tổng 28 năm tù giam. Giả sử anh S 15 tuổi phạm có cùng hành vi phạm tội tương tự như anh K thì sẽ bị xử phạt bao nhiêu năm tù giam?",
+      "options": {
+        "A": "14",
+        "B": "12",
+        "C": "13",
+        "D": "16"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "14",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "12",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "13",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "16",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "12"
+    },
+    {
+      "id": 43,
+      "question": "Việc kết hôn giữa hai người Việt Nam với nhau ở Việt Nam do cơ quan nào giải quyết:",
+      "options": {
+        "A": "Ủy ban nhân dân cấp xã",
+        "B": "Ủy ban nhân dân cấp tỉnh",
+        "C": "Ủy ban nhân dân cấp huyện",
+        "D": "Hội liên hiệp phụ nữ xã, phường, thị trấn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Ủy ban nhân dân cấp xã",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Ủy ban nhân dân cấp tỉnh",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Ủy ban nhân dân cấp huyện",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hội liên hiệp phụ nữ xã, phường, thị trấn",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Ủy ban nhân dân cấp xã"
+    },
+    {
+      "id": 44,
+      "question": "A dùng xe máy đi đánh bạc. Xe máy được coi là:",
+      "options": {
+        "A": "Khách thể",
+        "B": "Công cụ vi phạm",
+        "C": "Phương tiện vi phạm",
+        "D": "cá nhân vi phạm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khách thể",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Công cụ vi phạm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phương tiện vi phạm",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "cá nhân vi phạm",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Phương tiện vi phạm"
+    },
+    {
+      "id": 45,
+      "question": "Yếu tố nào sau đây là yếu tố bắt buộc trong cấu thành của mọi vi phạm phạm pháp luật",
+      "options": {
+        "A": "Hành vi",
+        "B": "Hậu quả",
+        "C": "Thời gian",
+        "D": "Địa điểm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Hành vi",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hậu quả",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thời gian",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Địa điểm",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Hành vi"
+    },
+    {
+      "id": 46,
+      "question": "Anh A dùng dao khống chế chị B để cướp sợi dây chuyền. Đâu là công cụ vi phạm pháp luật?",
+      "options": {
+        "A": "Con dao",
+        "B": "Sợi dây chuyền",
+        "C": "Chị B",
+        "D": "Tất cả đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Con dao",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sợi dây chuyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chị B",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều đúng",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Con dao"
+    },
+    {
+      "id": 47,
+      "question": "Anh A dùng dao khống chế chị B và chị C để cướp sợi dây chuyền. Yếu tố nào là chủ thể của vi phạm pháp luật?",
+      "options": {
+        "A": "Con dao",
+        "B": "Sợi dây chuyền",
+        "C": "Anh A",
+        "D": "Chị B"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Con dao",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sợi dây chuyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Anh A",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Chị B",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Anh A"
+    },
+    {
+      "id": 48,
+      "question": "Người nào sau đây không thuộc diện thừa kế?",
+      "options": {
+        "A": "Con nuôi của người chết",
+        "B": "Chị gái của người chết",
+        "C": "Chồng của người chết",
+        "D": "Bạn thân của người chết"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Con nuôi của người chết",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chị gái của người chết",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chồng của người chết",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Bạn thân của người chết",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Bạn thân của người chết"
+    },
+    {
+      "id": 49,
+      "question": "Anh A khởi kiện Công ty TNHH B về việc anh bị sa thải trái pháp luật. Ngành luật nào điều chỉnh quy trình giải quyết vụ việc này là:",
+      "options": {
+        "A": "Luật Lao động",
+        "B": "Luật Dân sự",
+        "C": "Luật Tố tụng dân sự",
+        "D": "Luật Thi hành án dân sự."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Luật Lao động",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Luật Dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Luật Tố tụng dân sự",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Luật Thi hành án dân sự.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Luật Lao động"
+    }
+  ]
+}

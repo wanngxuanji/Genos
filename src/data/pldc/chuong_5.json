@@ -1,0 +1,551 @@
+{
+  "chapter": 5,
+  "title": "Chương 5: Quan hệ pháp luật",
+  "total_questions": 16,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Khi tham gia một quan hệ pháp luật thì bắt buộc chủ thể tham gia quan hệ pháp luật đó phải có đủ các điều kiện cần thiết nào sau đây?",
+      "options": {
+        "A": "Có đủ tài sản",
+        "B": "Có đủ tiền và thời",
+        "C": "Có đủ năng lực pháp luật",
+        "D": "Có đủ năng lực pháp luật và năng lực hành vi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Có đủ tài sản",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Có đủ tiền và thời",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Có đủ năng lực pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Có đủ năng lực pháp luật và năng lực hành vi",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Có đủ năng lực pháp luật và năng lực hành vi"
+    },
+    {
+      "id": 2,
+      "question": "Hành vi hợp pháp là:",
+      "options": {
+        "A": "Làm đúng luật",
+        "B": "Mang lại lợi ích cho tập thể",
+        "C": "Tuy chưa đúng luật nhưng mang lại lợi ích cho tập thể",
+        "D": "Tuy làm chưa đúng luật nhưng không gây ra thiệt hại gì cả"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Làm đúng luật",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Mang lại lợi ích cho tập thể",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tuy chưa đúng luật nhưng mang lại lợi ích cho tập thể",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tuy làm chưa đúng luật nhưng không gây ra thiệt hại gì cả",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Làm đúng luật"
+    },
+    {
+      "id": 3,
+      "question": "Năng lực hành vi của chủ thể là:",
+      "options": {
+        "A": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các nghĩa vụ pháp lý",
+        "B": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các quyền và nghĩa vụ pháp lý",
+        "C": "Khả năng của chủ thể cùng với sự giúp đỡ của người khác thực hiện các quyền và nghĩa vụ pháp lý",
+        "D": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các quyền của mình"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các nghĩa vụ pháp lý",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các quyền và nghĩa vụ pháp lý",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Khả năng của chủ thể cùng với sự giúp đỡ của người khác thực hiện các quyền và nghĩa vụ pháp lý",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các quyền của mình",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Khả năng của chủ thể tự mình thực hiện một cách độc lập các quyền và nghĩa vụ pháp lý"
+    },
+    {
+      "id": 4,
+      "question": "Năng lực hành vi của cá nhân chỉ xuất hiện khi:",
+      "options": {
+        "A": "Cá nhân đủ 18 tuổi và không mắc các bệnh tâm thần",
+        "B": "Cá nhân đủ 14 tuổi và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi",
+        "C": "Cá nhân đạt đến một độ tuổi nhất định và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi",
+        "D": "Cá nhân đủ 16 tuổi và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cá nhân đủ 18 tuổi và không mắc các bệnh tâm thần",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cá nhân đủ 14 tuổi và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cá nhân đạt đến một độ tuổi nhất định và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Cá nhân đủ 16 tuổi và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cá nhân đạt đến một độ tuổi nhất định và không mắc các bệnh về tâm thần hoặc những bệnh khác làm mất khả năng nhân thức và điều khiển hành vi"
+    },
+    {
+      "id": 5,
+      "question": "Quyền của chủ thể trong quan hệ pháp luật được thể hiện:",
+      "options": {
+        "A": "Khả năng của chủ thể được thực hiện những hành vi nhất định do quy phạm pháp luật tương ứng quy định",
+        "B": "Khả năng yêu cầu cơ quan Nhà nước có thẩm quyền can thiệp, bảo vệ quyền và lợi ích hợp pháp của mình",
+        "C": "Khả năng yêu cầu các chủ thể khác tôn trọng quyền, nghĩa vụ; chấm dứt hành vi cản trở việc thực hiện quyền và nghĩa vụ",
+        "D": "Tất cả đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Khả năng của chủ thể được thực hiện những hành vi nhất định do quy phạm pháp luật tương ứng quy định",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Khả năng yêu cầu cơ quan Nhà nước có thẩm quyền can thiệp, bảo vệ quyền và lợi ích hợp pháp của mình",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Khả năng yêu cầu các chủ thể khác tôn trọng quyền, nghĩa vụ; chấm dứt hành vi cản trở việc thực hiện quyền và nghĩa vụ",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả đều đúng"
+    },
+    {
+      "id": 6,
+      "question": "Yếu tố nào sau đây là hành vi?",
+      "options": {
+        "A": "Doanh nghiệp A trốn thuế",
+        "B": "Giấc mơ",
+        "C": "Tư tưởng",
+        "D": "Suy nghĩ của con người."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Doanh nghiệp A trốn thuế",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Giấc mơ",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tư tưởng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Suy nghĩ của con người.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Doanh nghiệp A trốn thuế"
+    },
+    {
+      "id": 7,
+      "question": "Chọn ý đúng về năng lực pháp luật của cá nhân:",
+      "options": {
+        "A": "Năng lực hành vi xuất hiện trước năng lực pháp luật",
+        "B": "Năng lực pháp luật của cá nhân thông thường xuất hiện khi cá nhân sinh ra và mất đi khi cá nhân chết",
+        "C": "Năng lực pháp luật của cá nhân xuất hiện khi cá nhân sinh ra và mất đi khi cá nhân chết",
+        "D": "Năng lực pháp luật và năng lực hành vi của cá nhân cùng đồng thời xuất hiện và cùng đồng thời mất đi"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Năng lực hành vi xuất hiện trước năng lực pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Năng lực pháp luật của cá nhân thông thường xuất hiện khi cá nhân sinh ra và mất đi khi cá nhân chết",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Năng lực pháp luật của cá nhân xuất hiện khi cá nhân sinh ra và mất đi khi cá nhân chết",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Năng lực pháp luật và năng lực hành vi của cá nhân cùng đồng thời xuất hiện và cùng đồng thời mất đi",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Năng lực pháp luật của cá nhân thông thường xuất hiện khi cá nhân sinh ra và mất đi khi cá nhân chết"
+    },
+    {
+      "id": 8,
+      "question": "Thành phần của quan hệ pháp luật bao gồm:",
+      "options": {
+        "A": "Chủ thể",
+        "B": "Nội dung",
+        "C": "Khách thể",
+        "D": "Tất cả đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chủ thể",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nội dung",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Khách thể",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả đều đúng"
+    },
+    {
+      "id": 9,
+      "question": "Quan hệ pháp luật khác với những quan hệ xã hội khác ở những điểm nào?",
+      "options": {
+        "A": "Các bên chủ thể mang quyền và nghĩa vụ pháp lý",
+        "B": "Các bên chủ thể ràng buộc với nhau bởi yếu tố tình cảm",
+        "C": "Phát sinh một cách ngẫu nhiên",
+        "D": "Các bên chủ thể thực hiện hành vi một cách tự nguyện"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các bên chủ thể mang quyền và nghĩa vụ pháp lý",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Các bên chủ thể ràng buộc với nhau bởi yếu tố tình cảm",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Phát sinh một cách ngẫu nhiên",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Các bên chủ thể thực hiện hành vi một cách tự nguyện",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Các bên chủ thể mang quyền và nghĩa vụ pháp lý"
+    },
+    {
+      "id": 10,
+      "question": "Hình thức của hợp đồng mua bán hàng hóa được thiết lập bằng:",
+      "options": {
+        "A": "Lời văn, Văn bản, Hành vi cụ thể",
+        "B": "Lời nói, Văn bản, Hành vi cụ thể",
+        "C": "Hành vi cụ thể, khế ước",
+        "D": "Lời nói, Văn bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lời văn, Văn bản, Hành vi cụ thể",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lời nói, Văn bản, Hành vi cụ thể",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Hành vi cụ thể, khế ước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Lời nói, Văn bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lời nói, Văn bản, Hành vi cụ thể"
+    },
+    {
+      "id": 11,
+      "question": "Nhận định nào sau đây là đúng",
+      "options": {
+        "A": "Quan hệ pháp luật là quan hệ xã hội",
+        "B": "Quan hệ đạo đức không phải là quan hệ xã hội",
+        "C": "Quan hệ tôn giáo không phải là quan hệ xã hội.",
+        "D": "Quan hệ xã hội là quan hệ pháp luật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ pháp luật là quan hệ xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ đạo đức không phải là quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ tôn giáo không phải là quan hệ xã hội.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ xã hội là quan hệ pháp luật",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Quan hệ pháp luật là quan hệ xã hội"
+    },
+    {
+      "id": 12,
+      "question": "Quan hệ nào sau đây là quan hệ quan trọng, phổ biến, được nhà nước điều chỉnh?",
+      "options": {
+        "A": "Quan hệ đạo đức",
+        "B": "Quan hệ xã hội",
+        "C": "Quan hệ pháp luật",
+        "D": "Quan hệ tôn giáo"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ đạo đức",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ tôn giáo",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quan hệ pháp luật"
+    },
+    {
+      "id": 13,
+      "question": "Quan hệ nào sau đây được điều chỉnh bằng những quy tắc ứng xử chung thể hiện ý chí của nhà nước?",
+      "options": {
+        "A": "Quan hệ đạo đức",
+        "B": "Quan hệ xã hội",
+        "C": "Quan hệ pháp luật",
+        "D": "Quan hệ tôn giáo"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ đạo đức",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ tôn giáo",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quan hệ pháp luật"
+    },
+    {
+      "id": 14,
+      "question": "Quan hệ nào sau đây thể hiện và phản ánh mối liên hệ giữa con người với con người trong những lĩnh vực khác nhau của đời sống xã hội?",
+      "options": {
+        "A": "Quan hệ đạo đức",
+        "B": "Quan hệ pháp luật",
+        "C": "Quan hệ xã hội",
+        "D": "Quan hệ hôn nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ đạo đức",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ pháp luật",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ hôn nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quan hệ xã hội"
+    },
+    {
+      "id": 15,
+      "question": "Quan hệ nào sau đây, nếu không có, sẽ không được đảm bảo được lợi ích của các bên tham gia, hoặc lợi ích của cộng động, đòi hỏi Nhà nước phải đặt ra pháp luật để điều chỉnh các quan hệ như vậy?",
+      "options": {
+        "A": "Quan hệ đạo đức",
+        "B": "Quan hệ xã hội",
+        "C": "Quan hệ pháp luật",
+        "D": "Quan hệ tôn giáo"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quan hệ đạo đức",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quan hệ xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quan hệ pháp luật",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quan hệ tôn giáo",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Quan hệ pháp luật"
+    },
+    {
+      "id": 16,
+      "question": "Các chủ thể tham gia vào những mối quan hệ xã hội được pháp luật quy định thì phải xử sự theo cách thức của nhà nước đặt ra, là thể hiện tính chất nào của quan hệ pháp luật?",
+      "options": {
+        "A": "Tính có ý chí",
+        "B": "Tính cơ cấu chủ thể",
+        "C": "Quyền được nhà nước đảm bảo thực hiện",
+        "D": "Quyền và nghĩa vụ của các bên tham gia"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tính có ý chí",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tính cơ cấu chủ thể",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quyền được nhà nước đảm bảo thực hiện",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quyền và nghĩa vụ của các bên tham gia",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tính có ý chí"
+    }
+  ]
+}

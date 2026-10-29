@@ -1,0 +1,857 @@
+{
+  "chapter": 1,
+  "title": "Chương 1: Nhà nước và Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nhà nước xã hội chủ nghĩa đầu tiên trên thế giới ra đời ở:",
+      "options": {
+        "A": "Nga",
+        "B": "Trung Quốc",
+        "C": "Việt Nam",
+        "D": "Anh"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nga",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Trung Quốc",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Anh",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nga"
+    },
+    {
+      "id": 2,
+      "question": "Nhà nước xã hội chủ nghĩa Việt Nam ra đời sau:",
+      "options": {
+        "A": "Cách mạng tháng 8/1945",
+        "B": "Hoà bình lập lại ở miền Bắc năm 1954",
+        "C": "Hoà bình thống nhất đất nước sau ngày 30/4/1975",
+        "D": "Năm 1976"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cách mạng tháng 8/1945",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hoà bình lập lại ở miền Bắc năm 1954",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Hoà bình thống nhất đất nước sau ngày 30/4/1975",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Năm 1976",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Cách mạng tháng 8/1945"
+    },
+    {
+      "id": 3,
+      "question": "Bản chất của nhà nước Cộng hoà XHCN Việt Nam:",
+      "options": {
+        "A": "Là nhà nước dân chủ, của dân, do dân và vì dân",
+        "B": "Đề cao quyền tự do cá nhân không hạn chế",
+        "C": "Chú trọng làm bạn với các nước tư bản",
+        "D": "Đề cao chủ nghĩa tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là nhà nước dân chủ, của dân, do dân và vì dân",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Đề cao quyền tự do cá nhân không hạn chế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chú trọng làm bạn với các nước tư bản",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đề cao chủ nghĩa tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Là nhà nước dân chủ, của dân, do dân và vì dân"
+    },
+    {
+      "id": 4,
+      "question": "Nguyên tắc hoạt động của bộ máy nhà nước cộng hòa xã hội chủ nghĩa Việt Nam là:",
+      "options": {
+        "A": "Đặt dưới sự lãnh đạo của Đảng cộng sản, Tất cả quyền lực nhà nước đều thuộc về nhân dân, nhân dân tham gia đông đảo vào quản lý nhà nước, thực hiện tập trung dân chủ và tăng cường pháp chế",
+        "B": "Xây dựng nhà nước trong sạch và hiệu quả. Không ngừng tăng cường quan hệ hợp tác với các nước giàu để vay tiền, học tập kinh nghiệm phát triển đất nước",
+        "C": "Sẵn sàng làm bạn với bất cứ nước nào, không phân biệt chế độ chính trị, miễn là hai bên đều có lợi",
+        "D": "Quyền lực thuộc về giai cấp công nhân"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đặt dưới sự lãnh đạo của Đảng cộng sản, Tất cả quyền lực nhà nước đều thuộc về nhân dân, nhân dân tham gia đông đảo vào quản lý nhà nước, thực hiện tập trung dân chủ và tăng cường pháp chế",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Xây dựng nhà nước trong sạch và hiệu quả. Không ngừng tăng cường quan hệ hợp tác với các nước giàu để vay tiền, học tập kinh nghiệm phát triển đất nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Sẵn sàng làm bạn với bất cứ nước nào, không phân biệt chế độ chính trị, miễn là hai bên đều có lợi",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Quyền lực thuộc về giai cấp công nhân",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Đặt dưới sự lãnh đạo của Đảng cộng sản, Tất cả quyền lực nhà nước đều thuộc về nhân dân, nhân dân tham gia đông đảo vào quản lý nhà nước, thực hiện tập trung dân chủ và tăng cường pháp chế"
+    },
+    {
+      "id": 5,
+      "question": "Nguyên thủ quốc gia của nước CHXHCN Việt Nam là:",
+      "options": {
+        "A": "Tổng bí thư",
+        "B": "Chủ tịch nước",
+        "C": "Chủ tịch quốc hội",
+        "D": "Thủ tướng chính phủ"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tổng bí thư",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Chủ tịch nước",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Chủ tịch quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thủ tướng chính phủ",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Chủ tịch nước"
+    },
+    {
+      "id": 6,
+      "question": "Đặt ra thuế và thu thuế là:",
+      "options": {
+        "A": "Chức năng, nhiệm vụ của Chính phủ",
+        "B": "Trách nhiệm của ngành thuế",
+        "C": "Thẩm quyền của Quốc hội",
+        "D": "Một trong những đặc trưng cơ bản của Nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chức năng, nhiệm vụ của Chính phủ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Trách nhiệm của ngành thuế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thẩm quyền của Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Một trong những đặc trưng cơ bản của Nhà nước",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Một trong những đặc trưng cơ bản của Nhà nước"
+    },
+    {
+      "id": 7,
+      "question": "Đặt ra pháp luật và buộc mọi thành viên trong xã hội phải thực hiện, đó là đặc trưng của:",
+      "options": {
+        "A": "Nhà nước chiếm hữu nô lệ",
+        "B": "Nhà nước phong kiến và nhà nước tư sản",
+        "C": "Nhà nước xã hội chủ nghĩa",
+        "D": "Mọi nhà nước"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước chiếm hữu nô lệ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước phong kiến và nhà nước tư sản",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước xã hội chủ nghĩa",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Mọi nhà nước",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Mọi nhà nước"
+    },
+    {
+      "id": 8,
+      "question": "Với tư cách là cơ quan quyền lực nhà nước cao nhất, Quốc hội thực hiện chức năng cơ bản nào sau đây?",
+      "options": {
+        "A": "Chức năng lập pháp",
+        "B": "Chức năng tư pháp",
+        "C": "Chức năng hành pháp",
+        "D": "Chức năng xét xử"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chức năng lập pháp",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Chức năng tư pháp",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chức năng hành pháp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Chức năng xét xử",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Chức năng lập pháp"
+    },
+    {
+      "id": 9,
+      "question": "Nhà nước không tồn tại trong xã hội nào sau đây?",
+      "options": {
+        "A": "Xã hội chiếm hữu nô lệ",
+        "B": "Xã hội phong kiến",
+        "C": "Xã hội Cộng sản nguyên thủy",
+        "D": "Chủ nghĩa tư bản"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Xã hội chiếm hữu nô lệ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Xã hội phong kiến",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Xã hội Cộng sản nguyên thủy",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Chủ nghĩa tư bản",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Xã hội Cộng sản nguyên thủy"
+    },
+    {
+      "id": 10,
+      "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, nguyên nhân chủ yếu làm xuất hiện Nhà nước là:",
+      "options": {
+        "A": "Do nhu cầu của con người trong xã hội",
+        "B": "Do yêu cầu của hoạt động đắp đê, làm thủy lợi",
+        "C": "Do xã hội có sự phân chia giai cấp và đấu tranh giai cấp",
+        "D": "Do yêu cầu của hoạt động chống giặc ngoại xâm"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Do nhu cầu của con người trong xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Do yêu cầu của hoạt động đắp đê, làm thủy lợi",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Do xã hội có sự phân chia giai cấp và đấu tranh giai cấp",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Do yêu cầu của hoạt động chống giặc ngoại xâm",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Do xã hội có sự phân chia giai cấp và đấu tranh giai cấp"
+    },
+    {
+      "id": 11,
+      "question": "Bản chất giai cấp của Nhà nước thể hiện:",
+      "options": {
+        "A": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác",
+        "B": "Nhà nước là công cụ để bảo vệ an ninh, chính trị, trật tự, an toàn xã hội",
+        "C": "Nhà nước là một bộ máy để trấn áp những người chống đối nhân dân",
+        "D": "Là sự cưỡng chế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước là công cụ để bảo vệ an ninh, chính trị, trật tự, an toàn xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước là một bộ máy để trấn áp những người chống đối nhân dân",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Là sự cưỡng chế",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác"
+    },
+    {
+      "id": 12,
+      "question": "Bản chất xã hội của Nhà nước thể hiện:",
+      "options": {
+        "A": "Nhà nước là công cụ sắc bén nhất để quản lý mọi mặt đời sống xã hội",
+        "B": "Nhà nước là một bộ máy trấn áp đặc biệt trong tay nhà cầm quyền",
+        "C": "Nhà nước là công cụ của đa số nhân dân lao động sử dụng để trấn áp thiểu số giai cấp bóc lột",
+        "D": "Nhà nước là bộ máy nhằm bảo đảm trật tự an toàn xã hội và đảm đương các công việc chung vì sự phát triển của xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước là công cụ sắc bén nhất để quản lý mọi mặt đời sống xã hội",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước là một bộ máy trấn áp đặc biệt trong tay nhà cầm quyền",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước là công cụ của đa số nhân dân lao động sử dụng để trấn áp thiểu số giai cấp bóc lột",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước là bộ máy nhằm bảo đảm trật tự an toàn xã hội và đảm đương các công việc chung vì sự phát triển của xã hội",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Nhà nước là bộ máy nhằm bảo đảm trật tự an toàn xã hội và đảm đương các công việc chung vì sự phát triển của xã hội"
+    },
+    {
+      "id": 13,
+      "question": "Dấu hiệu nào sau đây không phải là đặc trưng cơ bản của Nhà nước?",
+      "options": {
+        "A": "Nhà nước phân chia dân cư theo lãnh thổ",
+        "B": "Nhà nước có chủ quyền Quốc gia",
+        "C": "Nhà nước điều chỉnh xã hội bằng các tập quán và đạo đức xã hội",
+        "D": "Nhà nước đặt ra thuế và tiến hành thu các loại thuế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước phân chia dân cư theo lãnh thổ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước có chủ quyền Quốc gia",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước điều chỉnh xã hội bằng các tập quán và đạo đức xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước đặt ra thuế và tiến hành thu các loại thuế",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Nhà nước điều chỉnh xã hội bằng các tập quán và đạo đức xã hội"
+    },
+    {
+      "id": 14,
+      "question": "Hình thức chính thể của Nhà nước Cộng hòa xã hội chủ nghĩa Việt Nam hiện nay là:",
+      "options": {
+        "A": "Quân chủ",
+        "B": "Cộng hòa",
+        "C": "Cộng hòa dân chủ",
+        "D": "Quân chủ hạn chế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quân chủ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cộng hòa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cộng hòa dân chủ",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quân chủ hạn chế",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cộng hòa dân chủ"
+    },
+    {
+      "id": 15,
+      "question": "Kiểu Nhà nước đầu tiên trong lịch sử là:",
+      "options": {
+        "A": "Nhà nước Tư sản",
+        "B": "Nhà nước phong kiến",
+        "C": "Nhà nước Chiếm hữu nô lệ",
+        "D": "Nhà nước Cộng sản nguyên thủy"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhà nước Tư sản",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhà nước phong kiến",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhà nước Chiếm hữu nô lệ",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Nhà nước Cộng sản nguyên thủy",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Nhà nước Chiếm hữu nô lệ"
+    },
+    {
+      "id": 16,
+      "question": "Chủ tịch nước của nước Cộng Hoà xã hội chủ nghĩa Việt Nam theo Hiến pháp 2013 có quyền:",
+      "options": {
+        "A": "Lập hiến và lập pháp",
+        "B": "Quyết định mọi vấn đề quan trọng của đất nước",
+        "C": "Thay mặt Nhà nước để quyết định mọi vấn đề đối nội và đối ngoại",
+        "D": "Thay mặt nhân dân ban hành hiến pháp"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lập hiến và lập pháp",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quyết định mọi vấn đề quan trọng của đất nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thay mặt Nhà nước để quyết định mọi vấn đề đối nội và đối ngoại",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Thay mặt nhân dân ban hành hiến pháp",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Thay mặt Nhà nước để quyết định mọi vấn đề đối nội và đối ngoại"
+    },
+    {
+      "id": 17,
+      "question": "Hội đồng nhân dân các cấp là:",
+      "options": {
+        "A": "Cơ quan hành chính Nhà nước ở địa phương",
+        "B": "Cơ quan quyền lực Nhà nước ở địa phương",
+        "C": "Cơ quan thường trực của Quốc hội",
+        "D": "Cơ quan quyền lực do Quốc hội bầu ra"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cơ quan hành chính Nhà nước ở địa phương",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cơ quan quyền lực Nhà nước ở địa phương",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cơ quan thường trực của Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cơ quan quyền lực do Quốc hội bầu ra",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cơ quan quyền lực Nhà nước ở địa phương"
+    },
+    {
+      "id": 18,
+      "question": "\"Quyền lực của nhà nước về bản chất giống quyền lực của người đứng đầu trong gia đình\" là quan điểm của học thuyết nào?",
+      "options": {
+        "A": "Thuyết bạo lực",
+        "B": "Thuyết gia trưởng",
+        "C": "Thuyết khế ước",
+        "D": "Thuyết thần học"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thuyết bạo lực",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thuyết gia trưởng",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Thuyết khế ước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thuyết thần học",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Thuyết gia trưởng"
+    },
+    {
+      "id": 19,
+      "question": "\"Nhà nước là sự ký kết hợp tác của mọi thành viên trong xã hội sống trong trạng thái tự nhiên của con người\" là quan điểm của học thuyết nào?",
+      "options": {
+        "A": "Thuyết bạo lực",
+        "B": "Thuyết gia trưởng",
+        "C": "Thuyết khế ước",
+        "D": "Thuyết thần học"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thuyết bạo lực",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thuyết gia trưởng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Thuyết khế ước",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Thuyết thần học",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Thuyết khế ước"
+    },
+    {
+      "id": 20,
+      "question": "\"Nhà nước là sự phát triển của gia đình và quyền gia trưởng\" là quan điểm của học thuyết nào?",
+      "options": {
+        "A": "Thuyết bạo lực",
+        "B": "Thuyết gia trưởng",
+        "C": "Thuyết khế ước",
+        "D": "Thuyết thần học"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thuyết bạo lực",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Thuyết gia trưởng",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Thuyết khế ước",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Thuyết thần học",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Thuyết gia trưởng"
+    },
+    {
+      "id": 21,
+      "question": "Hội đồng nhân dân chịu trách nhiệm trước:",
+      "options": {
+        "A": "Quốc hội và nhân dân",
+        "B": "Hội đồng nhân dân cấp trên và nhân dân địa phương",
+        "C": "Cơ quan quyền lực cấp trên và nhân dân địa phương",
+        "D": "Quốc hội và nhân dân địa phương"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Quốc hội và nhân dân",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hội đồng nhân dân cấp trên và nhân dân địa phương",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cơ quan quyền lực cấp trên và nhân dân địa phương",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Quốc hội và nhân dân địa phương",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Cơ quan quyền lực cấp trên và nhân dân địa phương"
+    },
+    {
+      "id": 22,
+      "question": "Ủy ban nhân dân chịu trách nhiệm trước:",
+      "options": {
+        "A": "Chính phủ",
+        "B": "Quốc hội",
+        "C": "Nhân dân địa phương",
+        "D": "Hội đồng nhân dân cùng cấp"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Chính phủ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Nhân dân địa phương",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hội đồng nhân dân cùng cấp",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Hội đồng nhân dân cùng cấp"
+    },
+    {
+      "id": 23,
+      "question": "Đảng cộng sản Việt Nam là một:",
+      "options": {
+        "A": "Tổ chức chính trị",
+        "B": "Hệ thống xã hội ở Việt Nam",
+        "C": "Tổ chức xã hội nghề nghiệp",
+        "D": "Cơ quan trong bộ máy nhà nước."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tổ chức chính trị",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Hệ thống xã hội ở Việt Nam",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tổ chức xã hội nghề nghiệp",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cơ quan trong bộ máy nhà nước.",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tổ chức chính trị"
+    },
+    {
+      "id": 24,
+      "question": "Ủy ban nhân dân phường Trảng Dài do:",
+      "options": {
+        "A": "Nhân dân phường Trảng Dài bầu ra",
+        "B": "Hội đồng Nhân dân phường Trảng Dài bầu ra",
+        "C": "Ủy ban nhân dân thành phố Biên Hòa bầu ra",
+        "D": "Ủy ban nhân dân tỉnh Đồng Nai bầu ra"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhân dân phường Trảng Dài bầu ra",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hội đồng Nhân dân phường Trảng Dài bầu ra",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Ủy ban nhân dân thành phố Biên Hòa bầu ra",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Ủy ban nhân dân tỉnh Đồng Nai bầu ra",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Hội đồng Nhân dân phường Trảng Dài bầu ra"
+    },
+    {
+      "id": 25,
+      "question": "Ủy ban nhân dân tỉnh Đồng Nai chịu trách nhiệm trước:",
+      "options": {
+        "A": "Nhân dân tỉnh Đồng Nai",
+        "B": "Nhân dân cả nước",
+        "C": "Quốc hội",
+        "D": "Hội đồng nhân dân tỉnh Đồng Nai"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Nhân dân tỉnh Đồng Nai",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Nhân dân cả nước",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Quốc hội",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Hội đồng nhân dân tỉnh Đồng Nai",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Hội đồng nhân dân tỉnh Đồng Nai"
+    }
+  ]
+}

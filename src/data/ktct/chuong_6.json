@@ -1,0 +1,882 @@
+{
+  "chapter": 6,
+  "title": "Chương 6: Công nghiệp hoá, hiện đại hoá và hội nhập kinh tế quốc tế của Việt Nam",
+  "total_questions": 25,
+  "questions": [
+    {
+      "id": 1,
+      "chapter": 6,
+      "question": "Đặc trưng cơ bản của cuộc cách mạng công nghiệp lần thứ 3",
+      "options": {
+        "A": "Sử dụng công nghệ thông tin để tự động hóa sản xuất",
+        "B": "Sử dụng năng lượng điện và động cơ điện để tạo ra các dây chuyền sản xuất có tính chuyên môn hóa",
+        "C": "Chuyển lao động sử dụng thủ công sang lao động sử dụng máy móc",
+        "D": "Cách mạng số gắn với sự phát triển của internet kết nối vạn vật"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sử dụng công nghệ thông tin để tự động hóa sản xuất",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng năng lượng điện và động cơ điện để tạo ra các dây chuyền sản xuất có tính chuyên môn hóa",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Chuyển lao động sử dụng thủ công sang lao động sử dụng máy móc",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Cách mạng số gắn với sự phát triển của internet kết nối vạn vật",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Sử dụng công nghệ thông tin để tự động hóa sản xuất"
+    },
+    {
+      "id": 2,
+      "chapter": 6,
+      "question": "Nội dung cơ bản của cuộc cách mạng công nghiệp lần thứ 4 được xác định là:",
+      "options": {
+        "A": "Về vật lý với công nghệ nội bật in 3D",
+        "B": "Về công nghệ số với những công nghệ nổi bật là Internet kết nối vạn vật, dữ liệu lớn, trí thông minh nhân tạo",
+        "C": "Về công nghệ sinh học với công nghệ nổi bật là gen và tế bào",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Về vật lý với công nghệ nội bật in 3D",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Về công nghệ số với những công nghệ nổi bật là Internet kết nối vạn vật, dữ liệu lớn, trí thông minh nhân tạo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Về công nghệ sinh học với công nghệ nổi bật là gen và tế bào",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 3,
+      "chapter": 6,
+      "question": "Nội dung cơ bản của cuộc cách mạng công nghiệp lần thứ 4 được xác định là:",
+      "options": {
+        "A": "Về vật lý với công nghệ nội bật in 3D",
+        "B": "Về công nghệ số với những công nghệ nổi bật là Internet kết nối vạn vật, dữ liệu lớn, trí thông minh nhân tạo",
+        "C": "Về công nghệ sinh học với công nghệ nổi bật là gen và tế bào",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Về vật lý với công nghệ nội bật in 3D",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Về công nghệ số với những công nghệ nổi bật là Internet kết nối vạn vật, dữ liệu lớn, trí thông minh nhân tạo",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Về công nghệ sinh học với công nghệ nổi bật là gen và tế bào",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 4,
+      "chapter": 6,
+      "question": "Đặc trưng của cuộc cách mạng công nghiệp lần thứ 2 là:",
+      "options": {
+        "A": "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất.",
+        "B": "Sử dụng năng lượng điện và động cơ điện để tạo ra dây truyền sản xuất hàng loạt.",
+        "C": "Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất.",
+        "D": "Liên kết giữa thế giới thực và ảo để thực hiện công việc thông minh, hiệu quả nhất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng năng lượng điện và động cơ điện để tạo ra dây truyền sản xuất hàng loạt.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Liên kết giữa thế giới thực và ảo để thực hiện công việc thông minh, hiệu quả nhất",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sử dụng năng lượng điện và động cơ điện để tạo ra dây truyền sản xuất hàng loạt."
+    },
+    {
+      "id": 5,
+      "chapter": 6,
+      "question": "Thực chất công nghiệp hóa ở nước ta là gì?",
+      "options": {
+        "A": "Thay lao động thủ công lạc hậu bằng lao động sử dụng máy móc có NSLĐ xã hội cao.",
+        "B": "Tái sản xuất mở rộng",
+        "C": "Cải thiện, nâng cao đời sống nhân dân",
+        "D": "Tái sản xuất giản đơn"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Thay lao động thủ công lạc hậu bằng lao động sử dụng máy móc có NSLĐ xã hội cao.",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tái sản xuất mở rộng",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Cải thiện, nâng cao đời sống nhân dân",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tái sản xuất giản đơn",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Thay lao động thủ công lạc hậu bằng lao động sử dụng máy móc có NSLĐ xã hội cao."
+    },
+    {
+      "id": 6,
+      "chapter": 6,
+      "question": "Đâu là động lực của công nghiệp hóa, hiện đại hóa?",
+      "options": {
+        "A": "Con người",
+        "B": "Mở rộng quan hệ kinh tế quốc tế",
+        "C": "Khoa học-công nghệ",
+        "D": "Hiệu quả kinh tế-xã hội"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Con người",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Mở rộng quan hệ kinh tế quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Khoa học-công nghệ",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Hiệu quả kinh tế-xã hội",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Khoa học-công nghệ"
+    },
+    {
+      "id": 7,
+      "chapter": 6,
+      "question": "Sự phát triển đại công nghiệp cơ khí ở Anh bắt đầu từ:",
+      "options": {
+        "A": "Các ngành công nghiệp nặng",
+        "B": "Các ngành công nghiệp chế tạo máy",
+        "C": "Các ngành công nghiệp nhẹ",
+        "D": "Các ngành sản xuất máy động lực"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Các ngành công nghiệp nặng",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Các ngành công nghiệp chế tạo máy",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Các ngành công nghiệp nhẹ",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Các ngành sản xuất máy động lực",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Các ngành công nghiệp nhẹ"
+    },
+    {
+      "id": 8,
+      "chapter": 6,
+      "question": "Quá trình công nghiệp hoá, hiện đại hoá làm cho cơ cấu lao động chuyển dịch, ý nào dưới đây không đúng?",
+      "options": {
+        "A": "Lao động nông nghiệp giảm tuyệt đối và tương đối, lao động công nghiệp tăng tuyệt đối và tương đối.",
+        "B": "Lao động nông nghiệp chỉ giảm tuyệt đối, lao động công nghiệp chỉ tăng tương đối.",
+        "C": "Lao động ngành dịch vụ tăng nhanh hơn các ngành sản xuất vật chất.",
+        "D": "Tỷ trọng lao động trí tuệ trong nền kinh tế tăng lên."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Lao động nông nghiệp giảm tuyệt đối và tương đối, lao động công nghiệp tăng tuyệt đối và tương đối.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Lao động nông nghiệp chỉ giảm tuyệt đối, lao động công nghiệp chỉ tăng tương đối.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Lao động ngành dịch vụ tăng nhanh hơn các ngành sản xuất vật chất.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tỷ trọng lao động trí tuệ trong nền kinh tế tăng lên.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Lao động nông nghiệp chỉ giảm tuyệt đối, lao động công nghiệp chỉ tăng tương đối."
+    },
+    {
+      "id": 9,
+      "chapter": 6,
+      "question": "Trong quan hệ kinh tế đối ngoại, viêc “đảm bảo ổn định về môi trường chính trị, kinh tế xã hội”  là:",
+      "options": {
+        "A": "Điều kiện để thu hút vốn đầu tư nước ngoài.",
+        "B": "Để phát triển kinh tế có vốn đầu tư nước ngoài và kinh tế tư bản nhà nước.",
+        "C": "Giải pháp chủ yếu nhằm mở rộng, nâng cao hiệu quả kinh tế đối ngoại.",
+        "D": "Để thu hút khách du lịch nước ngoài."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Điều kiện để thu hút vốn đầu tư nước ngoài.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Để phát triển kinh tế có vốn đầu tư nước ngoài và kinh tế tư bản nhà nước.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Giải pháp chủ yếu nhằm mở rộng, nâng cao hiệu quả kinh tế đối ngoại.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Để thu hút khách du lịch nước ngoài.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Giải pháp chủ yếu nhằm mở rộng, nâng cao hiệu quả kinh tế đối ngoại."
+    },
+    {
+      "id": 10,
+      "chapter": 6,
+      "question": "Chủ trương trong quan hệ quốc tế của Việt Nam là:",
+      "options": {
+        "A": "Việt Nam sẵn sàng là bạn của các nước XHCN",
+        "B": "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế",
+        "C": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế",
+        "D": "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Việt Nam sẵn sàng là bạn của các nước XHCN",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Việt Nam muốn là bạn, là đối tác của các nước trong cộng đồng quốc tế",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Việt Nam sẵn sàng là bạn tin cậy của các nước trong cộng đồng quốc tế",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Việt Nam sẵn sàng là bạn, là đối tác tin cậy của các nước trong cộng đồng quốc tế"
+    },
+    {
+      "id": 11,
+      "chapter": 6,
+      "question": "Trong quan hệ kinh tế đối ngoại phải dựa trên nguyên tắc bình đẳng. Hiểu thế nào là đúng về nguyên tắc bình đẳng?",
+      "options": {
+        "A": "Là quan hệ giữa các quốc gia độc lập có chủ quyền",
+        "B": "Có quyền như nhau trong tự do kinh doanh, tự chủ kinh tế.",
+        "C": "Không phân biệt nước giàu, nước nghèo.",
+        "D": "Tất cả các đáp án đều đúng"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Là quan hệ giữa các quốc gia độc lập có chủ quyền",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Có quyền như nhau trong tự do kinh doanh, tự chủ kinh tế.",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Không phân biệt nước giàu, nước nghèo.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tất cả các đáp án đều đúng",
+          "is_correct": true
+        }
+      ],
+      "answer": "D",
+      "answer_text": "Tất cả các đáp án đều đúng"
+    },
+    {
+      "id": 12,
+      "chapter": 6,
+      "question": "Đâu là tiêu chuẩn cơ bản để xác định phương án phát triển, lựa chọn dự án đầu tư và công nghệ trong quá trình công nghiệp hoá,  hiện đại hoá?",
+      "options": {
+        "A": "Tăng NSLĐ",
+        "B": "Hiệu quả kinh tế - xã hội",
+        "C": "Kết hợp kinh tế với an ninh, quốc phòng",
+        "D": "Nâng cao đời sống nhân dân."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng NSLĐ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hiệu quả kinh tế - xã hội",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Kết hợp kinh tế với an ninh, quốc phòng",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Nâng cao đời sống nhân dân.",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Hiệu quả kinh tế - xã hội"
+    },
+    {
+      "id": 13,
+      "chapter": 6,
+      "question": "Nước nào tiến hành CNH đầu tiên trên thế giới?",
+      "options": {
+        "A": "Mỹ",
+        "B": "Anh",
+        "C": "Đức",
+        "D": "Pháp"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Mỹ",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Anh",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Đức",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Pháp",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Anh"
+    },
+    {
+      "id": 14,
+      "chapter": 6,
+      "question": "Trong các luận điểm dưới đây, luận điểm nào không đúng?",
+      "options": {
+        "A": "CNH là tất yếu đối với mọi nước lạc hậu",
+        "B": "CNH là tất yếu đối với các nước nghèo, kém phát triển",
+        "C": "CNH chỉ tất yếu đối với những nước đi lên CNXH.",
+        "D": "CNH là tất yếu đối với các nước chưa có nền sản xuất lớn, hiện đại."
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "CNH là tất yếu đối với mọi nước lạc hậu",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "CNH là tất yếu đối với các nước nghèo, kém phát triển",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "CNH chỉ tất yếu đối với những nước đi lên CNXH.",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "CNH là tất yếu đối với các nước chưa có nền sản xuất lớn, hiện đại.",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "CNH chỉ tất yếu đối với những nước đi lên CNXH."
+    },
+    {
+      "id": 15,
+      "chapter": 6,
+      "question": "Chủ trương “đẩy mạnh CNH, HĐH đất nước” được đề ra ở Đại hội nào của Đảng?",
+      "options": {
+        "A": "Đại hội VI",
+        "B": "Đại hội VII",
+        "C": "Đại hội VIII",
+        "D": "Đại hội IX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đại hội VI",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đại hội VII",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Đại hội VIII",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Đại hội IX",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Đại hội VIII"
+    },
+    {
+      "id": 16,
+      "chapter": 6,
+      "question": "Đường lối CNH ở nước ta lần đầu tiên được đề ra ở Đại hội nào của Đảng?",
+      "options": {
+        "A": "Đại hội II",
+        "B": "Đại hội III",
+        "C": "Đại hội IV",
+        "D": "Đại hội V"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đại hội II",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Đại hội III",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Đại hội IV",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Đại hội V",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Đại hội III"
+    },
+    {
+      "id": 17,
+      "chapter": 6,
+      "question": "Về mặt lịch sử, cho đến nay loài người đã và đang trải qua mấy cuộc cách mạng công nghiệp?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "2",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "3",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "4",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "5",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "4"
+    },
+    {
+      "id": 18,
+      "chapter": 6,
+      "question": "Cách mạng công nghiệp lần thứ nhất diễn ra trong khoảng thời gian nào?",
+      "options": {
+        "A": "Từ giữa thế kỷ XV đến giữa thế kỷ XVI",
+        "B": "Từ giữa thế kỷ XVI đến giữa thế kỷ XVII",
+        "C": "Từ giữa thế kỷ XVIII đến giữa thế kỷ XIX",
+        "D": "Từ cuối thế kỷ XVIII đến cuối thế kỷ XIX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Từ giữa thế kỷ XV đến giữa thế kỷ XVI",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Từ giữa thế kỷ XVI đến giữa thế kỷ XVII",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Từ giữa thế kỷ XVIII đến giữa thế kỷ XIX",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Từ cuối thế kỷ XVIII đến cuối thế kỷ XIX",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Từ giữa thế kỷ XVIII đến giữa thế kỷ XIX"
+    },
+    {
+      "id": 19,
+      "chapter": 6,
+      "question": "Cách mạng công nghiệp lần thứ hai diễn ra trong khoảng thời gian nào?",
+      "options": {
+        "A": "Từ giữa thế kỷ XV đến giữa thế kỷ XVI",
+        "B": "Từ giữa thế kỷ XVI đến giữa thế kỷ XVII",
+        "C": "Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX",
+        "D": "Từ cuối thế kỷ XVIII đến cuối thế kỷ XIX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Từ giữa thế kỷ XV đến giữa thế kỷ XVI",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Từ giữa thế kỷ XVI đến giữa thế kỷ XVII",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX",
+          "is_correct": true
+        },
+        {
+          "key": "D",
+          "text": "Từ cuối thế kỷ XVIII đến cuối thế kỷ XIX",
+          "is_correct": false
+        }
+      ],
+      "answer": "C",
+      "answer_text": "Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX"
+    },
+    {
+      "id": 20,
+      "chapter": 6,
+      "question": "Cách mạng công nghiệp lần thứ ba diễn ra trong khoảng thời gian nào?",
+      "options": {
+        "A": "Từ khoảng những năm đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX",
+        "B": "Từ khoảng những năm đầu thập niên 60 của thế kỷ XIX đến cuối thế kỷ XIX",
+        "C": "Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX",
+        "D": "Từ cuối thế kỷ XVIII đến đầu thế kỷ XIX"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Từ khoảng những năm đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Từ khoảng những năm đầu thập niên 60 của thế kỷ XIX đến cuối thế kỷ XIX",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Từ cuối thế kỷ XVIII đến đầu thế kỷ XIX",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Từ khoảng những năm đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX"
+    },
+    {
+      "id": 21,
+      "chapter": 6,
+      "question": "Cách mạng công nghiệp lần thứ tư được đề cập đến lần đầu vào năm nào và ở đâu?",
+      "options": {
+        "A": "Năm 2020 , tại Nga",
+        "B": "Năm 2011, tại Đức",
+        "C": "Năm 2021, tại Việt Nam",
+        "D": "Năm 2010, tại Anh"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Năm 2020 , tại Nga",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Năm 2011, tại Đức",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Năm 2021, tại Việt Nam",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Năm 2010, tại Anh",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Năm 2011, tại Đức"
+    },
+    {
+      "id": 22,
+      "chapter": 6,
+      "question": "Đặc trưng của cuộc cách mạng công nghiệp lần thứ nhất là:",
+      "options": {
+        "A": "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất.",
+        "B": "Sử dụng năng lượng điện và động cơ điện để tạo ra dây truyền sản xuất hàng loạt.",
+        "C": "Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất.",
+        "D": "Liên kết giữa thế giới thực và ảo để thực hiện công việc thông minh, hiệu quả nhất"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Sử dụng năng lượng nước và hơi nước để cơ khí hóa sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Sử dụng năng lượng điện và động cơ điện để tạo ra dây truyền sản xuất hàng loạt.",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất.",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Liên kết giữa thế giới thực và ảo để thực hiện công việc thông minh, hiệu quả nhất",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Sử dụng năng lượng điện và động cơ điện để tạo ra dây truyền sản xuất hàng loạt."
+    },
+    {
+      "id": 23,
+      "chapter": 6,
+      "question": "Trong hệ thống cơ cấu kinh tế, cơ cấu nào là quan trọng nhất?",
+      "options": {
+        "A": "Cơ cấu vùng kinh tế",
+        "B": "Cơ cấu ngành kinh tế",
+        "C": "Cơ cấu thành phần kinh tế",
+        "D": "Kinh tế tri thức"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Cơ cấu vùng kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Cơ cấu ngành kinh tế",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Cơ cấu thành phần kinh tế",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Kinh tế tri thức",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Cơ cấu ngành kinh tế"
+    },
+    {
+      "id": 24,
+      "chapter": 6,
+      "question": "Chuyển dịch cơ cấu ngành kinh tế theo hướng hiện đại, hiệu quả chính là:",
+      "options": {
+        "A": "Tăng tỷ trọng của ngành công nghiệp và dịch vụ, giảm tỷ trọng của ngành nông nghiệp trong GDP",
+        "B": "Tăng tỷ trọng của ngành nông nghiệp và dịch vụ, giảm tỷ trọng của ngành công nghiệp trong GDP",
+        "C": "Tăng tỷ trọng của ngành nông nghiệp, giảm tỷ trọng của ngành công nghiệp và dịch vụ trong GDP",
+        "D": "Tăng tỷ trọng của ngành công nghiệp, giảm tỷ trọng của ngành nông nghiệp và dịch vụ trong GDP"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Tăng tỷ trọng của ngành công nghiệp và dịch vụ, giảm tỷ trọng của ngành nông nghiệp trong GDP",
+          "is_correct": true
+        },
+        {
+          "key": "B",
+          "text": "Tăng tỷ trọng của ngành nông nghiệp và dịch vụ, giảm tỷ trọng của ngành công nghiệp trong GDP",
+          "is_correct": false
+        },
+        {
+          "key": "C",
+          "text": "Tăng tỷ trọng của ngành nông nghiệp, giảm tỷ trọng của ngành công nghiệp và dịch vụ trong GDP",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Tăng tỷ trọng của ngành công nghiệp, giảm tỷ trọng của ngành nông nghiệp và dịch vụ trong GDP",
+          "is_correct": false
+        }
+      ],
+      "answer": "A",
+      "answer_text": "Tăng tỷ trọng của ngành công nghiệp và dịch vụ, giảm tỷ trọng của ngành nông nghiệp trong GDP"
+    },
+    {
+      "id": 25,
+      "chapter": 6,
+      "question": "Khi nói về hội nhập kinh tế quốc tế, nhận định nào sau đây là không đúng?",
+      "options": {
+        "A": "Đối với các nước đang và kém phát triển thì hội nhập kinh tế quốc tế là cơ hội để tiếp cận và sử dụng các nguồn lực bên ngoài",
+        "B": "Hội nhập kinh tế quốc tế là con đường có thể giúp cho các nước đang và kém phát triển tận dụng thời cơ phát triển, rút ngắn, thu hẹp khoảng cách với các nước tiên tiến, tuyệt nhiên không có gì bất lợi và rủi ro thách thức",
+        "C": "Hội nhập kinh tế quốc tế giúp mở cửa thị trường, thu hút vốn, thúc đẩy công nghiệp hóa, tăng tích lũy, tạo ra nhiều cơ hội việc làm mới và nâng cao thu nhập tương đối của các tầng lớp dân cư",
+        "D": "Trong hội nhập kinh tế quốc tế, chủ nghĩa tư bản hiện đại chiếm ưu thế về vốn và công nghệ, họ đang muốn thực hiện ý đồ biến quá trình toàn cầu hóa thành quá trình tự do hóa kinh tế và áp đặt chính trị"
+      },
+      "options_list": [
+        {
+          "key": "A",
+          "text": "Đối với các nước đang và kém phát triển thì hội nhập kinh tế quốc tế là cơ hội để tiếp cận và sử dụng các nguồn lực bên ngoài",
+          "is_correct": false
+        },
+        {
+          "key": "B",
+          "text": "Hội nhập kinh tế quốc tế là con đường có thể giúp cho các nước đang và kém phát triển tận dụng thời cơ phát triển, rút ngắn, thu hẹp khoảng cách với các nước tiên tiến, tuyệt nhiên không có gì bất lợi và rủi ro thách thức",
+          "is_correct": true
+        },
+        {
+          "key": "C",
+          "text": "Hội nhập kinh tế quốc tế giúp mở cửa thị trường, thu hút vốn, thúc đẩy công nghiệp hóa, tăng tích lũy, tạo ra nhiều cơ hội việc làm mới và nâng cao thu nhập tương đối của các tầng lớp dân cư",
+          "is_correct": false
+        },
+        {
+          "key": "D",
+          "text": "Trong hội nhập kinh tế quốc tế, chủ nghĩa tư bản hiện đại chiếm ưu thế về vốn và công nghệ, họ đang muốn thực hiện ý đồ biến quá trình toàn cầu hóa thành quá trình tự do hóa kinh tế và áp đặt chính trị",
+          "is_correct": false
+        }
+      ],
+      "answer": "B",
+      "answer_text": "Hội nhập kinh tế quốc tế là con đường có thể giúp cho các nước đang và kém phát triển tận dụng thời cơ phát triển, rút ngắn, thu hẹp khoảng cách với các nước tiên tiến, tuyệt nhiên không có gì bất lợi và rủi ro thách thức"
+    }
+  ]
+}
